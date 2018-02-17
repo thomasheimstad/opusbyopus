@@ -1,0 +1,20 @@
+.scrollBar {
+  position: fixed;
+  top: 5rem;
+  background-color: $action-color;
+  height: 1px;
+  border-radius: 1px;
+  transition: all .3s ease-out;
+  z-index: 4;
+}
+@media screen and (max-width: 640px){
+  .scrollBar {
+    top: 3rem;
+  }
+}
+.warning {
+  background: black;
+}
+.safe {
+  background: white;
+}

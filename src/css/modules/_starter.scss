@@ -1,0 +1,43 @@
+.starter {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  background: $black;
+  width: 100%;
+  z-index: 3;
+  h1 {
+    padding: 0.2rem 1rem;
+    font-size: 2.3rem;
+  }
+  h1, h2, p {
+    color: $secondary-font-color;
+    margin: 0;
+    font-weight: 800;
+    text-align: center;
+  }
+  div {
+    transition: $base-in-duration $base-in-timing;
+    width: 100%;
+    padding: 0.1rem 0;
+    h3, h4 {
+      margin: 0 0.2rem;
+    }
+  }
+  .pageImgBackground {
+    background-position: 90% 50%;
+    transition: 1s ease-in;
+    background-size: 23rem;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    opacity: 0.1;
+    @media screen and (max-width: 768px) {
+      background-position: 50% 10%;
+    }
+  }
+}
+@media screen and (max-width: 768px) {
+  .starter {
+    padding: 4rem 1rem 3rem;
+  }
+}

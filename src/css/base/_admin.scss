@@ -1,0 +1,16 @@
+.admin {
+  background: rgba(0,0,0,1);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#root {
+  z-index: 999;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background: $secondary-background-color;
+}

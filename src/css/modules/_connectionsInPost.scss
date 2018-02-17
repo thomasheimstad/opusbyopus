@@ -1,0 +1,57 @@
+.connectionsInPost {
+  background: $black;
+  text-align: center;
+  padding: $base-padding-y $base-padding-x;
+  color: darken($secondary-font-color, 25%);
+  h2 {
+    font-weight: 100;
+  }
+  .perPost {
+    display: flex;
+    flex-flow: wrap;
+    > a {
+      padding: 3rem 6px 0;
+      h4 {
+        padding: 0 0 1rem 0;
+      }
+      h3, h4 {
+        transition: $base-in-timing $base-in-duration;
+        font-weight: 100;
+      }
+      div {
+        height: 120px;
+        width: 120px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin: 0 auto;
+        margin-bottom: 1rem;
+        padding: 0;
+        transition: $base-in-timing $base-in-duration;
+      }
+      &:hover div{
+        box-shadow: 0 0 3px 0 $gray;
+      }
+      &:hover h4, &:hover h3 {
+        color: $white;
+      }
+    }
+  }
+}
+.controls {
+  bottom: 0;
+  width: 100%;
+  padding: 0 $base-padding-y $base-padding-x;
+  background: $black;
+  h3 {
+    transition: $base-in-duration $base-in-timing;
+    font-weight: 100;
+  }
+  div:hover {
+    h3 {
+      color: $white;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    padding: 0 $mobile-padding-x $mobile-padding-y;
+  }
+}
