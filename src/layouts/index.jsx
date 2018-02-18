@@ -54,6 +54,10 @@ export default class MainLayout extends React.Component {
     }
     return title;
   }
+  componentDidMount = () => {
+    window.scrollTo(0,1);
+  }
+    window.scrollTo(0,1);
   render() {
     const { children } = this.props;
     return (
@@ -62,6 +66,7 @@ export default class MainLayout extends React.Component {
           <title>{`${config.siteTitle} |  ${this.getLocalTitle()}`}</title>
           <meta name="description" content={config.siteDescription} />
           <meta name="google-site-verification" content={config.googleSiteVerification} />
+          <meta name="mobile-web-app-capable" content="yes" />
         </Helmet>
         <div>
           <Nav handleLangClick={((e) => this.handleLangClick(e))} showLangContent={this.state.showLangContent} lang={this.state.lang}/>
