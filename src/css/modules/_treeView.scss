@@ -8,7 +8,6 @@
   background-repeat: no-repeat;
   z-index: 1;
   overflow: hidden;
-  padding-top: 100vh;
   .backgroundScrollFade {
     height: 100%;
     width: 100%;
@@ -32,6 +31,9 @@
       background: $light-gray;
       content: '';
     }
+  }
+  > div:nth-child(2){
+    margin-top: 60rem;
   }
   .opusHandler {
     width: 100%;
