@@ -22,3 +22,17 @@
   10% { transform: translateY(0); opacity: 1; }
   100% { transform: translateY(20px); opacity: 0;}
 }
+@keyframes inOutFatso {
+  0% {
+    transform: scale(0.1);
+    background: lighten($light-gray, 5%);
+  }
+  80% {
+    transform: scale(1.8);
+    background: lighten($light-gray, 2%);
+  }
+  100% {
+    transform: scale(1.5);
+    background: $light-gray;
+  }
+}

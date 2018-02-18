@@ -4,7 +4,7 @@ title: Hjertets melodier
 opus: 5
 composedin: 1865
 date: 2017-11-25T20:04:44.484Z
-thumbnail: ./img/Fjord In Dramatic Skies.jpg
+thumbnail: ./img/FjordInDramaticSkies.jpg
 tags:
   - sang
   - piano

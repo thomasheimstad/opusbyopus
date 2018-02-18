@@ -4,7 +4,7 @@ title: Poetiske tonebilder
 opus: 3
 composedin: 1863
 date: 2017-11-25T20:04:44.484Z
-thumbnail: ./img/Bergen Colour crop.jpg
+thumbnail: ./img/BergenColourCrop.jpg
 tags:
   - sang
 description: testDest

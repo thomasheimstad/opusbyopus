@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import SoMeButtons from "../modules/SoMeButtons";
+import CollaboratorsLogo from "../modules/CollaboratorsLogo";
 
 export default class NoInfo extends Component {
   render() {
@@ -8,24 +8,30 @@ export default class NoInfo extends Component {
           <div className="blogPost">
             <div className="basePad">
               <div className="flex center column">
-              <h1>Bio</h1>
-              <h3>Bio</h3>
-              <h4>Bio</h4>
+              <h1>Grieg</h1>
+              <h3>Opus for opus</h3>
+              <h4>NRK, BFO, KODE</h4>
+              <blockquote>
+                "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." <br/>
+                "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..." - Lorem Ipsum
+              </blockquote>
               <p>
-                Icelandic/Norwegian bass Einar Stefánsson is currently studying for a BMus (Hons) degree at the prestigious Royal Northern College of Music in Manchester, UK. He has been part of Bergen National Opera’s talent programme Unge Stemmer (Young Voices) in Norway since 2016, and has taken part in numerous productions with the same company since 2010.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi dui, ultrices nec semper eget, consequat vel ipsum. Sed et diam odio. Donec lobortis mi vitae laoreet fringilla. Curabitur vel lobortis tortor. Curabitur vestibulum cursus tincidunt. In a tortor vulputate, euismod turpis et, auctor eros. Fusce vitae velit dignissim, commodo leo euismod, venenatis nisi.
               </p>
               <p>
-                Einar regularly performs with the ambitious Edvard Grieg Youth Choir, of which he has been a member since its foundation in 2013. In addition to regular coachings and concerts with their mentor choir, the professional vocal ensemble Edvard Grieg Kor, the Youth Choir has performed with international artists such as The Rolling Stones, Bergen Philharmonic Orchestra, Edward Gardner, Masaaki Suzuki and Sir Andrew Davies. Einar’s musical background and experience is broad, and although his main passion is music from the 19th Century, his musical interests span from Baroque opera and oratorio to contemporary music. Einar started his musical career playing the violin from the age of 5, among other things bringing him to play with the National Youth Orchestra in Norway, with which he toured in Canada, the United States, Russia and Norway. As a boy he joined the Bergen Boys’ Choir and later the Bergen Philharmonic Choir.
+                Donec sollicitudin est mi, vitae rutrum lectus eleifend at. Aenean dapibus ligula purus, ut efficitur ante viverra in. Morbi id leo ut risus pulvinar pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus ut felis quis tortor hendrerit dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque suscipit vehicula nisi, id tempus libero vehicula sed. Etiam urna arcu, facilisis sit amet ultrices at, sollicitudin eget velit. Donec at vulputate mi, in imperdiet dui.
               </p>
               <p>
-                Einar’s previous teachers include David Hansford and distinguished British bass-baritone Simon Kirkbride. He has also had coaching with performers such as world-renowned pianist Helmut Deutsch and Einar Steen-Nøkleberg. Since 2016 Einar has been studying with internationally acclaimed bass Matthew Best at the Royal Northern College of Music with generous support from the Waverly Fund.
+                Maecenas scelerisque tempor nibh ut lobortis. Aenean ac urna sapien. Morbi in ultricies velit. Phasellus varius ut lectus vel hendrerit. In ac pharetra ante, vel ultrices mi. Aenean dignissim magna vitae mi suscipit, vitae dignissim sapien imperdiet. Aliquam erat volutpat.
               </p>
               <p>
-                Recent highlights include performances at Bergen National Opera’s opera festival ‘Mimì Goes Glamping’ in Norway, as a soloist in Ariel Ramirez’ ‘Misa Criolla’, and appearances as a pop-up opera artist during the World Cycling Championship in Bergen, Norway.
+                Nam tempus tristique eros vel aliquet. Pellentesque facilisis pharetra ipsum in facilisis. Fusce id dolor ligula. Aenean tincidunt tincidunt odio in venenatis. Morbi condimentum ultrices elit eget dictum. Cras vulputate nunc nisl, sed ultrices nisi rutrum et. Curabitur eu est rhoncus, condimentum orci et, laoreet velit. Vivamus consequat justo nulla, a scelerisque mauris sagittis quis. Proin iaculis massa mauris, sed iaculis justo rutrum vitae.
+
+                Nulla non quam pharetra, rutrum ante id, auctor turpis. Duis dignissim bibendum sem at tincidunt. Nullam at finibus nulla, varius suscipit massa. Nullam pretium est felis, nec suscipit ligula maximus sed. Integer sed sodales odio. Integer faucibus blandit orci at scelerisque. Nunc tempor ligula in velit posuere, sed luctus mi euismod.
               </p>
               <div className="flex column center">
-                <ul><li><h2>Contact information</h2></li></ul>
-                <SoMeButtons />
+                <h2>Et samarbeid mellom</h2>
+                <CollaboratorsLogo />
               </div>
               </div>
             </div>

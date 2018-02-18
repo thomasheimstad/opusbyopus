@@ -4,7 +4,7 @@ title: Seks digte
 opus: 4
 composedin: 1864
 date: 2017-11-26T16:20:29.979Z
-thumbnail: ./img/Edvard And Nina.jpg
+thumbnail: ./img/EdvardAndNina.jpg
 tags:
   - piano
 description: testDest

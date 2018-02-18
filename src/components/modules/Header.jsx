@@ -5,7 +5,7 @@ export default class Header extends React.Component {
     return(
       <div>
         <BackgroundScrollFade id="treeHider" percentage={this.props.percentage} />
-        <div className="verticalLine"><div style={{height: this.props.percentage + "%"}}></div></div>
+        <div className="verticalLine"><div></div></div>
       </div>
     )
   }

@@ -22,6 +22,7 @@
     height: 100%;
     width: 100%;
     > div {
+      height: 100%;
       margin-left: 660px;
       width: 1px;
       background: $light-gray;
@@ -52,27 +53,16 @@
         margin: 0;
         padding: 0;
         margin-right: 3rem;
+        opacity: 0;
         transition: 0.225s ease-out;
-      }
-      @keyframes inOutFatso {
-        0% {
-          transform: scale(0);
-          background: lighten($light-gray, 5%);
-        }
-        80% {
-          transform: scale(1.8);
-          background: lighten($light-gray, 2%);
-        }
-        100% {
-          transform: scale(1.5);
-          background: $light-gray;
-        }
+        transform: scale(0.1);
+        background: $secondary-font-color;
       }
       .fatso {
         background: $secondary-font-color;
-        animation: inOutFatso;
-        animation-duration: 0.225s;
+        -webkit-transform: scale(1.5);
         transform: scale(1.5);
+        opacity: 1;
       }
       div {
         transition: $base-in-duration $base-in-timing;
@@ -119,7 +109,7 @@
       background-repeat: repeat-y;
     }
     .verticalLine {
-      background: rgba(0,0,0,0.5);
+      background: rgba(0,0,0,0.7);
       > div {
         margin-left: 320px;
       }
@@ -142,6 +132,7 @@
   @media screen and (max-width: 678px) {
     .verticalLine {
       > div {
+        height: 125%;
         margin-left: 165px;
       }
     }

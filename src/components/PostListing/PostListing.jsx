@@ -14,8 +14,9 @@ export default class PostListing extends React.Component {
     let h = document.documentElement,
         b = document.body,
         st = 'scrollTop',
-        sh = 'scrollHeight';
-    let percent = (h[st]||b[st]) / ((h[sh]||b[sh]) - h.clientHeight) * 100;
+        sh = 'scrollHeight',
+        ih = window.innerHeight;
+    let percent = (h[st]||b[st]) / ((h[sh]||b[sh]) - (ih || h.clientHeight)) * 100;
     let distance = document.getElementById(`treeHider`).getBoundingClientRect().top;
     this.setState({
       percentage: percent,

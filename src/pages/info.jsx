@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Helmet from "react-helmet";
 import NoInfo from "../components/Info/NoInfo";
 import Hero from "../components/modules/Hero";
-import PageImg from "../posts/img/GriegBackgroundText.jpg";
 import config from "../../data/SiteConfig";
 
 export default class InfoSide extends Component {
@@ -10,7 +9,7 @@ export default class InfoSide extends Component {
     return (
       <div className="info post flex center column">
         <Helmet title={`Info | ${config.siteTitle}`} />
-        <Hero id="aboutID" src={this.props.data.file.childImageSharp.sizes} height="600" position="30% 30%" fit="cover"/>
+        <Hero id="aboutID" src={this.props.data.file.childImageSharp.sizes} height="600" position="0% 50%" fit="cover"/>
         <NoInfo />
       </div>
     );
@@ -18,7 +17,7 @@ export default class InfoSide extends Component {
 }
 export const query = graphql`
   query GatsbyImageSampleQueryAbout {
-    file(relativePath: { regex: "/GriegBackgroundText/"  }) {
+    file(relativePath: { regex: "/GriegBackground/"  }) {
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.

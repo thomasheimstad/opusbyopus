@@ -4,12 +4,15 @@ export default class ToolTipBottom extends React.Component {
   state = {
     opacity: 0
   }
-  componentDidMount = () => {
+  setTimer = () => {
     setTimeout(() =>
       this.setState({
         opacity: 1
-      }),3000
+      }),1500
     )
+  }
+  componentDidMount = () => {
+    this.setTimer();
   }
   render = () => {
     let styles = {
