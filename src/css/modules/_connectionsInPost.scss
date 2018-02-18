@@ -1,8 +1,10 @@
 .connectionsInPost {
+  border-bottom: 0;
   background: $black;
   text-align: center;
   padding: $base-padding-y $base-padding-x;
   color: darken($secondary-font-color, 25%);
+  margin-bottom: -1px;
   h2 {
     font-weight: 100;
   }
@@ -38,6 +40,7 @@
   }
 }
 .controls {
+  border-top: 1px solid $black;
   bottom: 0;
   width: 100%;
   padding: 0 $base-padding-y $base-padding-x;

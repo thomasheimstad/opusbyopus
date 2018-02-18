@@ -1,22 +1,21 @@
 import React, { Component } from "react";
 import Helmet from "react-helmet";
-import About from "../components/About/About";
+import NoInfo from "../components/Info/NoInfo";
 import Hero from "../components/modules/Hero";
 import PageImg from "../posts/img/GriegBackgroundText.jpg";
 import config from "../../data/SiteConfig";
 
-class AboutPage extends Component {
+export default class InfoSide extends Component {
   render() {
     return (
-      <div className="about flex center column">
-        <Helmet title={`About | ${config.siteTitle}`} />
+      <div className="info post flex center column">
+        <Helmet title={`Info | ${config.siteTitle}`} />
         <Hero id="aboutID" src={this.props.data.file.childImageSharp.sizes} height="600" position="30% 30%" fit="cover"/>
-        <About />
+        <NoInfo />
       </div>
     );
   }
 }
-export default AboutPage;
 export const query = graphql`
   query GatsbyImageSampleQueryAbout {
     file(relativePath: { regex: "/GriegBackgroundText/"  }) {

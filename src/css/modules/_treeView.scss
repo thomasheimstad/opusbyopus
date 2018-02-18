@@ -13,10 +13,6 @@
     width: 100%;
     position: absolute;
     bottom: 0;
-    -o-transform: translateZ(0);
-    -moz-transform: translateZ(0);
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
     background-attachment: fixed;
     background-size: cover;
     transition: 0;
@@ -33,7 +29,7 @@
     }
   }
   > div:nth-child(2){
-    margin-top: 60rem;
+    margin-top: 0rem;
   }
   .opusHandler {
     width: 100%;
@@ -56,10 +52,26 @@
         margin: 0;
         padding: 0;
         margin-right: 3rem;
-        transition: 0.20s ease-out;
+        transition: 0.225s ease-out;
+      }
+      @keyframes inOutFatso {
+        0% {
+          transform: scale(0);
+          background: lighten($light-gray, 5%);
+        }
+        80% {
+          transform: scale(1.8);
+          background: lighten($light-gray, 2%);
+        }
+        100% {
+          transform: scale(1.5);
+          background: $light-gray;
+        }
       }
       .fatso {
         background: $secondary-font-color;
+        animation: inOutFatso;
+        animation-duration: 0.225s;
         transform: scale(1.5);
       }
       div {
@@ -96,8 +108,18 @@
     }
   }
   @media screen and (max-width: 868px) {
-    background-position: -12rem 4rem;
+    color: $secondary-font-color;
+    background-attachment: scroll;
+    background-size: contain;
+    background-position: center 0;
+    background-repeat: repeat-y;
+    .backgroundScrollFade {
+      background-attachment: scroll;
+      background-size: contain;
+      background-repeat: repeat-y;
+    }
     .verticalLine {
+      background: rgba(0,0,0,0.5);
       > div {
         margin-left: 320px;
       }
@@ -111,35 +133,42 @@
         span {
           margin-right: 1rem;
         }
+        &:hover div{
+          border-bottom: 1px solid $secondary-font-color;
+        }
       }
     }
   }
   @media screen and (max-width: 678px) {
-    background-position: center 4rem;
-    color: $secondary-font-color;
     .verticalLine {
-      background: rgba(0,0,0,0.5);
       > div {
-        margin-left: 135px;
+        margin-left: 165px;
       }
     }
     .opusHandler {
-      padding-left: 120px;
+      padding-left: 150px;
       div {
         flex-wrap: wrap;
         h3 {font-size: 80%; }
       }
       a {
-        &:hover div{
-          border-bottom: 1px solid $secondary-font-color;
-        }
         span {
-          min-width: 30px;
-          max-width: 30px;
-          min-height: 30px;
-          max-height: 30px;
+          min-width: 31px;
+          max-width: 31px;
+          min-height: 31px;
+          max-height: 31px;
         }
       }
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .verticalLine {
+      > div {
+        margin-left: 105px;
+      }
+    }
+    .opusHandler {
+      padding-left: 90px;
     }
   }
 }
