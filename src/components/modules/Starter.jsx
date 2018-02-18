@@ -18,7 +18,7 @@ export default class Starter extends React.Component {
       backgroundImage: `url(${PageImg})`,
     }
     return(
-      <div className="flex starter column center basePad">
+      <div className="starter flex column center basePad">
         <div style={transformStyle}>
           {this.props.children}
         </div>

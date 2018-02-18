@@ -1,6 +1,16 @@
+#___gatsby {
+  height: 100%;
+  > div {
+    height: 100%;
+    > div {
+      height: 100%;
+      .index-container {
+        height: 100%;
+      }
+    }
+  }
+}
 .starter {
-  position: absolute;
-  top: 0;
   height: 100%;
   background: $black;
   width: 100%;
