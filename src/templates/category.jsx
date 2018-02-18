@@ -3,14 +3,14 @@ import Helmet from "react-helmet";
 import PostListing from "../components/PostListing/PostListing";
 import Starter from "../components/modules/Starter";
 import config from "../../data/SiteConfig";
-import Tree from '../posts/img/Tree.png';
+import GriegMFM from '../posts/img/GriegMFM.png';
 
 export default class CategoryTemplate extends React.Component {
   render() {
     const category = this.props.pathContext.category;
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <div className="category-container">
+      <div className="index-container">
         <Helmet
           title={`Posts in category "${category}" | ${config.siteTitle}`}
         />
@@ -18,7 +18,7 @@ export default class CategoryTemplate extends React.Component {
           <h1>MEDVIRKENDE ARTISTER</h1>
           <h2>{config.siteTitle}</h2>
         </Starter>
-        <PostListing postEdges={postEdges} view="treeView" categories={category} img={Tree}/>
+        <PostListing postEdges={postEdges} view="treeView" categories={category} img={GriegMFM}/>
       </div>
     );
   }
