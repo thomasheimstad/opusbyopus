@@ -6,6 +6,7 @@ thumbnail: ../img/Einar3.jpg
 tags:
   - pianist
 description: Testdescription
+medialink: "https://www.youtube.com/embed/qBOJDTvG0DQ"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas rhoncus sapien sit amet nibh rhoncus, ac lobortis ex imperdiet. Duis mollis leo odio. Aenean cursus magna tortor, at facilisis nulla tristique sit amet. In hac habitasse platea dictumst. Sed lobortis est et sollicitudin tristique. Cras vel neque lorem. In efficitur orci semper eros placerat, vitae euismod neque cursus. Pellentesque ipsum lorem, porta quis mi et, vehicula elementum ante. Maecenas augue neque, iaculis quis sapien id, aliquet tincidunt lectus. Maecenas blandit magna eget urna sollicitudin tincidunt. Cras elementum metus odio, quis molestie nunc convallis a. Curabitur condimentum sapien molestie nisi fringilla vestibulum. Sed aliquam nisi nec mauris pulvinar pharetra. Curabitur finibus eget metus vitae consectetur.
 

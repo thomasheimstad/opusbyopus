@@ -8,6 +8,7 @@ import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import Hero from "../components/modules/Hero";
 import Controls from "../components/modules/Controls";
+import Media from "../components/modules/Media";
 import ConnectionsInPost from "../components/modules/ConnectionsInPost";
 
 export default class PostTemplate extends React.Component {
@@ -71,6 +72,7 @@ export default class PostTemplate extends React.Component {
               <h4>{post.tags}</h4>
             </div>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+            { post.medialink ? (<div className="mediaView"><Media title={post.title} medialink={post.medialink} /></div>) : ''}
             <div className="post-meta">
               <PostTags tags={post.tags} />
               {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
@@ -112,6 +114,7 @@ export const pageQuery = graphql`
         title
         opus
         artists
+        medialink
         composedin
         date
         category
@@ -132,7 +135,7 @@ export const pageQuery = graphql`
             tags
             thumbnail {
               childImageSharp {
-                sizes(maxWidth: 1920, maxHeight: 1920) {
+                sizes(maxWidth: 400, maxHeight: 400) {
                   ...GatsbyImageSharpSizes
                 }
               }
@@ -154,7 +157,7 @@ export const pageQuery = graphql`
             opus
             thumbnail {
               childImageSharp {
-                sizes(maxWidth: 1920, maxHeight: 1920) {
+                sizes(maxWidth: 400, maxHeight: 400) {
                   ...GatsbyImageSharpSizes
                 }
               }
