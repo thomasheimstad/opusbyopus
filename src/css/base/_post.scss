@@ -4,6 +4,14 @@
   a:hover {
     color: $action-color;
   }
+  p {
+    a {
+      color: $action-color;
+      &:hover {
+        color: darken($action-color, 20%);
+      }
+    }
+  }
   .postContent {
        h1, h3, h4 {
         margin: 0;

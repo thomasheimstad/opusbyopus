@@ -18,6 +18,10 @@
     cursor: pointer;
     margin-bottom: 0;
     text-align: center;
+    transition: $base-in-timing $base-in-duration;
+    &:hover {
+      color: darken($gray, 20%);
+    }
   }
   .showLang {
     max-height: 200px;
