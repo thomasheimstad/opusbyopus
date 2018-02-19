@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Helmet from "react-helmet";
 import NoInfo from "../components/Info/NoInfo";
 import Hero from "../components/modules/Hero";
+import GriegBackground from "../posts/img/GriegBackground.png";
 import config from "../../data/SiteConfig";
 
 export default class InfoSide extends Component {

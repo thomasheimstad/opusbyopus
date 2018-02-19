@@ -12,10 +12,10 @@ export default class CategoryTemplate extends React.Component {
     return (
       <div className="index-container">
         <Helmet
-          title={`Posts in category "${category}" | ${config.siteTitle}`}
+          title={`Poster i category "${category}" | ${config.siteTitle}`}
         />
         <Starter>
-          <h1>MEDVIRKENDE ARTISTER</h1>
+          <h1>{category === "opus" ? "OPUSLISTEN" : "MEDVIRKENDE ARTISTER"}</h1>
           <h2>{config.siteTitle}</h2>
         </Starter>
         <PostListing postEdges={postEdges} view="treeView" categories={category} img={GriegMFM}/>

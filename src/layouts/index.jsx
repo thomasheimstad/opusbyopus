@@ -35,19 +35,19 @@ export default class MainLayout extends React.Component {
       title = "Home";
     } else if (currentPath === "tags/") {
       title = "Tags";
-    } else if (currentPath === "categories/") {
-      title = "Categories";
-    } else if (currentPath === "about/") {
-      title = "About";
+    } else if (currentPath === "kategorier/") {
+      title = "Kategorier";
+    } else if (currentPath === "info/") {
+      title = "Info";
     } else if (currentPath.indexOf("tags/")) {
       const tag = currentPath
         .replace("tags/", "")
         .replace("/", "")
         .replace("-", " ");
       title = `Tagged in ${capitalize(tag)}`;
-    } else if (currentPath.indexOf("categories/")) {
+    } else if (currentPath.indexOf("kategorier/")) {
       const category = currentPath
-        .replace("categories/", "")
+        .replace("kategorier/", "")
         .replace("/", "")
         .replace("-", " ");
       title = `${capitalize(category)}`;
