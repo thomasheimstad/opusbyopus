@@ -8,6 +8,12 @@
   background-repeat: no-repeat;
   z-index: 1;
   overflow: hidden;
+  @media screen\0 {
+    background-attachment: scroll;
+  }
+  @media screen\9 {
+    background-attachment: scroll;
+  }
   .backgroundScrollFade {
     height: 100%;
     width: 100%;
@@ -16,6 +22,12 @@
     background-attachment: fixed;
     background-size: cover;
     transition: 0;
+    @media screen\0 {
+      background-attachment: scroll;
+    }
+    @media screen\9 {
+      background-attachment: scroll;
+    }
   }
   .verticalLine {
     position: absolute;
