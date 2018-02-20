@@ -8,11 +8,20 @@
   background-repeat: no-repeat;
   z-index: 1;
   overflow: hidden;
-  @media screen\0 {
+  @media screen\0, @media screen\9 {
     background-attachment: scroll;
-  }
-  @media screen\9 {
-    background-attachment: scroll;
+    color: $secondary-font-color;
+    background-size: contain;
+    background-position: center 0;
+    background-repeat: repeat-y;
+    .backgroundScrollFade {
+      background-attachment: scroll;
+      background-size: contain;
+      background-repeat: repeat-y;
+    }
+    .verticalLine {
+      background: rgba(0,10,25,0.7);
+    }
   }
   .backgroundScrollFade {
     height: 100%;
