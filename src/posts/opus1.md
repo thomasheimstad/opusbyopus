@@ -4,7 +4,7 @@ title: Fire pianostykker
 opus: 1
 composedin: 1861
 date: 2017-12-04T12:28:12.048Z
-thumbnail: ./img/THWinter1.jpg
+thumbnail: ./img/room1.jpg
 tags:
   - piano
 description: testDest
