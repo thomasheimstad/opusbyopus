@@ -10,9 +10,7 @@ collections:
   - name: "opus" # Used in routes, e.g., /admin/collections/blog
     label: "Opus" # Used in the UI
     folder: "src/posts" # The path to the folder where the documents are stored
-    filter:
-      field: category
-      value: opus
+    filter: {field: "category", value: "opus"}
     create: true # Allow users to create new documents in this collection
     delete: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -27,10 +25,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "artists" # Used in routes, e.g., /admin/collections/blog
     label: "Artists" # Used in the UI
-    folder: "src/posts/artists" # The path to the folder where the documents are stored
-    filter:
-      field: category
-      value: artister
+    folder: "src/posts/artister" # The path to the folder where the documents are stored
+    filter: {field: "category", value: "artister"}
     create: true # Allow users to create new documents in this collection
     delete: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
