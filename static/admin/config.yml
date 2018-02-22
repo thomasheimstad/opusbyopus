@@ -17,7 +17,7 @@ collections:
     delete: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Category", name: "category", widget: "hidden", default: "opus"}
+      - {label: "Kategori", name: "category", widget: "hidden", default: "opus"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Opusnr.", name: "opus", widget: "string"}
       - {label: "Composed in year: ", name: "composedIn", widget: "string"}
