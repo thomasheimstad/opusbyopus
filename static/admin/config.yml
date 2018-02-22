@@ -11,14 +11,15 @@ collections:
     label: "Opus" # Used in the UI
     folder: "src/posts" # The path to the folder where the documents are stored
     filter: {field: "category", value: "opus"}
-    create: true # Allow users to create new documents in this collection
+    extension: md
+    create: true
     delete: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Kategori", name: "category", widget: "hidden", default: "opus"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Opusnr.", name: "opus", widget: "string"}
-      - {label: "Composed in year: ", name: "composedIn", widget: "string"}
+      - {label: "Composed in year: ", name: "composedin", widget: "string"}
       - {label: "Kort beskrivelse", name: "description", widget: "text"}
       - {label: "Image", name: "thumbnail", widget: "string"}
       - {label: "Instruments", name: "tags", widget: list, default: ['piano', 'sang']}
@@ -27,7 +28,8 @@ collections:
     label: "Artists" # Used in the UI
     folder: "src/posts/artister" # The path to the folder where the documents are stored
     filter: {field: "category", value: "artister"}
-    create: true # Allow users to create new documents in this collection
+    extension: md
+    create: true
     delete: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
