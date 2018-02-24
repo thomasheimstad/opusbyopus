@@ -11,7 +11,7 @@ export default class TagTemplate extends React.Component {
     const tag = this.props.pathContext.tag;
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <div className="index-container">
+      <div className="index-container" style={{height: "100%"}}>
         <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} />
         <Starter>
           <h1>INSTRUMENT:</h1>

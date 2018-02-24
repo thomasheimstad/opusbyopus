@@ -67,7 +67,7 @@ export default class MainLayout extends React.Component {
           <meta name="google-site-verification" content={config.googleSiteVerification} />
           <meta name="mobile-web-app-capable" content="yes" />
         </Helmet>
-        <div>
+        <div style={{height: "100%"}}>
           <Nav handleLangClick={((e) => this.handleLangClick(e))} showLangContent={this.state.showLangContent} lang={this.state.lang}/>
           {children()}
         </div>
