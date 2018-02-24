@@ -2,6 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import PostListing from "../components/PostListing/PostListing";
 import Starter from "../components/modules/Starter";
+import ToolTipBottom from '../components/modules/ToolTipBottom';
 import config from "../../data/SiteConfig";
 import GriegMFM from '../posts/img/GriegMFM.png';
 
@@ -18,6 +19,7 @@ export default class CategoryTemplate extends React.Component {
           <h1>{category === "opus" ? "OPUSLISTEN" : "MEDVIRKENDE ARTISTER"}</h1>
           <h2>{config.siteTitle}</h2>
         </Starter>
+        <ToolTipBottom anchorId="treeView" scrollSpeed={1000} />
         <PostListing postEdges={postEdges} view="treeView" categories={category} img={GriegMFM}/>
       </div>
     );

@@ -2,6 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import PostListing from "../components/PostListing/PostListing";
 import Starter from "../components/modules/Starter";
+import ToolTipBottom from '../components/modules/ToolTipBottom';
 import config from "../../data/SiteConfig";
 import GriegMFM from '../posts/img/GriegMFM.png';
 
@@ -16,6 +17,7 @@ export default class TagTemplate extends React.Component {
           <h1>INSTRUMENT:</h1>
           <h2>{tag}</h2>
         </Starter>
+        <ToolTipBottom anchorId="treeView" scrollSpeed={1000} />
         <PostListing postEdges={postEdges} view="treeView" tags={tag} img={GriegMFM} title={`Posts tagged as "${tag}"`} />
       </div>
     );
