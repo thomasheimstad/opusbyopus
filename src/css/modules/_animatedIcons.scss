@@ -16,6 +16,15 @@
   border-radius: 20px;
   opacity: 0.67;
   box-sizing: content-box;
+  transition: $base-in-duration $base-in-timing;
+  &:hover {
+    border-color: $white;
+    cursor: pointer;
+    background: $white;
+    .scrollbutton {
+      background: $black;
+    }
+  }
 }
 @keyframes mouseScroll {
   0% { opacity: 0; }

@@ -84,7 +84,7 @@ export default class PostListing extends React.Component {
     let checkView = (allPost) => {
       if (this.state.view == "treeView") {
         return (
-          <div className={`${this.state.view}`} style={{backgroundImage: "url(" + this.props.img + ")"}} >
+          <div id={this.state.view} className={`${this.state.view}`} style={{backgroundImage: "url(" + this.props.img + ")"}} >
             <Header percentage={this.state.percentage} />
               {/* Your post list here. */
               allPost.map(post =>
@@ -96,7 +96,7 @@ export default class PostListing extends React.Component {
         )
       } else {
         return (
-          <div className="flex center">
+          <div className="flex center" id={this.state.view}>
             {/* Your post list here. */
             allPost.map(post =>
               <div key={post.title} >

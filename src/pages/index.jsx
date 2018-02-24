@@ -7,7 +7,7 @@ import ToolTipBottom from '../components/modules/ToolTipBottom';
 import PostListing from "../components/PostListing/PostListing";
 import FadeInWrapper from "../components/modules/FadeInWrapper"
 import GriegMFM from '../posts/img/GriegMFM.png';
-import PageImg from  '../posts/img/GriegBackgroundText.jpg';
+import PageImg from  '../posts/img/GriegBackground.jpg';
 
 class Index extends React.Component {
   render() {
@@ -20,11 +20,7 @@ class Index extends React.Component {
           <h1>EDVARD GRIEG</h1>
           <h2>OPUS FOR OPUS</h2>
         </Starter>
-        <ToolTipBottom>
-          <div className="mouse">
-            <div className="scrollbutton"></div>
-          </div>
-        </ToolTipBottom>
+        <ToolTipBottom anchorId="treeView" scrollSpeed={1000} />
         <PostListing postEdges={postEdges} view="treeView" title="Opus by Opus" img={GriegMFM}/>
       </div>
     );
@@ -67,7 +63,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    file(relativePath: { regex: "/GriegBackgroundText/"  }) {
+    file(relativePath: { regex: "/GriegBackground/"  }) {
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.
