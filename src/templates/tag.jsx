@@ -7,11 +7,19 @@ import config from "../../data/SiteConfig";
 import GriegMFM from '../posts/img/GriegMFM.png';
 
 export default class TagTemplate extends React.Component {
+  state = {
+    classSet: "index-container"
+  }
+  componentDidMount = () => {
+    this.setState({
+      classSet: "index-container"
+    })
+  }
   render() {
     const tag = this.props.pathContext.tag;
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <div className="index-container" style={{height: "100%"}}>
+      <div className={`${this.state.classSet}`} style={{height: "100%"}}>
         <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} />
         <Starter>
           <h1>INSTRUMENT:</h1>
