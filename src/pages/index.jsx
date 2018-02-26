@@ -34,7 +34,7 @@ export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       limit: 74
-      sort: { fields: [frontmatter___opus], order: ASC }
+      sort: { fields: [frontmatter___title], order: ASC }
       filter: { frontmatter: { category: { eq: "opus"} } }
     ) {
       edges {
@@ -46,7 +46,7 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
-            opus
+            workname
             composedin
             description
             tags

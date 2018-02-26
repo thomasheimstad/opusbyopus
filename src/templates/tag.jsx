@@ -20,7 +20,7 @@ export default class TagTemplate extends React.Component {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
       <div className={`${this.state.classSet}`} style={{height: "100%"}}>
-        <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} />
+        <Helmet title={`Merket med "${tag}" | ${config.siteTitle}`} />
         <Starter>
           <h1>INSTRUMENT:</h1>
           <h2>{tag}</h2>
@@ -37,7 +37,7 @@ export const pageQuery = graphql`
   query TagPage($tag: String) {
     allMarkdownRemark(
       limit: 1000
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___title], order: ASC }
       filter: { frontmatter: { tags: { in: [$tag] } } }
     ) {
       edges {
@@ -49,7 +49,7 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
-            opus
+            workname
             composedin
             tags
             date

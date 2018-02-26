@@ -12,9 +12,6 @@ import Media from "../components/modules/Media";
 import ConnectionsInPost from "../components/modules/ConnectionsInPost";
 
 export default class PostTemplate extends React.Component {
-  consolez = (ez) => {
-    console.log(ez)
-  }
   formatDate = (date) => {
     let monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
     "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
@@ -45,8 +42,8 @@ export default class PostTemplate extends React.Component {
           <Hero id={post.title} src={post.thumbnail.childImageSharp.sizes} height="400"/>
           <div className="basePad">
             <div className="flex center column">
-              <h1>OPUS {post.opus}</h1>
-              <h3>{post.title}</h3>
+              <h1>OPUS {post.title}</h1>
+              <h3>{post.workname}</h3>
               <h4>{post.composedin}</h4>
             </div>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
@@ -87,7 +84,7 @@ export default class PostTemplate extends React.Component {
     return (
       <div className="post">
         <Helmet>
-          <title>{`${post.title} | ${config.siteTitle}`}</title>
+          <title>{post.category == "opus" ? `Op. ${post.title} | ${config.siteTitle}` : `${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
         {/*<SEO postPath={slug} postNode={postNode} postSEO />*/}
         <div className="postContent flex center column">
@@ -112,7 +109,7 @@ export const pageQuery = graphql`
       id
       frontmatter {
         title
-        opus
+        workname
         artists
         medialink
         composedin
@@ -154,7 +151,7 @@ export const pageQuery = graphql`
         opuses {
           frontmatter {
             title
-            opus
+            workname
             thumbnail {
               childImageSharp {
                 sizes(maxWidth: 400, maxHeight: 400) {

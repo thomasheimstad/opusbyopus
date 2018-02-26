@@ -1,7 +1,7 @@
 ---
 category: opus
-title: Seks digte
-opus: 4
+workname: Seks digte
+title: "4"
 composedin: 1864
 date: 2017-11-26T16:20:29.979Z
 thumbnail: ./img/EdvardAndNina.jpg

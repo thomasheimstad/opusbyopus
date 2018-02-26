@@ -13,7 +13,7 @@ export default class CategoryTemplate extends React.Component {
     return (
       <div className="index-container">
         <Helmet
-          title={`Poster i category "${category}" | ${config.siteTitle}`}
+          title={`Kategori "${category}" | ${config.siteTitle}`}
         />
         <Starter>
           <h1>{category === "opus" ? "OPUSLISTEN" : "MEDVIRKENDE ARTISTER"}</h1>
@@ -31,7 +31,7 @@ export const pageQuery = graphql`
   query CategoryPage($category: String) {
     allMarkdownRemark(
       limit: 1000
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___title], order: ASC }
       filter: { frontmatter: { category: { eq: $category } } }
     ) {
       totalCount
@@ -44,7 +44,7 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
-            opus
+            workname
             composedin
             category
             tags

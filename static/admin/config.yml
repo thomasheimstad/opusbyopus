@@ -14,16 +14,16 @@ collections:
     extension: md
     create: true
     delete: true
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "opus{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Kategori", name: "category", widget: "hidden", default: "opus"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Opusnr.", name: "opus", widget: "string"}
-      - {label: "Composed in year: ", name: "composedin", widget: "string"}
+      - {label: "Opusnr.", name: "title", widget: "string"}
+      - {label: "Tittel", name: "workname", widget: "string"}
+      - {label: "Komponert i år:", name: "composedin", widget: "string"}
       - {label: "Kort beskrivelse", name: "description", widget: "text"}
-      - {label: "Image", name: "thumbnail", widget: "string"}
-      - {label: "Instruments", name: "tags", widget: list, default: ['piano', 'sang']}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Hovedbilde", name: "thumbnail", widget: "string"}
+      - {label: "Instrumenter", name: "tags", widget: list, default: ['piano', 'sang']}
+      - {label: "Tekst", name: "body", widget: "markdown"}
   - name: "artists" # Used in routes, e.g., /admin/collections/blog
     label: "Artists" # Used in the UI
     folder: "src/posts/artister" # The path to the folder where the documents are stored
@@ -33,8 +33,8 @@ collections:
     delete: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Category", name: "category", widget: "hidden", default: "artister"}
+      - {label: "Kategori", name: "category", widget: "hidden", default: "artister"}
       - {label: "Navn", name: "title", widget: "string"}
-      - {label: "Image", name: "thumbnail", widget: "string"}
+      - {label: "Artistfoto", name: "thumbnail", widget: "string"}
       - {label: "Instrument", name: "tags", widget: list, default: ['piano']}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tekst", name: "body", widget: "markdown"}

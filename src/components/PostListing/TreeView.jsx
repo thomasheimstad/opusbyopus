@@ -31,16 +31,16 @@ export default class TreeView extends React.Component {
   render = () => {
     let equalScrollTopChecker = this.props.percentage >= this.state.viewScrollPct+this.state.spanHeight;
     return(
-      <FadeInWrapper id={this.props.title} >
+      <FadeInWrapper id={this.props.title}>
         <div className="opusHandler">
           <a className="flex row" href={this.props.path}>
             <span id={this.props.path} className={equalScrollTopChecker ? "fatso" : "thinman"}></span>
             <div className="flex column wrap">
               <h2>
-                {this.props.opus ? "OPUS "+this.props.opus : this.props.title}
+                {this.props.category == "opus" ? "Opus "+this.props.title : this.props.title}
               </h2>
               <p>
-                {this.props.opus ? this.props.title : this.props.tags}
+                {this.props.workname ? this.props.workname : this.props.tags}
               </p>
             </div>
           </a>
