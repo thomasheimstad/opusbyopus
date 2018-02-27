@@ -4,46 +4,48 @@
   a:hover {
     color: $action-color;
   }
-  .postContent {
-     h1, h3, h4 {
-      margin: 0;
-      text-align: center;
-      color: darken($secondary-font-color, 25%);
     }
-    h1 {
-      color: inherit;
-    }
-    h4 {
-      padding-bottom: $mobile-padding-y;
-    }
-    p {
-      a {
-        color: $action-color;
-        &:hover {
-          color: darken($action-color, 20%);
-        }
+}
+.postContent {
+   h1, h3, h4 {
+    margin: 0;
+    text-align: center;
+    color: darken($secondary-font-color, 25%);
+  }
+  h1 {
+    color: inherit;
+  }
+  h4 {
+    padding-bottom: $mobile-padding-y;
+  }
+  p {
+    a {
+      color: $action-color;
+      &:hover {
+        color: darken($action-color, 20%);
       }
     }
-    .blogPost {
-      background: $base-background-color;
-      p, li {
-        font-size: 1rem;
+  }
+  .blogPost {
+    background: $base-background-color;
+    p, li {
+      font-size: 1rem;
+    }
+    @media screen and (max-width: 768px) {
+      .postTagContainer {
+        padding-bottom: $mobile-padding-y;
       }
-      @media screen and (max-width: 768px) {
-        .postTagContainer {
-          padding-bottom: $mobile-padding-y;
-        }
-      }
-      .basePad {
-        .flex {
-          > div {
-            width: 100%;
-          }
+    }
+    .basePad {
+      .flex {
+        > div {
+          width: 100%;
         }
       }
     }
   }
 }
+
 .postTagContainer {
   a {
     color: $black;
