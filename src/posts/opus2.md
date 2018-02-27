@@ -2,7 +2,7 @@
 category: opus
 workname: Fire sanger
 title: "2"
-composedin: 1861
+composedin: '1861'
 date: 2017-11-28T20:45:39.703Z
 thumbnail: img/BergenColourCrop.jpg
 tags:
