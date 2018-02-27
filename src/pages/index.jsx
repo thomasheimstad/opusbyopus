@@ -51,7 +51,6 @@ export const pageQuery = graphql`
             description
             tags
             category
-            date
             thumbnail {
               childImageSharp {
                 sizes(maxWidth: 400, maxHeight: 300, quality: 80) {

@@ -3,7 +3,6 @@ category: opus
 workname: Fire pianostykker
 title: "1"
 composedin: '1861'
-date: 2017-12-04T12:28:12.048Z
 thumbnail: ./img/room1.jpg
 tags:
   - piano

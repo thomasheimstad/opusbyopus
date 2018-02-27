@@ -1,7 +1,6 @@
 ---
 category: artister
 title: Test Testesen
-date: 2017-12-04T12:28:12.048Z
 thumbnail: ../img/Einar1.jpg
 tags:
   - sanger

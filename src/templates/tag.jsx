@@ -52,7 +52,6 @@ export const pageQuery = graphql`
             workname
             composedin
             tags
-            date
             category
             thumbnail {
               childImageSharp {
