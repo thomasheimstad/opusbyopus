@@ -35,6 +35,7 @@ export default class PostListing extends React.Component {
           title: postEdge.node.frontmatter.title,
           workname: postEdge.node.frontmatter.workname,
           composedin: postEdge.node.frontmatter.composedin,
+          date: postEdge.node.frontmatter.date,
           category: postEdge.node.frontmatter.category,
           excerpt: postEdge.node.excerpt,
           timeToRead: postEdge.node.timeToRead,

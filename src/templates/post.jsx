@@ -113,6 +113,7 @@ export const pageQuery = graphql`
         artists
         medialink
         composedin
+        date
         category
         tags
         thumbnail {
