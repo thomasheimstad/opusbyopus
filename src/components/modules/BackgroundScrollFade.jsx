@@ -6,7 +6,6 @@ export default class BackgroundScrollFade extends React.Component {
     isIE: true
   }
   getIEVersion = () => {
-    console.log('ran')
     let sAgent = window.navigator.userAgent;
     let Idx = sAgent.indexOf("MSIE");
 
@@ -26,7 +25,6 @@ export default class BackgroundScrollFade extends React.Component {
         isIE: false
       }) //It is not IE
     }
-    console.log(this.state.isIE)
   }
   handleResize = () => {
     this.setState({

@@ -82,7 +82,7 @@ export default class PostTemplate extends React.Component {
       )
     }
     return (
-      <div className="post">
+      <div className="postContainer">
         <Helmet>
           <title>{post.category == "opus" ? `Op. ${post.title} | ${config.siteTitle}` : `${post.title} | ${config.siteTitle}`}</title>
         </Helmet>

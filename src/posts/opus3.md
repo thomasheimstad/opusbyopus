@@ -2,7 +2,7 @@
 category: opus
 workname: Poetiske tonebilder
 title: "3"
-composedin: 1863
+composedin: "1863"
 date: 2017-11-25T20:04:44.484Z
 thumbnail: ./img/room2.jpg
 tags:
