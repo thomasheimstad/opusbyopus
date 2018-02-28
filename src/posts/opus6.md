@@ -4,6 +4,7 @@ title: '6'
 workname: Humoresker
 composedin: '1865'
 description: Fire humoresker for solo piano
+date: 2017-11-25T20:04:44.484Z
 thumbnail: ./img/sheep.jpg
 tags:
   - piano

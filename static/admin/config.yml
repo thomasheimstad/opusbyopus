@@ -17,11 +17,13 @@ collections:
     slug: "opus{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Kategori", name: "category", widget: "hidden", default: "opus"}
+      - {label: "Publiseringsdato", name: "date", widget: "datetime"}
       - {label: "Opusnr.", name: "title", widget: "string"}
       - {label: "Tittel", name: "workname", widget: "string"}
-      - {label: "Komponert i år:", name: "composedin", widget: "string"}
+      - {label: "Komponert i år", name: "composedin", widget: "string"}
       - {label: "Kort beskrivelse", name: "description", widget: "text"}
       - {label: "Hovedbilde", name: "thumbnail", widget: "string"}
+      - {label: "Artister", name: "artists", widget: list, default: ['Test Testesen', 'Jack Jackson']}
       - {label: "Instrumenter", name: "tags", widget: list, default: ['piano', 'sang']}
       - {label: "Tekst", name: "body", widget: "markdown"}
   - name: "artists" # Used in routes, e.g., /admin/collections/blog

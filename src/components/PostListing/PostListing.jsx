@@ -43,9 +43,7 @@ export default class PostListing extends React.Component {
           description: postEdge.node.frontmatter.description,
         })
       };
-      if(postEdge.node.frontmatter.title || postEdge.node.frontmatter.category === "blog" || this.props.tags || this.props.categories ) {
-        postListPusher();
-      } else if(postEdge.node.frontmatter.concertDate > today ) {
+      if(postEdge.node.frontmatter.title && postEdge.node.frontmatter.date <= today ) {
         postListPusher();
       }
     });
