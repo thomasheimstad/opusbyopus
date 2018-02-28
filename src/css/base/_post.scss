@@ -35,11 +35,6 @@
     p, li {
       font-size: 1rem;
     }
-    @media screen and (max-width: 768px) {
-      .postTagContainer {
-        padding-bottom: $mobile-padding-y;
-      }
-    }
     .basePad {
       .flex {
         > div {
@@ -50,6 +45,7 @@
   }
 }
 .postTagContainer {
+  padding: 0;
   a {
     color: $black;
     &:hover {
