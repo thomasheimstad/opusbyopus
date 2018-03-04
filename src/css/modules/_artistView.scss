@@ -1,0 +1,39 @@
+.artistView {
+  min-height: 100%;
+  background: $black;
+  color: $secondary-font-color;
+  .artistCard {
+    background: $base-background-color;
+    color: $black;
+    transition: $base-in-timing $base-in-duration;
+    min-width: 300px;
+    margin: 0 10px;
+    @media screen and (max-width: 768px) {
+      min-width: 150px;
+      margin: 0 5px;
+    }
+    .artistInfo {
+      width: 100%;
+      padding: 2rem 0;
+      h2, h4 {
+        margin: 0;
+      }
+      @media screen and (max-width: 768px) {
+        padding: 1rem 0;
+        h2 {
+          font-size: 1rem;
+        }
+        h4 {
+          font-size: 0.7rem;
+        }
+        h2,h4 {
+          font-weight: 100;
+        }
+      }
+    }
+    &:hover {
+      background: $action-color;
+      color: lighten($black, 10%);
+    }
+  }
+}

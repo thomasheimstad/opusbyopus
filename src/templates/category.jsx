@@ -19,8 +19,14 @@ export default class CategoryTemplate extends React.Component {
           <h1>{category === "opus" ? "OPUSLISTEN" : "MEDVIRKENDE ARTISTER"}</h1>
           <h2>{config.siteTitle}</h2>
         </Starter>
-        <ToolTipBottom anchorId="treeView" scrollSpeed={1000} />
-        <PostListing postEdges={postEdges} view="treeView" categories={category} img={GriegMFM}/>
+        <ToolTipBottom
+          anchorId={category === "opus" ? "treeView" : "artistView"}
+          scrollSpeed={1000} />
+        <PostListing
+          postEdges={postEdges}
+          view={category === "opus" ? "treeView" : "artistView"}
+          categories={category}
+          img={GriegMFM} />
       </div>
     );
   }
@@ -49,6 +55,13 @@ export const pageQuery = graphql`
             category
             tags
             date
+            thumbnail {
+              childImageSharp {
+                sizes(maxWidth: 400, maxHeight: 300, quality: 80) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+            }
           }
         }
       }

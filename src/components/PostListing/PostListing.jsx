@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 import FadeInWrapper from "../modules/FadeInWrapper";
 import Header from "../modules/Header";
 import TreeView from './TreeView';
+import ArtistView from './ArtistView';
 
 export default class PostListing extends React.Component {
   state = {
@@ -17,7 +18,8 @@ export default class PostListing extends React.Component {
         sh = 'scrollHeight',
         ih = window.innerHeight;
     let percent = (h[st]||b[st]) / ((h[sh]||b[sh]) - (ih || h.clientHeight)) * 100;
-    let distance = document.getElementById(`treeHider`).getBoundingClientRect().top;
+    let distance =
+      document.getElementById(`treeHider`).getBoundingClientRect().top;
     this.setState({
       percentage: percent,
       scrollTop: distance
@@ -62,12 +64,17 @@ export default class PostListing extends React.Component {
     return [day, month, year].join(' ');
   }
   componentDidMount = () => {
-    window.addEventListener('scroll', this.handleScroll);
+    if(this.state.view === "treeView") {
+      window.addEventListener('scroll', this.handleScroll);
+    }
   }
   componentWillUnmount = () => {
-    window.removeEventListener('scroll', this.handleScroll);
+    if(this.state.view === "treeView") {
+      window.removeEventListener('scroll', this.handleScroll);
+    }
   }
   render = () => {
+    const allThePosts = this.getPostList();
     let defaultPostList = (...props) => {
       return (
         <div className="flex center">
@@ -78,7 +85,6 @@ export default class PostListing extends React.Component {
         </div>
       )
     }
-    const allThePosts = this.getPostList();
     let checkView = (allPost) => {
       if (this.state.view == "treeView") {
         return (
@@ -92,19 +98,31 @@ export default class PostListing extends React.Component {
               )}
           </div>
         )
-      } else {
+      } else if(this.state.view === "artistView") {
         return (
-          <div className="flex center" id={this.state.view}>
-            {/* Your post list here. */
-            allPost.map(post =>
-              <div key={post.title} >
-                <Link to={post.title}><p>
-                  {post.title}
-                </p></Link>
-              </div>
-            )}
+          <div id={this.state.view} className={`${this.state.view} flex wrap center`} >
+              {/* Your post list here. */
+              allPost.map(post =>
+                <div key={post.title}>
+                    <ArtistView {...post}
+                      percentage={this.state.percentage}
+                      treeHiderScrollTop={this.state.scrollTop}
+                    />
+                </div>
+              )}
           </div>
         )
+      } else {
+        <div className="flex center" id={this.state.view}>
+          {/* Your post list here. */
+          allPost.map(post =>
+            <div key={post.title} >
+              <Link to={post.title}><p>
+                {post.title}
+              </p></Link>
+            </div>
+          )}
+        </div>
       }
     }
     return checkView(allThePosts)

@@ -46,7 +46,10 @@ export default class BgImage extends React.Component {
     let divHeightMobile = this.props.height/2;
 
     return (
-      <StyledImage sizes={this.props.sizes} height={this.state.windowWidth > 768 ? this.props.height+"px" : this.props.height/2+"px"} position={this.props.position} fit={this.props.fit} />
+      <StyledImage sizes={this.props.sizes}
+        height={this.state.windowWidth > 768 ? this.props.height+"px" : this.props.height/2+"px"}
+        position={this.props.position}
+        fit={this.props.fit} />
     )
   }
 }

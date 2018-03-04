@@ -1,5 +1,7 @@
 import React from 'react';
 import FadeInWrapper from '../modules/FadeInWrapper';
+import NavLink from 'gatsby-link';
+
 
 export default class TreeView extends React.Component {
   state = {
@@ -33,7 +35,7 @@ export default class TreeView extends React.Component {
     return(
       <FadeInWrapper id={this.props.title}>
         <div className="opusHandler">
-          <a className="flex row" href={this.props.path}>
+          <NavLink excact to={this.props.path} className="flex row">
             <span id={this.props.path} className={equalScrollTopChecker ? "fatso" : "thinman"}></span>
             <div className="flex column wrap">
               <h2>
@@ -43,7 +45,7 @@ export default class TreeView extends React.Component {
                 {this.props.workname ? this.props.workname : this.props.tags}
               </p>
             </div>
-          </a>
+          </NavLink>
         </div>
       </FadeInWrapper>
     )
