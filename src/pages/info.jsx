@@ -10,7 +10,7 @@ export default class InfoSide extends Component {
     return (
       <div className="info post flex center column">
         <Helmet title={`Info | ${config.siteTitle}`} />
-        <Hero id="aboutID" src={this.props.data.file.childImageSharp.sizes} height="600" position="0% 50%" fit="cover"/>
+        <Hero id="aboutID" src={this.props.data.file.childImageSharp.sizes} height="400" position="50% 50%" fit="contain"/>
         <NoInfo />
       </div>
     );

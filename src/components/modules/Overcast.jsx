@@ -22,7 +22,7 @@ export default class Overcast extends React.Component {
       backgroundColor: "#111",
       position: "absolute",
       width: 100+"%",
-      height: 100+"%",
+      height: this.props.height+"%",
       opacity: -this.state.scrollTop / 400,
       display: "flex",
       alignItems: "flex-end",

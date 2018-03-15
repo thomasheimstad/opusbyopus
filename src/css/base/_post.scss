@@ -65,5 +65,8 @@
       background: darken($secondary-background-color, 15%);
       color: $black;
     }
+    &:active, &:focus{
+      outline: 0;
+    }
   }
 }

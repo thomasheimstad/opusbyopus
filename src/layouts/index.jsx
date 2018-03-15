@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import NavBar from "../components/modules/NavBar";
 import Nav from "../components/modules/Nav";
 import '../css/index.scss';
 import config from "../../data/SiteConfig";
@@ -7,6 +8,7 @@ export default class MainLayout extends React.Component {
   state = {
     lang: "no",
     showLangContent: false,
+    showNav: false
   }
   handleLangClick = (e) => {
     if(this.state.lang == "no" && e.target.id == "en"){
@@ -20,6 +22,11 @@ export default class MainLayout extends React.Component {
     }
     this.setState({
       showLangContent: !this.state.showLangContent
+    })
+  }
+  handleNavClick = () => {
+    this.setState({
+      showNav: !this.state.showNav
     })
   }
   getLocalTitle() {
@@ -68,7 +75,21 @@ export default class MainLayout extends React.Component {
           <meta name="mobile-web-app-capable" content="yes" />
         </Helmet>
         <div style={{height: "100%"}}>
-          <Nav handleLangClick={((e) => this.handleLangClick(e))} showLangContent={this.state.showLangContent} lang={this.state.lang}/>
+          <NavBar
+            handleLangClick = {((e) => this.handleLangClick(e))}
+            handleNavClick = {(() => this.handleNavClick())}
+            showNav = {this.state.showNav}
+            showLangContent = {this.state.showLangContent}
+            lang = {this.state.lang}
+          />
+          <Nav
+            showNav = {this.state.showNav}
+            handleNavClick = {(() => this.handleNavClick())}
+          />
+          <div
+            className={this.state.showNav ? 'overlay' : 'overlayOut'}
+            onClick={this.state.showNav ? this.handleNavClick : null}>
+          </div>
           {children()}
         </div>
       </div>

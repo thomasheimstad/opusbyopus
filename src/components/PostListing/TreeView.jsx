@@ -35,7 +35,7 @@ export default class TreeView extends React.Component {
     return(
       <FadeInWrapper id={this.props.title}>
         <div className="opusHandler">
-          <NavLink excact to={this.props.path} className="flex row">
+          <NavLink excact='true' to={this.props.path} className="flex row">
             <span id={this.props.path} className={equalScrollTopChecker ? "fatso" : "thinman"}></span>
             <div className="flex column wrap">
               <h2>

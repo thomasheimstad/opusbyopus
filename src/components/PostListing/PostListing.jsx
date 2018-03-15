@@ -9,7 +9,9 @@ export default class PostListing extends React.Component {
   state = {
     view: this.props.view,
     scrollTop: 0,
-    percentage: 0
+    percentage: 0,
+    postList: [],
+    postListQuest: []
   }
   handleScroll = () => {
     let h = document.documentElement,
@@ -49,7 +51,9 @@ export default class PostListing extends React.Component {
         postListPusher();
       }
     });
-    return postList;
+    this.setState({
+      postList: postList
+    })
   }
   formatDate = (date) => {
     let monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -67,6 +71,7 @@ export default class PostListing extends React.Component {
     if(this.state.view === "treeView") {
       window.addEventListener('scroll', this.handleScroll);
     }
+    this.getPostList()
   }
   componentWillUnmount = () => {
     if(this.state.view === "treeView") {
@@ -74,35 +79,27 @@ export default class PostListing extends React.Component {
     }
   }
   render = () => {
-    const allThePosts = this.getPostList();
-    let defaultPostList = (...props) => {
+    // TREEVIEW RENDER METHOD
+    if(this.state.view == "treeView") {
       return (
-        <div className="flex center">
-          <p>
-            {props[0]} <br/>
-            {props[1]}
-          </p>
+        <div id={this.state.view} className={`${this.state.view}`} style={{backgroundImage: "url(" + this.props.img + ")"}} >
+          <Header percentage={this.state.percentage} />
+            {/* Your post list here. */
+            this.state.postList.map(post =>
+              <div key={post.title}>
+                  <TreeView {...post} percentage={this.state.percentage} treeHiderScrollTop={this.state.scrollTop}/>
+              </div>
+            )}
         </div>
       )
-    }
-    let checkView = (allPost) => {
-      if (this.state.view == "treeView") {
+    } // ARTISTVIEW RENDER METHOD
+    else if(this.state.view === "artistView") {
+      let questList = [];
+      let renderMethod = (postList) => {
         return (
-          <div id={this.state.view} className={`${this.state.view}`} style={{backgroundImage: "url(" + this.props.img + ")"}} >
-            <Header percentage={this.state.percentage} />
+          <div id={this.state.view} className={`${this.state.view} flex wrap center basePad`} >
               {/* Your post list here. */
-              allPost.map(post =>
-                <div key={post.title}>
-                    <TreeView {...post} percentage={this.state.percentage} treeHiderScrollTop={this.state.scrollTop}/>
-                </div>
-              )}
-          </div>
-        )
-      } else if(this.state.view === "artistView") {
-        return (
-          <div id={this.state.view} className={`${this.state.view} flex wrap center`} >
-              {/* Your post list here. */
-              allPost.map(post =>
+              postList.map(post =>
                 <div key={post.title}>
                     <ArtistView {...post}
                       percentage={this.state.percentage}
@@ -112,19 +109,33 @@ export default class PostListing extends React.Component {
               )}
           </div>
         )
+      } // CHECK WHICH ARTIST TYPE FILTER TO APPLY
+      if(this.props.artistType) {
+        if(this.props.artistType === "alle"){
+          return renderMethod(this.state.postList)
+        } else if(this.props.artistType.length>0) {
+          this.state.postList.forEach(post=>{
+            if(post.tags.indexOf(this.props.artistType) !== -1){
+              questList.push(post)
+            }
+          })
+          return renderMethod(questList);
+        }
       } else {
-        <div className="flex center" id={this.state.view}>
-          {/* Your post list here. */
-          allPost.map(post =>
-            <div key={post.title} >
-              <Link to={post.title}><p>
-                {post.title}
-              </p></Link>
-            </div>
-          )}
-        </div>
+        return renderMethod(this.state.postList)
       }
+    } //DEFAULT RENDER METHOD
+    else {
+      <div className="flex center" id={this.state.view}>
+        {/* Your post list here. */
+        this.state.postList.map(post =>
+          <div key={post.title} >
+            <Link to={post.title}><p>
+              {post.title}
+            </p></Link>
+          </div>
+        )}
+      </div>
     }
-    return checkView(allThePosts)
   }
 }

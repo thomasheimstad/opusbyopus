@@ -21,12 +21,15 @@ export default class TagTemplate extends React.Component {
     return (
       <div className={`${this.state.classSet}`} style={{height: "100%"}}>
         <Helmet title={`Merket med "${tag}" | ${config.siteTitle}`} />
-        <Starter>
+        <Starter height={postEdges[0].node.frontmatter.category === "opus" ? "100" : "50" }>
           <h1>{postEdges[0].node.frontmatter.category === "opus" ? "Opus med" : "Instrumentgruppe"}</h1>
           <h2>{tag}</h2>
         </Starter>
+        { postEdges[0].node.frontmatter.category === "opus" ?
         <ToolTipBottom
-          anchorId={postEdges[0].node.frontmatter.category === "opus" ? "treeView" : "artistView"} scrollSpeed={1000} />
+          anchorId={postEdges[0].node.frontmatter.category === "opus" ? "treeView" : "artistView"}
+          scrollSpeed={1000} /> :
+          null }
         <PostListing
           postEdges={postEdges}
           view={postEdges[0].node.frontmatter.category === "opus" ? "treeView" : "artistView"}
