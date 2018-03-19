@@ -9,7 +9,7 @@ import PageImg from  '../posts/img/GriegBackground.jpg';
 class Index extends React.Component {
   render() {
     return (
-      <div className="index-container">
+      <div>
         <Helmet title={config.siteTitle} />
         <MainStarter />
       </div>

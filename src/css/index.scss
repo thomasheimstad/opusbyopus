@@ -34,6 +34,12 @@ body {
   width: 100%;
   height: 100%;
 }
+#___gatsby {
+  min-height: inherit;
+  > div {
+
+  }
+}
 article,
 aside,
 details,

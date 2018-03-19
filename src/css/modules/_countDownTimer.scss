@@ -9,7 +9,7 @@
       margin: 0.2rem;
     }
     h1 {
-      font-size: 4rem;
+      margin: 0;
     }
   }
   .collaboratorsLogo {
@@ -24,8 +24,10 @@
     div {
       margin: 0 0.2rem;
       h1{
-        font-size: 3rem;
         margin-bottom: 0;
+      }
+      h3 {
+        margin: 0;
       }
     }
   }

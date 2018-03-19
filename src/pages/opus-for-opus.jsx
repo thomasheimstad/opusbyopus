@@ -13,10 +13,10 @@ class OpusForOpus extends React.Component {
   render() {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <div className="index-container">
+      <div style={{height: "100%"}}>
         <Helmet title="Opus for opus | Edvard Grieg" />
         <SEO postEdges={postEdges} pageImg={PageImg} />
-        <Starter height="100">
+        <Starter height="1">
           <h1>EDVARD GRIEG</h1>
           <h2>OPUS FOR OPUS</h2>
         </Starter>
@@ -33,7 +33,7 @@ export default OpusForOpus;
 export const pageQuery = graphql`
   query OpusQuery {
     allMarkdownRemark(
-      limit: 74
+      limit: 100
       sort: { fields: [frontmatter___title], order: ASC }
       filter: { frontmatter: { category: { eq: "opus"} } }
     ) {

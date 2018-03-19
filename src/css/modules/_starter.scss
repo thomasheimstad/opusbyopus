@@ -1,15 +1,3 @@
-#___gatsby {
-  height: 100%;
-  > div {
-    height: 100%;
-    > div {
-      height: 100%;
-      .index-container {
-        height: 100%;
-      }
-    }
-  }
-}
 .starter {
   background: $black;
   width: 100%;
@@ -51,7 +39,6 @@
   }
 }
 .mainStarter {
-  height: 100%;
   background: $white;
   width: 100%;
   z-index: 3;

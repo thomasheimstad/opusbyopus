@@ -11,11 +11,11 @@ export default class CategoryTemplate extends React.Component {
     const category = this.props.pathContext.category;
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
-      <div className="index-container">
+      <div style={{height: "100%"}}>
         <Helmet
           title={`Kategori "${category}" | ${config.siteTitle}`}
         />
-        <Starter>
+        <Starter height="2">
           <h1>{category === "opus" ? "OPUSLISTEN" : "MEDVIRKENDE ARTISTER"}</h1>
           <h2>{config.siteTitle}</h2>
         </Starter>

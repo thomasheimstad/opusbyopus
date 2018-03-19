@@ -55,10 +55,10 @@ class Artister extends React.Component {
       background: "#a0a0a0"
     }
     return (
-      <div className="index-container artist-container">
+      <div className=" artist-container">
         <Helmet title="Artist for artist | #NRKGRIEG" />
         <SEO postEdges={postEdges} pageImg={PageImg} />
-        <Starter height="50">
+        <Starter height="2">
           <h1>#NRKGRIEG</h1>
           <h2>Artistene</h2>
         </Starter>
