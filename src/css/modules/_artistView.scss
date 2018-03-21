@@ -1,26 +1,24 @@
-.artist-container {
-  .tag-container {
-    flex-wrap: wrap;
-    padding: $base-padding-y $base-padding-x 0;
-    h4 {
-      background: $secondary-background-color;
-      padding: 0.4rem 0.8rem;
-      margin: 0;
-      margin-top: 0.4rem;
-      font-weight: 100;
-      margin-left: 0.2rem;
-      margin-right: 0.2rem;
-      border-radius: 1%;
-      cursor: pointer;
-      transition: $base-in-timing $base-in-duration;
-      text-transform: capitalize;
-      &:hover {
-        background: darken($secondary-background-color, 25%);
-      }
+.tag-container {
+  flex-wrap: wrap;
+  padding: $base-padding-y $base-padding-x 0;
+  h4 {
+    background: $secondary-background-color;
+    padding: 0.4rem 0.8rem;
+    margin: 0;
+    margin-top: 0.4rem;
+    font-weight: 100;
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+    border-radius: 1%;
+    cursor: pointer;
+    transition: $base-in-timing $base-in-duration;
+    text-transform: capitalize;
+    &:hover {
+      background: darken($secondary-background-color, 25%);
     }
-    @media screen and (max-width: 768px) {
-      padding: $mobile-padding-y $mobile-padding-x 0;
-    }
+  }
+  @media screen and (max-width: 768px) {
+    padding: $mobile-padding-y $mobile-padding-x 0;
   }
 }
 .artistView {
