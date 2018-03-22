@@ -10,7 +10,7 @@ export default class ConnectionsInPost extends React.Component {
     if(this.props.connections.map(connection=>connection.hasOwnProperty("opuses"))){
       return this.props.connections.slice().sort((a, b) => a.frontmatter.title > b.frontmatter.title)
     } else {
-      return this.props.connections.slice().sort((a, b) => a.frontmatter.title > b.frontmatter.title)
+      return null
     }
   }
   render = () => {
