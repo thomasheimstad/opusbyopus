@@ -9,7 +9,7 @@ export default class ArtistView extends React.Component {
       <FadeInWrapper id={this.props.title}>
         <div className="artistCard">
           <NavLink exact to={this.props.path}>
-            <BgImage sizes={this.props.thumbnail.childImageSharp.sizes}  height="200" zIndex="1" />
+            <BgImage sizes={this.props.thumbnail.childImageSharp.sizes} height="200" />
             <div className="artistInfo flex column center">
               <h2>{this.props.title}</h2>
               <h4>{this.props.tags}</h4>

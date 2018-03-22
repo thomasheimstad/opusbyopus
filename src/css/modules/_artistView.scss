@@ -29,7 +29,7 @@
   flex-wrap: wrap;
   transition: 1s ease-in;
   .artistCard {
-    background: $base-background-color;
+    background: rbga(0,0,0,0);
     color: $black;
     transition: $base-in-timing $base-in-duration;
     min-width: 250px;
