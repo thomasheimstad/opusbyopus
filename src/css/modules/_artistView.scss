@@ -19,6 +19,10 @@
   }
   @media screen and (max-width: 768px) {
     padding: $mobile-padding-y $mobile-padding-x 0;
+    H4 {
+      padding: 0.2rem 0.4rem;
+      font-size: 0.8rem;
+    }
   }
 }
 .artistView {
@@ -27,7 +31,6 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  transition: 1s ease-in;
   .artistCard {
     background: rbga(0,0,0,0);
     color: $black;
@@ -40,6 +43,7 @@
       margin: 5px;
     }
     .artistInfo {
+      transition: $base-in-timing $base-in-duration;
       width: 100%;
       padding: 2rem 0;
       h2, h4 {
@@ -61,7 +65,7 @@
         }
       }
     }
-    &:hover {
+    &:hover .artistInfo{
       background: $secondary-background-color;
       color: lighten($black, 10%);
     }
