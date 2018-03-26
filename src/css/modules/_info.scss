@@ -1,6 +1,6 @@
 .info {
   h2 {
-    padding: 1rem;
+    padding: 1rem 0;
   }
   ul {
     margin: 0;
@@ -15,5 +15,8 @@
         width: 120px;
       }
     }
+  }
+  iFrame {
+    margin-bottom: 0;
   }
 }

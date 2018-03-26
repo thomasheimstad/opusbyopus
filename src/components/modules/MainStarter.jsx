@@ -40,7 +40,9 @@ export default class MainStarter extends React.Component {
             <h3>Les mer om Griegs musikk</h3>
           </NavLink>
           <NavLink to="/info">
-            <h2>15. & 16. juni 2018</h2>
+            <div className="underline">
+              <h2 style={{marginBottom: "0.51rem"}}>15. & 16. juni 2018</h2>
+            </div>
             <h3>Les mer om arrangementet</h3>
           </NavLink>
       </div>

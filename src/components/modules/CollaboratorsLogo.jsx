@@ -6,7 +6,7 @@ import KODElogo from "../../posts/img/KODElogoBlack.png";
 
 const CollaboratorsLogo = () => {
   return (
-    <ul className="collaboratorsLogo flex center">
+    <ul className="flex center">
       <li><a href="https://www.nrk.no"><img src={NRKlogo} alt=""/></a></li>
       <li><a href="https://www.harmonien.no"><img src={BFOlogo} alt=""/></a></li>
       <li><a href="https://www.kodebergen.no"><img src={KODElogo} alt=""/></a></li>

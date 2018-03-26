@@ -2,32 +2,44 @@ import React, { Component } from "react";
 import CollaboratorsLogo from "../modules/CollaboratorsLogo";
 
 export default class NoInfo extends Component {
+  shouldComponentUpdate() {
+   return false;
+  }
   render() {
     return (
         <div className="postContent flex center column">
+
+          <div className="flex center row">
+            <div>
+              
+            </div>
+            <div>
+
+            </div>
+            <div>
+
+            </div>
+          </div>
+
           <div className="blogPost">
             <div className="basePad">
               <div className="flex center column">
                 <div>
-                  <h1>Grieg</h1>
-                  <h3>Opus for opus</h3>
+                  <h1>#NRKGrieg</h1>
+                  <h3>Minutt For Minutt</h3>
                   <h4>NRK, BFO, KODE</h4>
                 </div>
                 <div>
-                  <blockquote>
-                    "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." <br/>
-                    "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..." - Lorem Ipsum
-                  </blockquote>
-                </div>
-                <div>
+                  <h2>Hva er Grieg minutt for minutt?</h2>
                   <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi dui, ultrices nec semper eget, consequat vel ipsum. Sed et diam odio. Donec lobortis mi vitae laoreet fringilla. Curabitur vel lobortis tortor. Curabitur vestibulum cursus tincidunt. In a tortor vulputate, euismod turpis et, auctor eros. Fusce vitae velit dignissim, commodo leo euismod, venenatis nisi.
+                  På 175 årsdagen til Edvard Grieg, <strong>15. juni 2018 kl. 18.00</strong>, går startskuddet for det som blir tidenes feiring av den folkekjære komponisten. Alle hans 74 musikkverker, eller opus som de også kalles, skal spilles live og i rekkefølge på NRK. Gjennom nærmere <strong>30 timer</strong> nonstop, skal hele Griegs musikalske produksjon fremføres av de fremste norske musikere.
                   </p>
                   <p>
-                    Donec sollicitudin est mi, vitae rutrum lectus eleifend at. Aenean dapibus ligula purus, ut efficitur ante viverra in. Morbi id leo ut risus pulvinar pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus ut felis quis tortor hendrerit dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque suscipit vehicula nisi, id tempus libero vehicula sed. Etiam urna arcu, facilisis sit amet ultrices at, sollicitudin eget velit. Donec at vulputate mi, in imperdiet dui.
+                    Arrangementet blir et storstilt musikalsk portrett av Edvard Griegs berømte musikk, en presentasjon av orkestre og enkeltutøvere i dagens norske musikkliv og en storstilt folkefest der hele landet kan delta. Dette blir årets store sakte-TV satsing fra NRK. NRK´s sakte-TV har samlet millioner av seere de siste årene. De tar alle flater i bruk og gjør Grieg minutt for minutt til årets store mediebegivenhet på musikkfronten. All musikken spilles live! Det betyr at det blir nattkonserter i <strong>Grieghallen</strong>, døgnåpent på <strong>Troldhaugen</strong> og folkefest hele sommernatten mellom 15. og 16. juni. I Oslo sitter også Kringkastingsorkesteret parat i <strong>Store Studio</strong>, og sprer feststemningen til hovedstaden.
                   </p>
+                  <h2>Hvordan kan jeg delta i festen?</h2>
                   <p>
-                    Maecenas scelerisque tempor nibh ut lobortis. Aenean ac urna sapien. Morbi in ultricies velit. Phasellus varius ut lectus vel hendrerit. In ac pharetra ante, vel ultrices mi. Aenean dignissim magna vitae mi suscipit, vitae dignissim sapien imperdiet. Aliquam erat volutpat.
+                    Grieg minutt for minutt er <strong>åpent og gratis for alle!</strong>
                   </p>
                   <p>
                     Nam tempus tristique eros vel aliquet. Pellentesque facilisis pharetra ipsum in facilisis. Fusce id dolor ligula. Aenean tincidunt tincidunt odio in venenatis. Morbi condimentum ultrices elit eget dictum. Cras vulputate nunc nisl, sed ultrices nisi rutrum et. Curabitur eu est rhoncus, condimentum orci et, laoreet velit. Vivamus consequat justo nulla, a scelerisque mauris sagittis quis. Proin iaculis massa mauris, sed iaculis justo rutrum vitae.
@@ -35,12 +47,18 @@ export default class NoInfo extends Component {
                     Nulla non quam pharetra, rutrum ante id, auctor turpis. Duis dignissim bibendum sem at tincidunt. Nullam at finibus nulla, varius suscipit massa. Nullam pretium est felis, nec suscipit ligula maximus sed. Integer sed sodales odio. Integer faucibus blandit orci at scelerisque. Nunc tempor ligula in velit posuere, sed luctus mi euismod.
                   </p>
                 </div>
-                <div className="flex column center">
-                  <h2>Et samarbeid mellom</h2>
-                  <CollaboratorsLogo />
-                </div>
               </div>
             </div>
+
+            <div>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d7901.461849566656!2d5.334278756443554!3d60.3235493537705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x463cf9a2f5f3f511%3A0x21218e34c0b69822!2sHop+Light+Rail+Stop%2C+Nesttunvegen+43%2C+5232+Paradis%2C+Norway!3m2!1d60.3267715!2d5.346650299999999!4m5!1s0x463cf99177a78e9b%3A0x8511c1fd93c7c06!2sEdvard+Grieg+Museum+Troldhaugen%2C+Troldhaugvegen%2C+Paradis%2C+Norway!3m2!1d60.319624999999995!2d5.329447!5e0!3m2!1sen!2sdk!4v1522004314111" width="100%" height="450" frameBorder="0" style={{border: '0'}} allowFullScreen></iframe>
+            </div>
+
+              <div className="collaboratorsLogo flex column center basePad">
+                <h2>Et samarbeid mellom</h2>
+                <CollaboratorsLogo />
+              </div>
+
           </div>
         </div>
     );

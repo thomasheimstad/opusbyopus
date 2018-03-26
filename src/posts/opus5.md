@@ -3,6 +3,7 @@ category: opus
 workname: Hjertets melodier
 title: "5"
 composedin: "1865"
+author: Lane Pryce
 date: 2017-11-25T20:04:44.484Z
 thumbnail: ./img/FjordInDramaticSkies.jpg
 tags:

@@ -47,6 +47,7 @@ export default class PostTemplate extends React.Component {
               <h4>{post.composedin}</h4>
             </div>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+            <div><h4 style={{textAlign: 'left', padding: '0 0 1rem'}}>Forfatter: {post.author}</h4></div>
             <div className="post-meta">
               <PostTags tags={post.tags} />
               {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
@@ -113,6 +114,7 @@ export const pageQuery = graphql`
         artists
         medialink
         composedin
+        author
         date
         category
         tags
