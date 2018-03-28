@@ -3,6 +3,7 @@ category: opus
 workname: Seks digte
 title: "4"
 composedin: "1864"
+dedicatedTo: Nina Hagerup
 author: Sir John Davies
 date: 2017-11-26T16:20:29.979Z
 thumbnail: ./img/EdvardAndNina.jpg
@@ -12,10 +13,8 @@ description: testDest
 artists:
   - Jack Jackson
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, dolor vel maximus sagittis, dui urna sollicitudin sem, at pretium est libero condimentum libero. Aliquam erat volutpat. Vivamus vitae hendrerit tortor, quis tristique ex. Nulla finibus orci massa, id gravida nisi fermentum et. Vestibulum interdum lorem sit amet mauris iaculis vestibulum. Aenean at velit purus. Quisque eget nibh mollis, lacinia nisi et, malesuada risus. Ut vel iaculis neque, ac ullamcorper dolor. Etiam ante ipsum, pulvinar sit amet nibh ut, rutrum scelerisque purus. Aliquam aliquam dui porta leo vehicula malesuada nec sed tortor. Sed mattis orci ac tellus sollicitudin iaculis. Nulla fringilla accumsan metus, et ornare diam tempus quis. Praesent felis mi, condimentum ut cursus a, egestas ac arcu. Nulla facilisi.
+Nina Grieg, født Hagerup, var Edvards kusine; Ninas far, Herman Hagerup og Edvards mor Gesine (født Hagerup) var søsken. Nina og søstrene hennes bodde de første årene på Haukeland gård, før de flyttet til Danmark, morens hjemland, da Nina var 8 år. Da Grieg som 20-åring kom til København tok han opp bekjentskapet med Nina, og tilbrakte mye tid i Hagerup-familien. Vennskapet med Nina skulle snart føre til forlovelse og giftermål, selv om ingen av familiene bifalt forbindelsen eller deltok i bryllupet. Nina tok sangtimer hos pedagogen Carl Helsted i København, og hennes sangtalent ble gjennom hele Edvard Griegs kunstnerliv til uvurderlig inspirasjon.  
 
-Donec ultrices orci ac rutrum dapibus. Quisque tincidunt leo sed purus imperdiet, consequat ullamcorper purus faucibus. Cras ut accumsan erat. Aliquam dui tortor, rutrum nec efficitur non, placerat non orci. Aliquam commodo ligula rhoncus, finibus turpis vel, condimentum orci. Sed auctor rutrum mi, maximus blandit arcu interdum ac. Nam mollis ante non erat egestas ultrices vel in mauris. Sed eu mattis augue. Ut malesuada ante sed interdum porta. Sed vel justo maximus, sagittis est et, mollis urna.
+Inspirasjonen viste seg altså allerede i Københavnårene da Seks dikt, opus 4 ble tilegnet henne. I 1899 skrev Grieg til den amerikanske musikkforskeren Henry Finck:
 
-https://www.griegminuttforminutt.no Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut rutrum mollis felis, ac ullamcorper tortor. Etiam at rhoncus quam.
-
->  Sed molestie tortor imperdiet, volutpat massa sit amet, commodo nunc. In viverra pretium consequat. Nam et bibendum sem, id tristique augue. Integer sit amet odio nec lorem feugiat egestas. - "E. Grieg"
+>   «Jeg elsket en ung pike med en vidunderlig stemme og et likeså vidunderlig foredragstalent. Denne piken ble min hustru og har vært min livsledsager like til denne dag. Hun har for meg – tør jeg vel si – hele tiden vært den eneste sanne interpret av mine sanger.» - E. Grieg

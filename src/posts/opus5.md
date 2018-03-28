@@ -3,6 +3,7 @@ category: opus
 workname: Hjertets melodier
 title: "5"
 composedin: "1865"
+dedicatedTo: Hans Christian Andersen
 author: Lane Pryce
 date: 2017-11-25T20:04:44.484Z
 thumbnail: ./img/FjordInDramaticSkies.jpg
@@ -15,6 +16,5 @@ artists:
   - Test Testesen
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, dolor vel maximus sagittis, dui urna sollicitudin sem, at pretium est libero condimentum libero. Aliquam erat volutpat. Vivamus vitae hendrerit tortor, quis tristique ex. Nulla finibus orci massa, id gravida nisi fermentum et. Vestibulum interdum lorem sit amet mauris iaculis vestibulum. Aenean at velit purus. Quisque eget nibh mollis, lacinia nisi et, malesuada risus. Ut vel iaculis neque, ac ullamcorper dolor. Etiam ante ipsum, pulvinar sit amet nibh ut, rutrum scelerisque purus. Aliquam aliquam dui porta leo vehicula malesuada nec sed tortor. Sed mattis orci ac tellus sollicitudin iaculis. Nulla fringilla accumsan metus, et ornare diam tempus quis. Praesent felis mi, condimentum ut cursus a, egestas ac arcu. Nulla facilisi.
-
-Donec ultrices orci ac rutrum dapibus. Quisque tincidunt leo sed purus imperdiet, consequat ullamcorper purus faucibus. Cras ut accumsan erat. Aliquam dui tortor, rutrum nec efficitur non, placerat non orci. Aliquam commodo ligula rhoncus, finibus turpis vel, condimentum orci. Sed auctor rutrum mi, maximus blandit arcu interdum ac. Nam mollis ante non erat egestas ultrices vel in mauris. Sed eu mattis augue. Ut malesuada ante sed interdum porta. Sed vel justo maximus, sagittis est et, mollis urna.
+Samlingen be skrevet i København i 1865, og gitt til Nina i julegave.   
+Samlingen nr. 3, Jeg elsker deg ble i løpet av noen tiår trykt i 60.000 særtrykk av Griegs forlegger Peters. Det finnes også over 300 plateinnspillinger av sangen, den første ble gjort i London i 1899 av den danske sangerinnen Otta Brønnum. Første norske innspilling ble gjort av Cally Monrad i 1905. Frank Sinatra og Bing Crosby har også sunget den inn. Nina sang Hjertets melodier på hennes og Edvard første konsert i Kristiania i 1866

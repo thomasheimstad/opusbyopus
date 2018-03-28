@@ -44,6 +44,7 @@ export default class PostTemplate extends React.Component {
             <div className="flex center column">
               <h1>OPUS {post.title}</h1>
               <h3>{post.workname}</h3>
+              <h5>Dedikert til {post.dedicatedTo}</h5>
               <h4>{post.composedin}</h4>
             </div>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
@@ -114,6 +115,7 @@ export const pageQuery = graphql`
         artists
         medialink
         composedin
+        dedicatedTo
         author
         date
         category

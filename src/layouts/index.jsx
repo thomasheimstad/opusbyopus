@@ -1,8 +1,8 @@
 import React from "react";
 import Helmet from "react-helmet";
+import '../css/index.scss';
 import NavBar from "../components/modules/NavBar";
 import Nav from "../components/modules/Nav";
-import '../css/index.scss';
 import config from "../../data/SiteConfig";
 export default class MainLayout extends React.Component {
   state = {

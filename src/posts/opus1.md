@@ -3,6 +3,7 @@ category: opus
 workname: Fire pianostykker
 title: "1"
 composedin: "1861"
+dedicatedTo: Ernst Ferdinand Wenzel
 author: Test Testesen
 date: 2017-12-04T12:28:12.048Z
 thumbnail: ./img/room1.jpg
@@ -12,10 +13,14 @@ description: testDest
 artists:
   - Edvard Grieg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, dolor vel maximus sagittis, dui urna sollicitudin sem, at pretium est libero condimentum libero. Aliquam erat volutpat. Vivamus vitae hendrerit tortor, quis tristique ex. Nulla finibus orci massa, id gravida nisi fermentum et. Vestibulum interdum lorem sit amet mauris iaculis vestibulum. Aenean at velit purus. Quisque eget nibh mollis, lacinia nisi et, malesuada risus. Ut vel iaculis neque, ac ullamcorper dolor. Etiam ante ipsum, pulvinar sit amet nibh ut, rutrum scelerisque purus. Aliquam aliquam dui porta leo vehicula malesuada nec sed tortor. Sed mattis orci ac tellus sollicitudin iaculis. Nulla fringilla accumsan metus, et ornare diam tempus quis. Praesent felis mi, condimentum ut cursus a, egestas ac arcu. Nulla facilisi.
+Verket be spilt til Griegs avgangseksamen ved konservatoriet i Leipzig i 1862, men Grieg selv var ikke fornøyd med verket. Han omtalte senere verket som «elevmessig» og at det hadde vært best om det hadde vært «..overlatt til fullstendig glemsel».  
 
-Donec ultrices orci ac rutrum dapibus. Quisque tincidunt leo sed purus imperdiet, consequat ullamcorper purus faucibus. Cras ut accumsan erat. Aliquam dui tortor, rutrum nec efficitur non, placerat non orci. Aliquam commodo ligula rhoncus, finibus turpis vel, condimentum orci. Sed auctor rutrum mi, maximus blandit arcu interdum ac. Nam mollis ante non erat egestas ultrices vel in mauris. Sed eu mattis augue. Ut malesuada ante sed interdum porta. Sed vel justo maximus, sagittis est et, mollis urna.
+Høsten 1858 reiste en ung norsk student med dampskipet fra Bergen til Hamburg, medbrakt noter, klær og personlige eiendeler. Ferden gikk videre med tog til Leipzig, der han skulle bli kunstner. Med Ole Bull som inspirator og med sine foreldres velsignelse reiste den 15 år gamle Edvard Grieg nå hjemmefra for å begynne på sitt voksne liv.
 
-Maecenas scelerisque tortor eu ante iaculis placerat. Aliquam nibh est, porta ut lectus condimentum, varius auctor diam. Fusce facilisis augue non turpis aliquam dictum. Pellentesque volutpat elementum ex, eu laoreet lectus euismod nec. Nunc vel dictum nisi, consectetur dapibus dui. Praesent vitae mattis ligula. Donec laoreet mi nulla, ut varius orci vulputate nec.
+Den unge Grieg ble tatt opp som elev ved det berømte Musikkonservatoriet i Leipzig, og hadde store forventninger til studiet. Herfra skulle han komme hjem til Norge «som en heksemester i tonernes rike». Men den rigide og konservative undervisningen passet dårlig for Grieg. Riktignok var han som barn vant til at moren, hans første pianolærer, var en skarp iakttager, og et korrektiv til hans drømmerier ved instrumentet. Men etter en tid med sin første pianolærer i Leipzig, gikk Grieg rett til konservatoriets direktør og forlangte å bli fritatt fra Louis Plaidys undervisning. Et dristig grep av en nykommer. Grieg selv innrømmet senere at han i begynnelsen var en lat elev, og at hans lærer hadde rett da han kastet notene gjennom rommet og med tordnende stemme utbrøt: «Gå hjem og øv!».
 
->  Donec ultrices orci ac rutrum dapibus. Quisque tincidunt leo sed purus imperdiet, consequat ullamcorper purus faucibus. Cras ut accumsan erat. Aliquam dui tortor, rutrum nec efficitur non, placerat non orci. - "E. Grieg"
+Hans nye lærer, Schumann-vennen Ernst Ferdinand Wenzel, satte et større mot i Grieg, og han fikk også ta timer hos den berømte Ignaz Moscheles. Hos ham fikk Grieg innstudere «et dusinvis av Beethovens sonater», og Moscheles’ egne etyder. Brikkene falt på plass og den unge Grieg fikk gode skussmål.
+
+Resten er musikkhistorie. En stor del av Griegs komposisjoner er viet pianoet. Ti hefter med lyriske stykker, 66 i alt, har blitt stående som hans musikalske livshistorie. Flere opus med folketonebearbeidelser, den store G-mollballaden, Holbergsuiten og – ikke minst – den hyppig spilte Klaverkonserten i a-moll har satt Griegs navn på det musikalske verdenskartet.
+
+Grieg gikk hjem og øvde. Men opplevelsene av studietiden var blandet, og han hevdet senere at han kom hjem fra Leipzig «omtrent like dum, som jeg var kommet derind». Helt sant var nok ikke dette, studieårene ga ham rike muligheter for å ta til seg av byens rike kulturliv. De mange konsertbesøkene ble svært viktige, og «…utviklede min ånd og min musikalske dømmekraft i høieste grad». Men først i København-årene som fulgte fikk hans fantasi fritt spillerom, og han kunne for alvor søke etter en egen musikalsk identitet. Motgangen ble en kilde til å stole på egen kraft, og til å arbeide selvstendig.
