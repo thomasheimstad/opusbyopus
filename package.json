@@ -5,7 +5,7 @@
   "author": "Thomas Heimstad",
   "dependencies": {
     "babel-plugin-lodash": "^3.3.2",
-    "gatsby": "^1.9.128",
+    "gatsby": "^1.9.243",
     "gatsby-cli": "^1.1.23",
     "gatsby-image": "^1.0.31",
     "gatsby-link": "^1.6.28",
@@ -15,6 +15,7 @@
     "gatsby-plugin-manifest": "^1.0.3",
     "gatsby-plugin-nprogress": "^1.0.2",
     "gatsby-plugin-offline": "^1.0.3",
+    "gatsby-plugin-postcss-sass": "^1.0.19",
     "gatsby-plugin-react-helmet": "^1.0.2",
     "gatsby-plugin-sass": "^1.0.13",
     "gatsby-plugin-sharp": "^1.6.21",
@@ -45,7 +46,7 @@
     "styled-components": "^2.3.3"
   },
   "devDependencies": {
-    "autoprefixer": "^8.0.0",
+    "autoprefixer": "^8.2.0",
     "cli-glob": "^0.1.0",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.2",
@@ -53,7 +54,6 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.5.1",
-    "gatsby-plugin-postcss-sass": "^1.0.19",
     "gh-pages": "^1.1.0",
     "pixrem": "^4.0.1",
     "prettier": "^1.8.2",
