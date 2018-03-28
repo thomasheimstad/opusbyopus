@@ -1,8 +1,8 @@
 {
-  "name": "Einar-Stefansson",
-  "description": "Einar Stefansson Homepage",
+  "name": "Edvard Grieg Opus for opus",
+  "description": "Opusrekken til Grieg, fra 1 til 74. Pluss litt til.",
   "version": "1.1.1",
-  "author": "Einar Stefansson",
+  "author": "Thomas Heimstad",
   "dependencies": {
     "babel-plugin-lodash": "^3.3.2",
     "gatsby": "^1.9.128",
@@ -45,6 +45,7 @@
     "styled-components": "^2.3.3"
   },
   "devDependencies": {
+    "autoprefixer": "^8.0.0",
     "cli-glob": "^0.1.0",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.2",
@@ -52,7 +53,9 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.5.1",
+    "gatsby-plugin-postcss-sass": "^1.0.19",
     "gh-pages": "^1.1.0",
+    "pixrem": "^4.0.1",
     "prettier": "^1.8.2",
     "remark-cli": "^4.0.0",
     "remark-preset-lint-recommended": "^3.0.1",
@@ -62,15 +65,18 @@
     "write-good": "^0.11.3"
   },
   "keywords": [
-    "Barytone"
+    "Edvard Grieg",
+    "Klassisk musikk",
+    "Hele opusrekken",
+    "Samtlige verker"
   ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "develop": "rm -rf .cache/* && gatsby develop",
+    "develop": "rm -rf .cache/**.* && gatsby develop --host localhost --port 8000",
     "dev": "npm run develop",
     "serve": "gatsby serve",
-    "build": "rm -rf ./.cache/* && gatsby build",
+    "build": "rm -rf .cache/**.* && gatsby build",
     "build:pp": "gatsby build --prefix-paths",
     "build:gh": "npm run clean && npm run build:pp && gh-pages -d public",
     "clean": "rm -rf public",
