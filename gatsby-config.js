@@ -27,10 +27,10 @@ module.exports = {
       resolve: `gatsby-plugin-postcss-sass`,
       options: {
         postCssPlugins: [
-          pixrem(),
           autoprefixer({
             browsers: ['last 2 versions']
-          })
+          }),
+          pixrem()
         ],
         precision: 8
       }
