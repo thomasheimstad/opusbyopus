@@ -18,7 +18,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       Object.prototype.hasOwnProperty.call(node, "frontmatter") &&
       Object.prototype.hasOwnProperty.call(node.frontmatter, "opus")
     ) {
-      slug = `/opus${_.kebabCase(node.frontmatter.title)}`;
+      slug = `/opus${_.kebabCase(node.frontmatter.opus)}`;
     } else if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
       slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`;
     } else if (parsedFilePath.dir === "") {
@@ -99,7 +99,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         const categoryList = Array.from(categorySet);
         categoryList.forEach(category => {
           createPage({
-            path: `/kategorier/${_.kebabCase(category)}/`,
+            path: `/categories/${_.kebabCase(category)}/`,
             component: categoryPage,
             context: {
               category

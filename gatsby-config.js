@@ -1,6 +1,5 @@
 const config = require("./data/SiteConfig");
-const pixrem = require('pixrem');
-const autoprefixer = require('autoprefixer');
+
 const pathPrefix = config.pathPrefix === "/" ? "" : config.pathPrefix;
 
 module.exports = {
@@ -23,18 +22,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
-    {
-      resolve: `gatsby-plugin-postcss-sass`,
-      options: {
-        postCssPlugins: [
-          autoprefixer({
-            browsers: ['last 2 versions']
-          }),
-          pixrem()
-        ],
-        precision: 8
-      }
-    },
+    "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -117,7 +105,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "Edvard Grieg Opus for opus";
+          ret.generator = "Einar Stefansson Homepage";
           return ret;
         },
         query: `
@@ -143,6 +131,7 @@ module.exports = {
               const rssMetadata = ctx.query.site.siteMetadata.rssMetadata;
               return ctx.query.allMarkdownRemark.edges.map(edge => ({
                 categories: edge.node.frontmatter.tags,
+                date: edge.node.frontmatter.date,
                 title: edge.node.frontmatter.title,
                 description: edge.node.excerpt,
                 author: rssMetadata.author,
@@ -155,7 +144,7 @@ module.exports = {
             {
               allMarkdownRemark(
                 limit: 1000,
-                sort: { order: ASC, fields: [frontmatter___title] },
+                sort: { order: DESC, fields: [frontmatter___date] },
               ) {
                 edges {
                   node {
@@ -165,6 +154,7 @@ module.exports = {
                     fields { slug }
                     frontmatter {
                       title
+                      date
                       category
                       tags
                     }
