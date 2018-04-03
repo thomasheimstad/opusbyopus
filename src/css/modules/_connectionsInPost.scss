@@ -20,12 +20,11 @@
         transition: $base-in-timing $base-in-duration;
         font-weight: 100;
       }
-      div {
+      > div {
         height: 120px;
         width: 120px;
         border-radius: 50%;
         overflow: hidden;
-        margin: 0 auto;
         margin-bottom: 1rem;
         padding: 0;
         transition: $base-in-timing $base-in-duration;

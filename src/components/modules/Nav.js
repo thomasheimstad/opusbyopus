@@ -19,7 +19,10 @@ const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick}) 
             </NavLink>
           </li>
           <li onClick={handleNavClick}>
-            <NavLink exact to="/opus-for-opus" activeClassName="active">
+            <NavLink
+              exact to="/opus-for-opus"
+              activeClassName="active"
+              className={window.location.href.indexOf("/opus") >= 0 ? "active" : ""}>
               <h3><FaNumList /> Opus for opus</h3>
             </NavLink>
           </li>
