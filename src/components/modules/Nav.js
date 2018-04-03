@@ -7,7 +7,7 @@ import MdStar from "react-icons/lib/md/star-outline";
 import NavLink from 'gatsby-link';
 import PageImg from  '../../posts/img/Griegtest1.png';
 
-const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick}) => {
+const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick, loc}) => {
   return(
     <nav className={showNav ? 'showing navigator flex column' : 'hidden navigator flex column'}>
       <div>
@@ -22,7 +22,7 @@ const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick}) 
             <NavLink
               exact to="/opus-for-opus"
               activeClassName="active"
-              className={window.location.href.indexOf("/opus") >= 0 ? "active" : ""}>
+              className={loc.indexOf("/opus") >= 0 ? "active" : ""}>
               <h3><FaNumList /> Opus for opus</h3>
             </NavLink>
           </li>

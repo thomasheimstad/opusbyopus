@@ -13,8 +13,6 @@ export default class Overcast extends React.Component {
       scrollTop: distance,
       offsetHeight: elementHeight
     })
-    console.log(distance)
-    console.log(elementHeight)
   }
   componentDidMount = () => {
     window.addEventListener('scroll', this.handleScroll);

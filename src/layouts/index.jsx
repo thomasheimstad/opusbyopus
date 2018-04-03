@@ -85,6 +85,7 @@ export default class MainLayout extends React.Component {
           <Nav
             showNav = {this.state.showNav}
             handleNavClick = {(() => this.handleNavClick())}
+            loc = {this.props.location.pathname}
           />
           <div
             className={this.state.showNav ? 'overlay' : 'overlayOut'}
