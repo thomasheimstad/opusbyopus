@@ -1,17 +1,19 @@
 ---
 category: opus
+date: 2017-11-25T20:04:44.484Z
 title: '6'
 workname: Humoresker
+startDate: '15.6'
+startTime: '19:09'
 composedin: '1865'
 dedicatedTo: ''
-author: Donald Draper
 description: Fire humoresker for solo piano
-date: 2017-11-25T20:04:44.484Z
+author: Donald Draper
 thumbnail: ./img/sheep.jpg
-tags:
-  - piano
 artists:
   - Jack Jackson
+tags:
+  - piano
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget neque ut nunc gravida pretium. Fusce ac hendrerit ex. Maecenas eu dapibus justo. Donec varius dolor metus, at fringilla tortor scelerisque a. Nulla tincidunt pellentesque magna eu pellentesque. Pellentesque a bibendum neque. Sed volutpat, neque sit amet luctus molestie, est arcu ultrices nisi, quis cursus dui nisl sit amet leo. Aliquam quis nunc quam. Donec euismod sem sed luctus ultrices. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed vitae interdum ligula, in imperdiet lectus. Proin feugiat nec felis a tristique. Praesent in neque faucibus, porta elit nec, cursus nisi. Maecenas at mauris urna. Suspendisse tempus sollicitudin risus, ac malesuada ex pulvinar non. Integer quis maximus diam.
 

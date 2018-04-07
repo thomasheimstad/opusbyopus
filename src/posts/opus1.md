@@ -1,17 +1,19 @@
 ---
 category: opus
+date: 2017-12-04T12:28:12.048Z
+title: '1'
 workname: Fire pianostykker
-title: "1"
+startDate: '15.6'
+startTime: '18:04'
 composedin: "1861"
 dedicatedTo: Ernst Ferdinand Wenzel
-author: Test Testesen
-date: 2017-12-04T12:28:12.048Z
-thumbnail: ./img/room1.jpg
-tags:
-  - piano
 description: testDest
+author: Test Testesen
+thumbnail: ./img/room1.jpg
 artists:
   - Edvard Grieg
+tags:
+  - piano
 ---
 Verket be spilt til Griegs avgangseksamen ved konservatoriet i Leipzig i 1862, men Grieg selv var ikke fornøyd med verket. Han omtalte senere verket som «elevmessig» og at det hadde vært best om det hadde vært «..overlatt til fullstendig glemsel».  
 

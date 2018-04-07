@@ -3,10 +3,19 @@
   background: $black;
   text-align: center;
   padding: $base-padding-y $base-padding-x;
+  @media screen and (max-width: 768px){
+    padding: $mobile-padding-y $base-padding-x;
+  }
   color: darken($secondary-font-color, 25%);
   margin-bottom: -1px;
-  h2 {
-    font-weight: 100;
+  .connectionsInPostHeader {
+    padding: 0 0 2rem;
+    h1 {
+      font-weight: 100;
+    }
+    @media screen and (max-width: 768px) {
+      padding: 0 0 1rem;
+    }
   }
   .perPost {
     display: flex;

@@ -42,19 +42,21 @@ export default class PostTemplate extends React.Component {
           <Hero id={post.title} src={post.thumbnail.childImageSharp.sizes} height="400"/>
           <div className="basePad">
             <div className="flex center column">
-              <h1>OPUS {post.title}</h1>
-              <h3>{post.workname}</h3>
-              <h5>Dedikert til {post.dedicatedTo}</h5>
-              <h4>{post.composedin}</h4>
+              <div className="flex center column">
+                <h1>OPUS {post.title}</h1>
+                <h3>{post.workname}</h3>
+                <h5>Dedikert til {post.dedicatedTo}</h5>
+                <h4>{post.composedin}</h4>
+              </div>
             </div>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-            <div><h4 style={{textAlign: 'left', padding: '0 0 1rem'}}>Forfatter: {post.author}</h4></div>
+            {post.author ? <div><h4 style={{textAlign: 'left', padding: '0 0 1rem'}}>Forfatter: {post.author}</h4></div> : null}
             <div className="post-meta">
               <PostTags tags={post.tags} />
               {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
             </div>
           </div>
-          <ConnectionsInPost connections={artists}/>
+          <ConnectionsInPost connections={artists} startDate={post.startDate} startTime={post.startTime}/>
           <Controls post={post}/>
           {/*<UserInfo config={config} />
           {/* }<Disqus postNode={postNode} /> */}
@@ -112,6 +114,8 @@ export const pageQuery = graphql`
       frontmatter {
         title
         workname
+        startDate
+        startTime
         artists
         medialink
         composedin

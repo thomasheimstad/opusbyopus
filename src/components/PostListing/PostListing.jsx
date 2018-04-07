@@ -38,6 +38,8 @@ export default class PostListing extends React.Component {
           cover: postEdge.node.frontmatter.cover,
           title: postEdge.node.frontmatter.title,
           workname: postEdge.node.frontmatter.workname,
+          startDate: postEdge.node.frontmatter.startDate,
+          startTime: postEdge.node.frontmatter.startTime,
           composedin: postEdge.node.frontmatter.composedin,
           dedicatedTo: postEdge.node.frontmatter.dedicatedTo,
           author: postEdge.node.frontmatter.author,
@@ -53,6 +55,9 @@ export default class PostListing extends React.Component {
         postListPusher();
       }
     });
+    postList.sort(function(a,b){
+      return parseInt(a.title) - parseInt(b.title)
+    })
     this.setState({
       postList: postList
     })

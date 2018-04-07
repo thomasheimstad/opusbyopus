@@ -28,11 +28,23 @@ export default class ConnectionsInPost extends React.Component {
     })
     return (
       <div className="connectionsInPost flex spaceAround column">
+        <div className="connectionsInPostHeader">
           {
             this.props.connections[0].frontmatter.opus ?
-            <h2>{this.state.lang == "en" ? "#NRKGRIEG Minute by minute" : "#NRKGRIEG Minutt for minutt"}</h2> :
-            <h2>{this.state.lang == "en" ? "#NRKGRIEG Minute by minute" : "#NRKGRIEG Minutt for minutt"}</h2>
+            <h1>{this.state.lang == "en" ? "#NRKGRIEG Minute by minute" : "#NRKGRIEG"}</h1> :
+            <h1>{this.state.lang == "no" ? "#NRKGRIEG" : "#NRKGRIEG Minute by minute"}</h1>
           }
+          {
+            this.props.startDate ?
+            <div className="flex center column">
+              <h3>Dato {this.props.startDate}</h3>
+              <h3>Starttid {this.props.startTime}</h3>
+            </div> :
+
+            null
+          }
+        </div>
+
           <div className="perPost flex spaceAround row">
           { artistList }
         </div>
