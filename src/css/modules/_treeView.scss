@@ -4,8 +4,8 @@
   position: relative;
   background-attachment: fixed;
   background-size: contain;
-  background-position: 5rem bottom;
-  background-repeat: no-repeat;
+  background-position: 5rem center;
+  background-repeat: repeat-y;
   z-index: 1;
   overflow: hidden;
   @media screen\0, screen\9 {
@@ -104,14 +104,15 @@
       }
     }
   }
-  @media screen and (min-width: 1600px) and (max-width: 2600px), screen\0, screen\9 {
+  @media screen and (max-width: 2600px), screen\0, screen\9 {
+    background-size: 1000px;
     .verticalLine {
       > div {
-        margin-left: 1100px;
+        margin-left: 1200px;
       }
     }
     .opusHandler {
-      padding-left: 1080px;
+      padding-left: 1180px;
       a {
         span {
           margin-right: 2rem;
@@ -119,20 +120,85 @@
       }
     }
   }
-  @media screen and (max-width: 1100px), screen\0, screen\9 {
-    background-position: -5rem 4rem;
+  @media screen and (max-width: 2000px), screen\0, screen\9 {
+    background-size: 700px;
     .verticalLine {
       > div {
-        margin-left: 440px;
+        margin-left: 900px;
       }
     }
     .opusHandler {
-      padding-left: 420px;
+      padding-left: 880px;
       a {
         span {
           margin-right: 2rem;
         }
       }
+    }
+  }
+  @media screen and (max-width: 1800px), screen\0, screen\9 {
+    background-size: 600px;
+    .verticalLine {
+      > div {
+        margin-left: 800px;
+      }
+    }
+    .opusHandler {
+      padding-left: 780px;
+      a {
+        span {
+          margin-right: 2rem;
+        }
+      }
+    }
+  }
+  @media screen and (max-width: 1600px), screen\0, screen\9 {
+    background-size: 500px;
+    .verticalLine {
+      > div {
+        margin-left: 700px;
+      }
+    }
+    .opusHandler {
+      padding-left: 680px;
+    }
+  }
+  @media screen and (max-width: 1400px), screen\0, screen\9 {
+    background-size: 400px;
+    .verticalLine {
+      > div {
+        margin-left: 600px;
+      }
+    }
+    .opusHandler {
+      padding-left: 580px;
+    }
+  }
+  @media screen and (max-width: 1200px), screen\0, screen\9 {
+    background-size: 350px;
+    .verticalLine {
+      > div {
+        margin-left: 550px;
+      }
+    }
+    .opusHandler {
+      padding-left: 530px;
+      a {
+        span {
+          margin-right: 2rem;
+        }
+      }
+    }
+  }
+  @media screen and (max-width: 1000px) {
+    background-size: 250px;
+    .verticalLine {
+      > div {
+        margin-left: 450px;
+      }
+    }
+    .opusHandler {
+      padding-left: 430px;
     }
   }
   @media screen and (max-width: 868px), screen\0, screen\9 {
