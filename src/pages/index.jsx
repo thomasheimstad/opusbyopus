@@ -8,7 +8,7 @@ import MainSeller from '../components/modules/MainSeller';
 import MainInfoText from '../components/modules/MainInfoText';
 import MainLocations from '../components/modules/MainLocations';
 import MainStarter from '../components/modules/MainStarter';
-import MainFooter from '../components/modules/MainFooter';
+import Footer from '../components/modules/Footer';
 export default class Index extends React.Component {
   state = {
     windowWidth: '',
@@ -49,8 +49,8 @@ export default class Index extends React.Component {
           grieg={this.props.data.front3}
           store={this.props.data.front4}
         />
-        <MainHero id="MainStarter2" src={this.props.data.front5.childImageSharp.sizes} height={`${this.state.windowHeight}`} />
-        <MainFooter />
+
+        <Footer src={this.props.data.front.childImageSharp.sizes}/>
       </div>
     );
   }
@@ -59,7 +59,7 @@ export default class Index extends React.Component {
 /* eslint no-undef: "off"*/
 export const query = graphql`
   query MainImageQuery {
-    front: file(relativePath: { regex: "/Griegtest1Inv/"  }) {
+    front: file(relativePath: { regex: "/GriegTrans1/"  }) {
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.

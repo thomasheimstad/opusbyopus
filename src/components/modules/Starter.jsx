@@ -1,7 +1,7 @@
 import React from 'react';
 import Overcast from "./Overcast";
 import ZoomIn from "./ZoomIn";
-import PageImg from  '../../posts/img/Griegtest1Inv.png';
+import PageImg from  '../../posts/img/GriegTrans1.png';
 
 export default class Starter extends React.Component {
   state = {

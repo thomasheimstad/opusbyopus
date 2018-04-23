@@ -65,14 +65,5 @@ export const pageQuery = graphql`
         }
       }
     }
-    file(relativePath: { regex: "/GriegBackground/"  }) {
-      childImageSharp {
-        # Specify the image processing steps right in the query
-        # Makes it trivial to update as your page's design changes.
-        sizes(maxWidth: 1920, maxHeight: 1100, quality: 80) {
-          ...GatsbyImageSharpSizes
-        }
-      }
-    }
   }
 `;

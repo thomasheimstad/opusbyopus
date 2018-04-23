@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Helmet from "react-helmet";
 import NoInfo from "../components/Info/NoInfo";
 import Hero from "../components/modules/Hero";
-import GriegBackground from "../posts/img/GriegBackground.png";
 import config from "../../data/SiteConfig";
 
 export default class InfoSide extends Component {
@@ -18,11 +17,11 @@ export default class InfoSide extends Component {
 }
 export const query = graphql`
   query GatsbyImageSampleQueryAbout {
-    file(relativePath: { regex: "/GriegBackground/"  }) {
+    file(relativePath: { regex: "/GriegTrans1/"  }) {
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.
-        sizes(maxWidth: 1620, maxHeight: 1100, quality: 80) {
+        sizes(maxWidth: 1620, maxHeight: 1620, quality: 80) {
           ...GatsbyImageSharpSizes
         }
       }

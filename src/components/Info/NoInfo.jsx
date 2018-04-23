@@ -8,19 +8,6 @@ export default class NoInfo extends Component {
   render() {
     return (
         <div className="postContent flex center column">
-
-          <div className="flex center row">
-            <div>
-              
-            </div>
-            <div>
-
-            </div>
-            <div>
-
-            </div>
-          </div>
-
           <div className="blogPost">
             <div className="basePad">
               <div className="flex center column">

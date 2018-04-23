@@ -1,0 +1,35 @@
+.footer {
+  background: $black;
+  color: $secondary-font-color;
+  .gatsby-image-outer-wrapper {
+    z-index: 1;
+    width: 400px;
+    @media screen and (max-width: 768px){
+      width: 200px;
+    }
+  }
+  .footerLinks {
+    padding-bottom: 3rem;
+    @media screen and (max-width: 768px) {
+      padding: 3rem 0;
+      flex-direction: row;
+    }
+  }
+  .button {
+    border: 0;
+    margin: 1.2rem 1rem;
+    &:hover {
+      color: $black;
+      border: 0;
+    }
+  }
+  @media screen and (max-height: 1440px){
+    padding-top: 15%;
+  }
+  @media screen and (max-height: 1000px) {
+    padding-top: 10%;
+  }
+  @media screen and (max-height: 900px) {
+    padding-top: 100px;
+  }
+}

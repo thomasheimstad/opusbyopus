@@ -37,8 +37,12 @@
     }
     .mainEntranceTextInfo {
       padding: 0 $base-padding-x;
+      h2 {
+        margin-bottom: 3rem;
+      }
       @media screen and (max-width: 768px) {
         padding: 0 $mobile-padding-x;
+        h2 {font-size: 1.2rem;}
       }
     }
   }
@@ -90,16 +94,17 @@
     flex: 1;
   }
   .sellPoint {
-    padding: 6rem 0;
+    padding: 4rem 0;
     svg, h1 {
       margin: 0;
       padding: 0;
       margin-bottom: 1.45rem;
-      font-size: 5rem;
-      line-height: 5rem;
+      font-size: 4rem;
+      line-height: 4rem;
       @media screen and (max-width:768px){
-        font-size: 3rem;
-        line-height: 3rem;
+        font-size: 2.5rem;
+        line-height: 2.5rem;
+        margin-bottom: 0.5rem;
       }
     }
   }
@@ -110,11 +115,22 @@
     flex-direction: column;
     padding: 3rem 0;
     .sellPoint {
-      padding: 4rem 0;
+      padding: 2rem 0;
     }
   }
 }
 .mainInfoText {
+  h1, h3, h4, h5 {
+    margin: 0;
+    text-align: center;
+    color: darken($secondary-font-color, 35%);
+    }
+  h1 {
+    color: inherit;
+  }
+  h3 {
+    padding-bottom: $mobile-padding-y;
+  }
   background: $base-background-color;
   width: 100%;
   .basePad {
@@ -128,6 +144,7 @@
 }
 .mainLocations {
   background: $base-background-color;
+  padding-top: 0;
   .locationCard {
     background: $secondary-background-color;
     .gatsby-image-outer-wrapper {
@@ -144,6 +161,12 @@
         @media screen and (max-width: 768px) {
           padding: $mobile-padding-y $mobile-padding-x;
         }
+        a {
+          color: $action-color;
+          &:hover, &:active{
+            color: darken($action-color, 20%);
+          }
+        }
       }
     }
     @media screen and (max-width: 768px) {
@@ -153,8 +176,7 @@
   .locationCard.rowReverse {
     background: $base-background-color;
   }
-}
-.mainFooter {
-  background: $black;
-  color: $secondary-font-color;
+  @media screen and (max-width: 768px){
+    padding:0;
+  }
 }
