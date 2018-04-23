@@ -7,6 +7,7 @@
     flex: 1;
   }
   .mainEntranceImg {
+    z-index: 1;
     width: 100%;
     background: $black;
     color: $white;
@@ -130,6 +131,7 @@
   .locationCard {
     background: $secondary-background-color;
     .gatsby-image-outer-wrapper {
+      z-index: 1;
       margin: 0;
       width: 100%;
       flex: 1;
