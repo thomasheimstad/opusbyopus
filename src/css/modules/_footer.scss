@@ -1,8 +1,10 @@
 .footer {
+  .visible {
+    z-index: 1;
+  }
   background: $black;
   color: $secondary-font-color;
   .gatsby-image-outer-wrapper {
-    z-index: 1;
     width: 400px;
     @media screen and (max-width: 768px){
       width: 200px;
