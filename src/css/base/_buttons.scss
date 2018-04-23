@@ -1,0 +1,17 @@
+.button {
+  margin: 1rem 0.1rem;
+  a {
+    border: 1px solid grey;
+    border-radius: 2%;
+    padding: 1rem 2rem;
+    background: inherit;
+    transition: $base-in-timing $base-in-duration;
+    &:hover {
+      background: $secondary-background-color;
+    }
+    @media screen and (max-width: 900px) {
+      padding: 1rem;
+      font-size: 0.8rem;
+    }
+  }
+}

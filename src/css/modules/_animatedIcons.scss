@@ -26,6 +26,18 @@
     }
   }
 }
+.scrollToAnchorButton{
+  background-color: $black;
+}
+.scrollToAnchorMouse{
+  border-color: $black;
+  &:hover {
+    border-color: darken($secondary-background-color, 20%);
+    .scrollbutton {
+      background: darken($secondary-background-color, 90%);
+    }
+  }
+}
 @keyframes mouseScroll {
   0% { opacity: 0; }
   10% { transform: translateY(0); opacity: 1; }

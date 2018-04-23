@@ -1,8 +1,8 @@
 import React from 'react';
 import TiFlag from 'react-icons/lib/ti/flag';
 import FaHome from 'react-icons/lib/fa/home';
-import FaNumList from 'react-icons/lib/md/format-list-numbered'
-import MdInfo from 'react-icons/lib/md/info-outline'
+import MdList from 'react-icons/lib/md/list';
+import MdInfo from 'react-icons/lib/md/info-outline';
 import MdStar from "react-icons/lib/md/star-outline";
 import NavLink from 'gatsby-link';
 import PageImg from  '../../posts/img/Griegtest1.png';
@@ -23,7 +23,7 @@ const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick, l
               exact to="/opus-for-opus"
               activeClassName="active"
               className={loc.indexOf("/opus") >= 0 ? "active" : ""}>
-              <h3><FaNumList /> Opus for opus</h3>
+              <h3><MdList /> Opus for opus</h3>
             </NavLink>
           </li>
           <li onClick={handleNavClick}>

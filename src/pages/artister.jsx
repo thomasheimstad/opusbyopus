@@ -56,11 +56,11 @@ class Artister extends React.Component {
     }
     return (
       <div className=" artist-container">
-        <Helmet title="Artist for artist | #NRKGRIEG" />
+        <Helmet title="Artister | #NRKGRIEG" />
         <SEO postEdges={postEdges} pageImg={PageImg} />
         <Starter height="2">
           <h1>#NRKGRIEG</h1>
-          <h2>Artistene</h2>
+          <h2>Artister</h2>
         </Starter>
         <div className="flex center tag-container">
           <h4

@@ -19,6 +19,8 @@ class OpusForOpus extends React.Component {
         <Starter height="1">
           <h1>EDVARD GRIEG</h1>
           <h2>OPUS FOR OPUS</h2>
+          <br/>
+          <p>Les om hvert eneste verk, og se hvilken artist som spiller hvert opus under Grieg minutt for minutt. Skroll ned for å begynne</p>
         </Starter>
         <ToolTipBottom anchorId="treeView" scrollSpeed={1000} />
         <PostListing postEdges={postEdges} view="treeView" title="Opus by Opus" img={GriegMFM}/>

@@ -42,7 +42,6 @@ export default class HTML extends React.Component {
           <meta name="Site Creator" content="www.thomasheimstad.com" />
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
-
           {css}
         </head>
         <body>

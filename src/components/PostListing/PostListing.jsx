@@ -111,6 +111,7 @@ export default class PostListing extends React.Component {
                     <ArtistView {...post}
                       percentage={this.state.percentage}
                       treeHiderScrollTop={this.state.scrollTop}
+                      height="200"
                     />
                 </div>
               )}

@@ -1,4 +1,6 @@
 // Typography
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One');
 $base-font-family: 'Open sans', sans-serif;
 $heading-font-family: 'Raleway', sans-serif;
 
@@ -64,7 +66,7 @@ $postgrey: #e0e0e0;
 $action-color:  $bluegray;
 $secondary-action-color: $beige;
 $base-font-color: $bluejacket; /*$dark-gray;*/
-$secondary-font-color: $postgrey;
+$secondary-font-color: $gray2;
 
 $h1: $fefd;
 

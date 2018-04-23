@@ -13,6 +13,10 @@
 .spaceAround {
   justify-content: space-around;
 }
+.flexStart {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
 .wrap {
   flex-wrap: wrap;
 }
@@ -24,6 +28,12 @@
 }
 .wrap {
   flex-wrap: wrap;
+}
+.rowReverse {
+   flex-direction: row-reverse;
+}
+.columnReverse {
+  flex-direction: column-reverse;
 }
 .grid {
   display: flex;

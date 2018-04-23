@@ -39,32 +39,15 @@ export default class CountDownTimer extends React.Component {
     return(
       <div className="countDownTimer flex column">
         { !this.state.letsCelebrate ?
-          <div>
-            <div className="flex center column underline">
-              <h2>#NRKGrieg - Minutt For Minutt</h2>
-            </div>
-            <div className="flex center row wrap">
-              <div className="flex center row">
-                <h1>{this.state.days}</h1>
-                <h3>D</h3>
-              </div>
-              <div className="flex center row">
-                <h1>{this.state.hours}</h1>
-                <h3>T</h3>
-              </div>
-              <div className="flex center row">
-                <h1>{this.state.minutes}</h1>
-                <h3>M</h3>
-              </div>
-              <div className="flex center row">
-                <h1>{this.state.seconds}</h1>
-                <h3>S</h3>
-              </div>
-            </div>
+          <div className="flex center row wrap">
+            <h2>{this.state.days}d</h2>
+            <h2>{this.state.hours}t</h2>
+            <h2>{this.state.minutes}m</h2>
+            <h2>{this.state.seconds}s</h2>
           </div>
           :
-        <div>
-          <h1>test</h1>
+        <div className="flex center button">
+          <a href="$"><h1>SE SENDINGEN HER</h1></a>
         </div>
         }
       </div>

@@ -3,10 +3,12 @@
 @import "./base/layouts";
 @import "./base/transitions";
 @import "./base/icons";
+@import "./base/buttons";
 @import "./base/post";
 @import "./base/admin";
 @import "./modules/scrollBar";
 @import "./modules/nav";
+@import "./modules/main";
 @import "./modules/starter";
 @import "./modules/countDownTimer";
 @import "./modules/connectionsInPost";
@@ -16,8 +18,6 @@
 @import "./modules/hero";
 @import "./modules/info";
 @import "./modules/animatedIcons";
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One');
 * {
   -webkit-font-smoothing: antialiased;
  -moz-osx-font-smoothing: grayscale;

@@ -25,10 +25,11 @@ export default class BgImage extends React.Component {
   handleResize = () => {
     let w = window,
         d = document,
+        s = screen,
         e = d.documentElement,
         g = d.getElementsByTagName('body')[0],
         x = w.innerWidth || e.clientWidth || g.clientWidth,
-        y = w.innerHeight|| e.clientHeight|| g.clientHeight;
+        y = w.innerHeight|| s.availHeight || e.clientHeight|| g.clientHeight;
         this.setState({
           windowWidth: x,
           windowHeight: y
@@ -42,15 +43,25 @@ export default class BgImage extends React.Component {
     window.removeEventListener('resize', this.handleResize);
   }
   render = () => {
-    let divHeightOrd = this.props.height;
-    let divHeightMobile = this.props.height/2;
-
+    let checkIfPropsHasPercentage = () => {
+      if(this.props.height === "100%" ) {
+        return <StyledImage
+          sizes={this.props.sizes}
+          height={this.props.height.indexOf("%") !== -1 ? this.state.windowHeight+"px" : this.props.height+"px"}
+          position={this.props.position}
+          fit={this.props.fit}
+        />
+      } else {
+        return <StyledImage
+          sizes={this.props.sizes}
+          height={this.state.windowWidth > 768 ? this.props.height+"px" : this.props.height/2+"px" }
+          position={this.props.position}
+          fit={this.props.fit}
+        />
+      }
+    }
     return (
-      <StyledImage sizes={this.props.sizes}
-        height={this.state.windowWidth > 768 ? this.props.height+"px" : this.props.height/2+"px"}
-        position={this.props.position}
-        fit={this.props.fit}
-      />
+      checkIfPropsHasPercentage()
     )
   }
 }

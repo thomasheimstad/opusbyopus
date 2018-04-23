@@ -1,5 +1,6 @@
 import React from 'react';
 import Overcast from "./Overcast";
+import ZoomIn from "./ZoomIn";
 import PageImg from  '../../posts/img/Griegtest1Inv.png';
 
 export default class Starter extends React.Component {
@@ -23,7 +24,6 @@ export default class Starter extends React.Component {
   componentDidMount = () => {
     this.handleResize();
     window.addEventListener('resize', this.handleResize);
-    setTimeout(function() { this.setState({zoomIn: 1}); }.bind(this), 200);
   }
   componentWillUnmount = () => {
     window.removeEventListener('resize', this.handleResize);
@@ -32,18 +32,14 @@ export default class Starter extends React.Component {
     let starterHeight = {
       height: this.state.windowHeight / this.props.height
     }
-    let transformStyle = {
-      transform: `scale(${this.state.zoomIn})`,
-      transition: "0.3s ease-out"
-    }
     let backgroundStyle = {
       backgroundImage: `url(${PageImg})`,
     }
     return(
       <div className="starter flex column center basePad" style={starterHeight}>
-        <div style={transformStyle}>
+        <ZoomIn>
           {this.props.children}
-        </div>
+        </ZoomIn>
         <Overcast id="starterOvercast" height={this.props.height}>
           <div className="pageImgBackground" style={backgroundStyle}></div>
         </Overcast>
