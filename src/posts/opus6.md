@@ -4,7 +4,6 @@ date: 2017-11-25T20:04:44.484Z
 title: '6'
 workname: Humoresker
 startDate: '15.6'
-startTime: '19:09'
 composedin: '1865'
 dedicatedTo: ''
 description: Fire humoresker for solo piano

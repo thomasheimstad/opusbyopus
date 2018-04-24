@@ -4,7 +4,6 @@ date: 2017-11-25T20:04:44.484Z
 title: '3'
 workname: Poetiske tonebilder
 startDate: '15.6'
-startTime: '18:32'
 composedin: "1863"
 dedicatedTo: Benjamin Feddersen
 description: testDest

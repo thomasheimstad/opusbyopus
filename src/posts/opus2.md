@@ -4,7 +4,6 @@ date: 2017-11-28T20:45:39.703Z
 title: '2'
 workname: Fire sanger
 startDate: '15.6'
-startTime: '18:20'
 composedin: "1861"
 dedicatedTo: Wibecke Meyer
 description: testDest

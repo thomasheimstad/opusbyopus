@@ -4,7 +4,6 @@ date: 2017-12-04T12:28:12.048Z
 title: '1'
 workname: Fire pianostykker
 startDate: '15.6'
-startTime: '18:04'
 composedin: "1861"
 dedicatedTo: Ernst Ferdinand Wenzel
 description: testDest

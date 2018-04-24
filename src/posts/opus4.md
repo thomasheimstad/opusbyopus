@@ -4,7 +4,6 @@ date: 2017-11-26T16:20:29.979Z
 title: '4'
 workname: Seks digte
 startDate: '15.6'
-startTime: '18:46'
 composedin: "1864"
 dedicatedTo: Nina Hagerup
 description: testDest

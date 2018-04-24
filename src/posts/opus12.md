@@ -4,7 +4,6 @@ date: 2017-11-25T20:04:44.484Z
 title: '12'
 workname: Lyriske stykker hefte I
 startDate: '15.6'
-startTime: '21:00'
 composedin: '1867'
 dedicatedTo: 'Betty Egeberg'
 description: Det første heftet med lyriske stykker for solo piano

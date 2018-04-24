@@ -4,7 +4,6 @@ date: 2017-11-25T20:04:44.484Z
 title: '5'
 workname: Hjertets melodier
 startDate: '15.6'
-startTime: '19:00'
 composedin: "1865"
 dedicatedTo: Hans Christian Andersen
 description: JackDest

@@ -38,7 +38,7 @@ export default class ConnectionsInPost extends React.Component {
             this.props.startDate ?
             <div className="flex center column">
               <h3>Dato {this.props.startDate}</h3>
-              <h3>Starttid {this.props.startTime}</h3>
+              {this.props.startTime ? <h3>Starttid {this.props.startTime}</h3> : null}
             </div> :
 
             null

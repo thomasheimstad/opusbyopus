@@ -22,6 +22,7 @@
   padding-top: 0;
   flex-direction: column;
   .locationCard {
+    height: 100%;
     flex-direction: column;
     background: $base-background-color;
     .gatsby-image-outer-wrapper {
@@ -33,6 +34,8 @@
     .locationInfoWrapper {
       flex: 1.5;
       .locationInfo {
+        height: 100%;
+        width: 100%;
         align-items: flex-start;
         text-align: left;
         @media screen and (max-width: 768px) {
