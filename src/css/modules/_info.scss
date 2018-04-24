@@ -16,7 +16,59 @@
       }
     }
   }
-  iFrame {
-    margin-bottom: 0;
+}
+.locations {
+  background: $secondary-background-color;
+  padding-top: 0;
+  flex-direction: column;
+  .locationCard {
+    flex-direction: column;
+    background: $base-background-color;
+    .gatsby-image-outer-wrapper {
+      z-index: 1;
+      margin: 0;
+      width: 100%;
+      flex: 1;
+    }
+    .locationInfoWrapper {
+      flex: 1.5;
+      .locationInfo {
+        align-items: flex-start;
+        text-align: left;
+        @media screen and (max-width: 768px) {
+          padding: $mobile-padding-y $mobile-padding-x;
+        }
+        h4 {
+          font-weight: 100;
+          text-align: left;
+          padding: 0;
+        }
+        a {
+          color: $action-color;  text-align: left;
+          &:hover, &:active{
+            color: darken($action-color, 20%);
+          }
+        }
+      }
+    }
+  }
+  iframe {
+    margin-bottom: $mobile-padding-y;
+    height: 450px;
+    @media screen and (max-width: 768px) {
+      height: 400px;
+    }
+  }
+  div:last-of-type {
+    iframe {
+      margin-bottom: 0;
+    }
+  }
+  .locationCard.rowReverse {
+    background: $base-background-color;
+  }
+  @media screen and (max-width: 768px){
+    padding:0;
+    background: $base-background-color;
   }
 }

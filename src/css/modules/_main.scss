@@ -20,15 +20,18 @@
     h1 {
       font-size: 9rem;
       line-height: 9rem;
+      margin-bottom: 0;
       padding: 0;
       @media screen and (max-width: 768px) {
-        font-size: 6rem;
-        line-height: 6rem;
+        font-size: 3rem;
+        line-height: 3rem;
       }
     }
     h2 {
-      font-size: 2rem;
-      font-weight: 100;
+      font-size: 2.7rem;
+      @media screen and (max-width: 768px){
+        font-size: 0.9rem;
+      }
     }
   }
   .mainEntranceText {
@@ -39,10 +42,13 @@
       padding: 0 $base-padding-x;
       h2 {
         margin-bottom: 3rem;
+        max-width: 50ch;
+        font-weight: 100;
+        font-size: 1.4rem;
       }
       @media screen and (max-width: 768px) {
         padding: 0 $mobile-padding-x;
-        h2 {font-size: 1.2rem;}
+        h2 {font-size: 1rem;}
       }
     }
   }
@@ -113,9 +119,9 @@
   }
   @media screen and (max-width: 768px) {
     flex-direction: column;
-    padding: 3rem 0;
+    padding: 0;
     .sellPoint {
-      padding: 2rem 0;
+      padding: 3rem 0;
     }
   }
 }
@@ -140,43 +146,5 @@
     @media screen and (max-width: 768px){
       padding: 2rem 0 0;
     }
-  }
-}
-.mainLocations {
-  background: $base-background-color;
-  padding-top: 0;
-  .locationCard {
-    background: $secondary-background-color;
-    .gatsby-image-outer-wrapper {
-      z-index: 1;
-      margin: 0;
-      width: 100%;
-      flex: 1;
-    }
-    .locationInfoWrapper {
-      flex: 1.5;
-      .locationInfo {
-        align-items: flex-start;
-        padding: 0 15% 0 10%;
-        @media screen and (max-width: 768px) {
-          padding: $mobile-padding-y $mobile-padding-x;
-        }
-        a {
-          color: $action-color;
-          &:hover, &:active{
-            color: darken($action-color, 20%);
-          }
-        }
-      }
-    }
-    @media screen and (max-width: 768px) {
-      flex-direction: column;
-    }
-  }
-  .locationCard.rowReverse {
-    background: $base-background-color;
-  }
-  @media screen and (max-width: 768px){
-    padding:0;
   }
 }

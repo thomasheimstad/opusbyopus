@@ -6,7 +6,6 @@ import MainEntrance from "../components/modules/MainEntrance";
 import MainHero from '../components/modules/MainHero';
 import MainSeller from '../components/modules/MainSeller';
 import MainInfoText from '../components/modules/MainInfoText';
-import MainLocations from '../components/modules/MainLocations';
 import MainStarter from '../components/modules/MainStarter';
 import Footer from '../components/modules/Footer';
 export default class Index extends React.Component {
@@ -44,11 +43,6 @@ export default class Index extends React.Component {
         />
         <MainSeller />
         <MainInfoText />
-        <MainLocations
-          trold={this.props.data.front2}
-          grieg={this.props.data.front3}
-          store={this.props.data.front4}
-        />
 
         <Footer src={this.props.data.front.childImageSharp.sizes}/>
       </div>
@@ -64,33 +58,6 @@ export const query = graphql`
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.
         sizes(maxWidth: 1080, maxHeight: 1080, quality: 80) {
-          ...GatsbyImageSharpSizes
-        }
-      }
-    }
-    front2: file(relativePath: { regex: "/Troldhaugen/"  }) {
-      childImageSharp {
-        # Specify the image processing steps right in the query
-        # Makes it trivial to update as your page's design changes.
-        sizes(maxWidth: 1920, maxHeight: 1080, quality: 80) {
-          ...GatsbyImageSharpSizes
-        }
-      }
-    }
-    front3: file(relativePath: { regex: "/Grieghallen/"  }) {
-      childImageSharp {
-        # Specify the image processing steps right in the query
-        # Makes it trivial to update as your page's design changes.
-        sizes(maxWidth: 1920, maxHeight: 1080, quality: 80) {
-          ...GatsbyImageSharpSizes
-        }
-      }
-    }
-    front4: file(relativePath: { regex: "/Storestudio/"  }) {
-      childImageSharp {
-        # Specify the image processing steps right in the query
-        # Makes it trivial to update as your page's design changes.
-        sizes(maxWidth: 1920, maxHeight: 1080, quality: 80) {
           ...GatsbyImageSharpSizes
         }
       }

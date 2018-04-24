@@ -6,14 +6,21 @@ export default class LocationCard extends React.Component {
   render = () => {
     return(
       <FadeInWrapper id={this.props.id}>
+        <BgImage sizes={this.props.src} height="400" />
         <div className={`locationCard flex ${this.props.revrev}`}>
-            <BgImage sizes={this.props.src.childImageSharp.sizes} height="500" />
-            <div className="locationInfoWrapper flex column center">
-              <div className="locationInfo">
-                {this.props.children}
-              </div>
+          <div className="locationInfoWrapper flex column center">
+            <div className="locationInfo basePad">
+              {this.props.children}
             </div>
           </div>
+        </div>
+        <iframe
+          src={this.props.embed}
+          width="100%"
+          height="100%" 
+          frameBorder="0"
+          style={{border: '0'}}
+          allowFullScreen></iframe>
       </FadeInWrapper>
     )
   }

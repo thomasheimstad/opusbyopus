@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import CollaboratorsLogo from "../modules/CollaboratorsLogo";
+import Locations from "../modules/Locations";
 
 export default class NoInfo extends Component {
   shouldComponentUpdate() {
@@ -36,16 +37,15 @@ export default class NoInfo extends Component {
                 </div>
               </div>
             </div>
-
-            <div>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d7901.461849566656!2d5.334278756443554!3d60.3235493537705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x463cf9a2f5f3f511%3A0x21218e34c0b69822!2sHop+Light+Rail+Stop%2C+Nesttunvegen+43%2C+5232+Paradis%2C+Norway!3m2!1d60.3267715!2d5.346650299999999!4m5!1s0x463cf99177a78e9b%3A0x8511c1fd93c7c06!2sEdvard+Grieg+Museum+Troldhaugen%2C+Troldhaugvegen%2C+Paradis%2C+Norway!3m2!1d60.319624999999995!2d5.329447!5e0!3m2!1sen!2sdk!4v1522004314111" width="100%" height="450" frameBorder="0" style={{border: '0'}} allowFullScreen></iframe>
-            </div>
-
+            <Locations
+              trold={this.props.trold}
+              grieg={this.props.grieg}
+              store={this.props.store}
+            />
               <div className="collaboratorsLogo flex column center basePad">
                 <h2>Et samarbeid mellom</h2>
                 <CollaboratorsLogo />
               </div>
-
           </div>
         </div>
     );

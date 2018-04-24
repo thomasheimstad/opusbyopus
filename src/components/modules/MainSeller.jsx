@@ -13,7 +13,7 @@ const MainSeller = () => {
       <FadeInWrapper id="mainSeller2">
         <div className="sellPoint flex center column">
           <h1>600+</h1>
-          <h3>Musikere</h3>
+          <h3>musikere</h3>
         </div>
       </FadeInWrapper>
       <FadeInWrapper id="mainSeller3">

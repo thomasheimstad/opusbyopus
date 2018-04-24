@@ -21,13 +21,13 @@ const MainInfoText = () => {
                 <p>Praesent consectetur nisi mi. Aliquam erat volutpat. Aliquam quis fringilla ex. Aliquam erat volutpat. Integer ac pulvinar mauris, et vulputate ipsum. Duis fermentum, dui at pharetra molestie, est dolor sagittis nunc, et interdum ipsum nisi a diam. Mauris scelerisque mi eget ligula pulvinar, nec hendrerit tortor ultrices. Vivamus varius rhoncus ultricies. Sed suscipit ex et elit finibus lobortis. Donec non elementum lectus. Maecenas in molestie mauris.
                 </p>
               </FadeInWrapper>
-              <FadeInWrapper id="mainInfoText5">
+              {/*<FadeInWrapper id="mainInfoText5">
                 <div className="flex spaceAround wrap">
                   <div className="button"><NavLink to="/info">Mer Info</NavLink></div>
                   <div className="button"><NavLink to="/opus-for-opus">Opus for opus</NavLink></div>
                   <div className="button"><NavLink to="/artister">Artister</NavLink></div>
                 </div>
-              </FadeInWrapper>
+              </FadeInWrapper>*/}
             </div>
         </div>
     </div>
