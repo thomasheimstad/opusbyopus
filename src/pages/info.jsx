@@ -21,7 +21,7 @@ export default class InfoSide extends Component {
 }
 export const query = graphql`
   query GatsbyImageSampleQueryAbout {
-    front: file(relativePath: { regex: "/GriegTrans1/"  }) {
+    front: file(relativePath: { regex: "/GriegNightTrans/"  }) {
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.

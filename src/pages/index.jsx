@@ -38,7 +38,7 @@ export default class Index extends React.Component {
         <Helmet title={config.siteTitle} />
         <MainEntrance
           id="MainEntrance"
-          src={this.props.data.front.childImageSharp.sizes}
+          src={this.props.data.front2.childImageSharp.sizes}
           windowHeight={this.state.windowHeight}
         />
         <MainSeller />
@@ -53,7 +53,7 @@ export default class Index extends React.Component {
 /* eslint no-undef: "off"*/
 export const query = graphql`
   query MainImageQuery {
-    front: file(relativePath: { regex: "/GriegTrans1/"  }) {
+    front: file(relativePath: { regex: "/GriegNightTrans/"  }) {
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.
@@ -62,11 +62,11 @@ export const query = graphql`
         }
       }
     }
-    front5: file(relativePath: { regex: "/Collage/"  }) {
+    front2: file(relativePath: { regex: "/GriegNightCircle2/"  }) {
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.
-        sizes(maxWidth: 1920, maxHeight: 1080, quality: 80) {
+        sizes(maxWidth: 1080, maxHeight: 1080, quality: 80) {
           ...GatsbyImageSharpSizes
         }
       }

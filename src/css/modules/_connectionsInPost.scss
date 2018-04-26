@@ -35,6 +35,8 @@
         border-radius: 50%;
         overflow: hidden;
         margin-bottom: 1rem;
+        margin-left: auto;
+        margin-right: auto;
         padding: 0;
         transition: $base-in-timing $base-in-duration;
       }

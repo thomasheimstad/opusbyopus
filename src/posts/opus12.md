@@ -1,6 +1,6 @@
 ---
 category: opus
-date: 2017-11-25T20:04:44.484Z
+date: 2018-05-11T20:04:44.484Z
 title: '12'
 workname: Lyriske stykker hefte I
 startDate: '15.6'
@@ -10,7 +10,7 @@ description: Det første heftet med lyriske stykker for solo piano
 author: Monica Jangaard
 thumbnail: ./img/sheep.jpg
 artists:
-  - Liv Glaser
+  - Pål Eide
 tags:
   - piano
 ---

@@ -5,25 +5,19 @@ title: '6'
 workname: Humoresker
 startDate: '15.6'
 composedin: '1865'
-dedicatedTo: ''
+dedicatedTo: 'Rikard Nordraak'
 description: Fire humoresker for solo piano
-author: Donald Draper
+author: Erling Dahl Jr.
 thumbnail: ./img/sheep.jpg
 artists:
-  - Jack Jackson
+  - Joachim Carr
 tags:
   - piano
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget neque ut nunc gravida pretium. Fusce ac hendrerit ex. Maecenas eu dapibus justo. Donec varius dolor metus, at fringilla tortor scelerisque a. Nulla tincidunt pellentesque magna eu pellentesque. Pellentesque a bibendum neque. Sed volutpat, neque sit amet luctus molestie, est arcu ultrices nisi, quis cursus dui nisl sit amet leo. Aliquam quis nunc quam. Donec euismod sem sed luctus ultrices. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed vitae interdum ligula, in imperdiet lectus. Proin feugiat nec felis a tristique. Praesent in neque faucibus, porta elit nec, cursus nisi. Maecenas at mauris urna. Suspendisse tempus sollicitudin risus, ac malesuada ex pulvinar non. Integer quis maximus diam.
+Det første opus Grieg virkeliggjorde sitt livslange prosjekt i var i ”Humoresker”  opus 6.
 
+I disse fire stykkene, komponert i 1865, lar han seg inspirere av og til å bruke motiver og vendinger fra den norske folkemusikken. Etter at Grieg møtte Rickard Nordraak i København sommeren 1864, fikk livet hans ny retning og mening. Han skulle vende seg mot det norske og personlige (den nasjonalromantiske idé) i sitt uttrykk. Dette manifesterte seg i Humoreskene. Stykkene overrasket både publikum og kritikere. Her sto det plutselig fram en komponist med en særegen originalitet og evne til å forene slektskapet til den norske folkemusikken med tidens nye, musikalske strømninger.
 
+Stykkene har nær tilknytning til norske folketoner – for eksempel i nr. 2, Tempo di Menuetto, har åpningsmotivet likhetstrekk med ”Alle mann hadde fota” og ”Grisen” (Lindemanns samling). Nr. 1 er en Springar og den tredje en Halling. Den 4. – Allegro alla burla – viser Griegs mesterskap innen harmonikk og konsentrasjon av det idérike stoffet.
 
-Vivamus rutrum sit amet sapien in aliquam. Cras at auctor lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer nec risus nec elit scelerisque placerat nec in tellus. Donec vitae sapien quis dui faucibus auctor non eu turpis. Nunc arcu metus, tempor quis arcu ut, blandit tristique ante. Donec odio nunc, vehicula at condimentum vel, dictum non justo.
-
-
-
-Vestibulum porttitor nulla id nibh egestas, eu finibus nunc accumsan. Aliquam pellentesque molestie malesuada. Duis scelerisque ante vitae metus fringilla, at porta tortor tincidunt. Aliquam auctor dolor eu aliquet eleifend. Aenean nisi libero, dictum in dui sit amet, posuere ullamcorper dolor. Pellentesque molestie molestie nibh rhoncus posuere. Sed tempor sollicitudin risus, eget malesuada est fermentum sit amet. Sed quam purus, molestie eget nibh sed, dapibus maximus orci. Duis congue accumsan lectus eget porta. Nullam et lorem eget augue lacinia ullamcorper. Etiam a tincidunt ligula, sed pellentesque urna. Nulla tristique et tortor a ullamcorper. In vestibulum magna vel felis vulputate, sit amet mollis metus hendrerit. Nam malesuada lectus ut dui auctor, quis interdum nisi gravida. Etiam vel blandit erat. Sed nec ornare tellus.
-
-
-
-Suspendisse potenti. Quisque turpis tortor, sodales eget convallis eu, vestibulum eu tellus. Duis varius neque turpis, id dignissim urna ultricies sed. Suspendisse suscipit magna nec nulla eleifend convallis. Vestibulum cursus tincidunt ipsum a tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rutrum, est maximus scelerisque pellentesque, erat est sodales lectus, at semper lectus massa eget dui.
+Våren 1866 var Grieg på vei fra sitt fire måneder lange opphold i Roma. På hjemveien stoppet han opp i Leipzig og stakk innom sitt gamle studiested. Videre i Berlin gikk han innom en musikkhandel og spurte helt anonymt etter sine «Humoresker», opus 6. Forhandleren kunne berette at disse var helt utsolgt, på grunn av den store interessen. Grieg ga seg ikke til kjenne, og kunne notere seg en god porsjon suksess.  

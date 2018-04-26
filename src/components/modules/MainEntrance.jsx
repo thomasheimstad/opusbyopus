@@ -11,9 +11,11 @@ export default class MainEntrance extends React.Component {
       <div className="mainEntranceImg flex center column">
         <BgImage sizes={this.props.src} position={this.props.position} fit={this.props.fit} />
           <ZoomIn>
-            <div className="flex center column">
+            <div className="flex center column flexStart">
             <h1>GRIEG</h1>
-            <h2>MINUTT FOR MINUTT</h2>
+            <h1>MINUTT</h1>
+            <h1>FOR</h1>
+            <h1>MINUTT</h1>
         </div>
         </ZoomIn>
       </div>

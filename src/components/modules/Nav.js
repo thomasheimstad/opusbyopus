@@ -5,7 +5,7 @@ import MdList from 'react-icons/lib/md/list';
 import MdInfo from 'react-icons/lib/md/info-outline';
 import MdStar from "react-icons/lib/md/star-outline";
 import NavLink from 'gatsby-link';
-import PageImg from  '../../posts/img/Griegtest1.png';
+import PageImg from  '../../posts/img/GriegNightInv.png';
 
 const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick, loc}) => {
   return(
