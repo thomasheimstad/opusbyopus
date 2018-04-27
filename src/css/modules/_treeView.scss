@@ -88,7 +88,7 @@
       }
     }
   }
-  @media screen and (min-width: 100px), screen\0 {
+  @media screen\0, screen\9 {
     background-attachment: scroll;
     color: $secondary-font-color;
     background-size: contain;
@@ -104,7 +104,7 @@
       background: rgba(0,10,25,0.7);
     }
   }
-  @media screen and (min-width: 100px), screen\9 {
+  @media \0screen {
     background-attachment: scroll;
     color: $secondary-font-color;
     background-size: contain;
