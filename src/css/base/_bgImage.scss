@@ -1,0 +1,16 @@
+.gatsby-image-outer-wrapper {
+  @media screen and (min-width: 100px), screen\0 {
+    div {
+      img:first-of-type {
+        visibility: hidden;
+      }
+    }
+  }
+  @media screen and (min-width: 100px), screen\9 {
+    div {
+      img:first-of-type {
+        visibility: hidden;
+      }
+    }
+  }
+}
