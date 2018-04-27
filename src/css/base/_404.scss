@@ -1,10 +1,25 @@
+.base404 {
+  div {
+    h2 {
+      text-align: center;
+    }
+  }
+}
 .pageNotFound {
+  div {
+    h2 {
+      text-align: center;
+    }
+  }
   .controls {
     background: inherit;
     border: 0;
     justify-content: center;
     > div {
       margin: 1rem;
+    }
+    h3:hover {
+      color: $black;
     }
     padding-bottom: $mobile-padding-y;
     margin-bottom: 0;

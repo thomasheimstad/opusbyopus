@@ -12,6 +12,7 @@ import Controls from "../components/modules/Controls";
 import Media from "../components/modules/Media";
 import ConnectionsInPost from "../components/modules/ConnectionsInPost";
 import PageNotFound from '../pages/404';
+import GriegNightCircle2 from '../posts/img/GriegNightCircle2.png';
 
 export default class PostTemplate extends React.Component {
   formatDate = (date) => {
@@ -69,10 +70,13 @@ export default class PostTemplate extends React.Component {
       } else {
         return (
           <div className="pageNotFound flex center column basePad" style={{height: '100%', width: '100%'}}>
-            <h2>Dette opuset er fortsatt hemmelig.</h2>
-            <h2>Du må nok vente i spenning!</h2>
-            <h2>Følg med og hold deg oppdatert.</h2>
-            <h2>Vi publiserer litt etter litt.</h2>
+            <img src={GriegNightCircle2} alt="Grieg minutt for minutt logo" style={{height: "200px", marginBottom: "3rem"}}/>
+            <div className="flex center column">
+              <h2>Innholdet her er fortsatt hemmelig.</h2>
+              <h2>Du må nok vente i spenning.</h2>
+              <h2>Følg med og hold deg oppdatert.</h2>
+              <h2>Vi publiserer litt etter litt.</h2>
+            </div>
             <Controls post={post}/>
             <div className="button"><NavLink to="/opus-for-opus">Returner til opuslisten her.</NavLink></div>
           </div>
