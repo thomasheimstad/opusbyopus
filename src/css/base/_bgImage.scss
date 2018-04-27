@@ -1,12 +1,12 @@
 .gatsby-image-outer-wrapper {
-  @media screen and (min-width: 100px), screen\0 {
+  @media screen\0, screen\9 {
     div {
       img:first-of-type {
         visibility: hidden;
       }
     }
   }
-  @media screen and (min-width: 100px), screen\9 {
+  @media \0screen {
     div {
       img:first-of-type {
         visibility: hidden;
