@@ -12,14 +12,26 @@ const MainInfoText = () => {
           </FadeInWrapper>
             <div className="basePad">
               <FadeInWrapper id="mainInfoText2">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel lobortis eros. Aliquam erat volutpat. In nisl nisi, semper eu est sed, interdum tincidunt augue. Morbi sit amet blandit lacus, eget ornare nibh. Suspendisse sed luctus quam. Etiam lacinia purus arcu, ac mattis ante hendrerit vitae. In hac habitasse platea dictumst. Aliquam quis enim vel lacus egestas aliquam. Pellentesque non ultricies ligula. Integer lectus eros, congue eget tempus in, blandit sit amet diam. Fusce ullamcorper turpis sed lacus accumsan, scelerisque congue ligula posuere. Suspendisse bibendum lacinia aliquet. Ut vel justo ac massa tincidunt laoreet ut et sem. Fusce sed ex at libero mattis vestibulum. Sed rutrum consequat congue.</p>
+                <h2>Grieg minutt for minutt – årets store TV-begivenhet! 15. juni 2018 er det 175 år siden Edvard Grieg ble født. Vi markerer dagen med verdens lengste Grieg-konsert, 30 timer direkte på NRK!</h2>
+                <p>En klassisk musikkfest i Bergen! Grieg minutt for minutt er enestående anledning til å oppleve hele Griegs produksjon fra opus 1–74, fremført av det beste fra norsk musikkliv. Troldhaugen, Edvard Griegs hjem, blir åpent gjennom hele arrangementet og et sentrum for den store folkefesten. Det blir også store arrangementer og opplevelser i Grieghallen, både med Bergen Filharmoniske Orkester, kor og andre musikere. Også Kringkastingsorkesteret bidrar med stor musikk fra Store Studio. Kanskje blir det innslag fra andre deler av landet også!</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText3">
-                <p>Maecenas id justo dapibus, posuere arcu nec, ultricies metus. Ut ullamcorper, purus sit amet varius aliquet, orci est finibus justo, et gravida est tortor quis purus. Donec mauris libero, faucibus vel bibendum id, molestie at magna. Duis ornare justo nec volutpat volutpat. Sed varius ex nec ligula varius pulvinar. Proin sapien felis, aliquet id ultricies eu, venenatis quis turpis. Ut ullamcorper facilisis dui, in gravida lectus rhoncus eu. Nulla convallis elit est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam porta eget neque vitae luctus. Aliquam felis sem, pellentesque sed semper nec, accumsan non dolor. Nullam vehicula dui elit, id ultricies odio hendrerit sed. Maecenas condimentum vel justo ac elementum. Cras nunc est, fermentum ac dolor nec, fringilla mattis erat.</p>
+                <p>Programmet går fra ettermiddagen 15. juni og til nærmere midnatt 16. juni.  Det blir nattkonserter i Grieghallen, døgnåpent på Troldhaugen og folkefest hele sommernatten. Vil du på nattfremføring av Peer Gynt i Grieghallen, ha frokost på Troldhaugen med den fantastiske cellosonaten, eller oppleve strykekvartetten i grålysningen ved Nordåsvannet sammen med oss?</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText4">
-                <p>Praesent consectetur nisi mi. Aliquam erat volutpat. Aliquam quis fringilla ex. Aliquam erat volutpat. Integer ac pulvinar mauris, et vulputate ipsum. Duis fermentum, dui at pharetra molestie, est dolor sagittis nunc, et interdum ipsum nisi a diam. Mauris scelerisque mi eget ligula pulvinar, nec hendrerit tortor ultrices. Vivamus varius rhoncus ultricies. Sed suscipit ex et elit finibus lobortis. Donec non elementum lectus. Maecenas in molestie mauris.
-                </p>
+                <p>Du kan sikre deg billetter til nattkonserter i Grieghallen allerede nå, mens arrangementet på Troldhaugen blir gratis for alle. Du kan også oppleve alt på TV, hjemme i din egen stue, sammen med over en million andre seere.</p>
+              </FadeInWrapper>
+              <FadeInWrapper id="mainInfoText5">
+                <p>Når sendingen begynner kl. 17.30 fredag 15. juni fordeler høydepunktene seg automatisk. «Jeg elsker dig» i Dagsrevy-tid fredag, A-mollkonserten utpå kvelden, Peer Gynt i sceneversjon i Grieghallen litt etter midnatt, den fabelaktige balladen i g-moll i fire-tiden lørdag morgen, Holbergsuiten i frokosttid lørdag, Haugtussa til middag, og endelig Salmene – Griegs aller siste opus – ved gravstedet på Troldhaugen sent lørdag kveld.</p>
+              </FadeInWrapper>
+              <FadeInWrapper id="mainInfoText6">
+                <p>Bergen kommune bidrar også til festen, og samarbeider bredt med både frivillige kor og korps, med kulturskolene og skolene, om sidearrangementer før og under den store jubileumsmarkeringen. Grieg minutt for minutt er en anledning til å oppleve det beste av norsk musikkliv gjennom den store musikkarven vi eier sammen. Du er herved invitert til Edvard Griegs 175-årsdag!</p>
+              </FadeInWrapper>
+              <FadeInWrapper id="mainInfoText7">
+                <h2>Partnere</h2>
+                <p>Prosjektet «Grieg minutt for minutt» er et initiativ fra KODE Kunstmuseer og komponisthjem og Musikkselskapet Harmonien. Innholdet produseres av KODE, Bergen Filharmoniske Orkester og Kringkastingsorkesteret, med viktige bidrag fra Griegakademiet ved Universitetet i Bergen og Norges Musikkhøgskole. Et stort antall frilansmusikere og kor deltar. Grieg minutt for minutt er en nasjonal musikkdugnad med over 600 sangere og musikere.</p>
+                <h3>
+                  Prosjektet hadde ikke vært mulig uten støtte fra Sparebankstiftelsen DNB til KODE Kunstmuseer og komponisthjem. Takk!</h3>
               </FadeInWrapper>
               {/*<FadeInWrapper id="mainInfoText5">
                 <div className="flex spaceAround wrap">
