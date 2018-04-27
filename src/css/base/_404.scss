@@ -1,0 +1,12 @@
+.pageNotFound {
+  .controls {
+    background: inherit;
+    border: 0;
+    justify-content: center;
+    > div {
+      margin: 1rem;
+    }
+    padding-bottom: $mobile-padding-y;
+    margin-bottom: 0;
+  }
+}

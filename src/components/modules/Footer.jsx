@@ -7,7 +7,7 @@ export default class Footer extends React.Component {
    render = () => {
      return (
        <div className="footer flex center column">
-         <div>
+         <div className="bgImageWrapper">
            <BgImage sizes={this.props.src} height="400" position={this.props.position} fit={this.props.fit} />
          </div>
          <FadeInWrapper id="footer">

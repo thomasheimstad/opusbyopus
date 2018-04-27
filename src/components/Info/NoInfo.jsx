@@ -30,9 +30,7 @@ export default class NoInfo extends Component {
                     Grieg minutt for minutt er <strong>åpent og gratis for alle!</strong>
                   </p>
                   <p>
-                    Nam tempus tristique eros vel aliquet. Pellentesque facilisis pharetra ipsum in facilisis. Fusce id dolor ligula. Aenean tincidunt tincidunt odio in venenatis. Morbi condimentum ultrices elit eget dictum. Cras vulputate nunc nisl, sed ultrices nisi rutrum et. Curabitur eu est rhoncus, condimentum orci et, laoreet velit. Vivamus consequat justo nulla, a scelerisque mauris sagittis quis. Proin iaculis massa mauris, sed iaculis justo rutrum vitae.
-
-                    Nulla non quam pharetra, rutrum ante id, auctor turpis. Duis dignissim bibendum sem at tincidunt. Nullam at finibus nulla, varius suscipit massa. Nullam pretium est felis, nec suscipit ligula maximus sed. Integer sed sodales odio. Integer faucibus blandit orci at scelerisque. Nunc tempor ligula in velit posuere, sed luctus mi euismod.
+                    Takk til Bergen Offentlige Bibliotek og spesielt Griegsamlingen for tillatelse til å bruke bilder fra arkivet.
                   </p>
                 </div>
               </div>

@@ -4,11 +4,12 @@ date: 2017-11-26T16:20:29.979Z
 title: '4'
 workname: Seks digte
 startDate: '15.6'
+location: 'Troldhaugen'
 composedin: "1864"
 dedicatedTo: Nina Hagerup
 description: Opus 4
 author: Monica Jangaard
-thumbnail: ./img/EdvardAndNina.jpg
+thumbnail: ./img/opus4.jpg
 artists:
   - Isa Katharina Gericke
   - Tor Espen Aspaas
@@ -16,7 +17,7 @@ tags:
   - sang
   - piano
 ---
-Nina Grieg, født Hagerup, var Edvards kusine; Ninas far, Herman Hagerup og Edvards mor Gesine (født Hagerup) var søsken. Nina og søstrene hennes bodde de første årene på Haukeland gård, før de flyttet til Danmark, morens hjemland, da Nina var 8 år.  Da Grieg som 20-åring kom til København tok han opp bekjentskapet med Nina, og tilbrakte mye tid i Hagerup-familien. Vennskapet med Nina skulle snart føre til forlovelse og giftermål, selv om ingen av familiene bifalt forbindelsen.  
+Nina Grieg, født Hagerup, var Edvards kusine; Ninas far, Herman Hagerup og Edvards mor Gesine (født Hagerup) var søsken. Nina og søstrene hennes bodde de første årene på Haukeland gård, før de flyttet til Danmark, morens hjemland, da Nina var 8 år. Da Grieg som 20-åring kom til København tok han opp bekjentskapet med Nina, og tilbrakte mye tid i Hagerup-familien. Vennskapet med Nina skulle snart føre til forlovelse og giftermål, selv om ingen av familiene bifalt forbindelsen.  
 
 Nina tok sangtimer hos pedagogen Carl Helsted i København, og hennes sangtalent ble gjennom hele Edvard Griegs kunstnerliv til uvurderlig inspirasjon. I 1899 skrev Grieg til den amerikanske musikkforskeren Henry Finck:
 

@@ -1,7 +1,4 @@
 .footer {
-  .visible {
-    z-index: 1;
-  }
   background: $black;
   color: $secondary-font-color;
   .gatsby-image-outer-wrapper {
@@ -24,6 +21,9 @@
       color: $black;
       border: 0;
     }
+  }
+  .bgImageWrapper {
+    z-index: 1;
   }
   @media screen and (max-height: 1440px){
     padding-top: 15%;

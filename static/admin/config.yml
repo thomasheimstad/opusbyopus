@@ -20,8 +20,12 @@ collections:
       - {label: "Publiseringsdato", name: "date", widget: "datetime"}
       - {label: "Opusnr.", name: "title", widget: "string"}
       - {label: "Tittel", name: "workname", widget: "string"}
-      - {label: "Komponert i år", name: "composedin", widget: "string"}
+      - {label: "Startdato", name: "startDate", widget: "string", default: "15.6"}
+      - {label: "Starttid", name: "startTime", widget: "string", defalt: "18:00"}
+      - {label: "Komponert i år", name: "composedin", widget: "string", default: "1868"}
+      - {label: "Dedikert til", name: "dedicatedTo", widget: "string"}
       - {label: "Kort beskrivelse", name: "description", widget: "text"}
+      - {label: "Skrevet av", name: "author", widget: "string"}
       - {label: "Hovedbilde", name: "thumbnail", widget: "string"}
       - {label: "Artister", name: "artists", widget: list, default: ['Test Testesen', 'Jack Jackson']}
       - {label: "Instrumenter", name: "tags", widget: list, default: ['piano', 'sang']}

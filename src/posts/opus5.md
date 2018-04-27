@@ -4,11 +4,12 @@ date: 2017-11-25T20:04:44.484Z
 title: '5'
 workname: Hjertets melodier
 startDate: '15.6'
+location: 'Troldhaugen'
 composedin: "1865"
 dedicatedTo: Hans Christian Andersen
 description: Opus 5
 author: Monica Jangaard
-thumbnail: ./img/FjordInDramaticSkies.jpg
+thumbnail: ./img/opus5.jpg
 artists:
   - Marius Roth Christensen
   - Reza Aghamir

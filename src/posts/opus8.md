@@ -1,14 +1,15 @@
 ---
 category: opus
-date: 2017-11-25T20:04:44.484Z
+date: 2018-06-25T20:04:44.484Z
 title: '8'
 workname: Fiolinsonate nr. 1 i F-dur
 startDate: '15.6'
+location: 'Troldhaugen'
 composedin: '1865'
 dedicatedTo: 'August Fries'
 description: Opus 8
 author: Erling Dahl Jr.
-thumbnail: ./img/sheep.jpg
+thumbnail: ./img/opus8.jpg
 artists:
   - Henning Kraggerud
   - Leif Ove Andsnes
@@ -29,7 +30,9 @@ I 1868 sendte Liszt – på oppfordring fra Griegs danske kollega Niels Ravnkild
 Det er med den største fornøyelse jeg overfor Dem uttrykker den oppriktige glede som gjennomlesningen av Deres sonate (op. 8) har gitt meg. Sonaten vitner om et sterkt komposisjonstalent og viser en gjennomtenkt, oppfinnsom og utmerket stoffbehandling, et talent som bare trenger å følge sin naturlige bane for å nå et høyt nivå. Jeg vil håpe og tro at De i Deres hjemland vil få den suksess og den oppmuntring De fortjener, det skulle da forresten bare mangle.  
 
 > Hvis De kommer til Tyskland i vinter, inviterer jeg Dem hjertelig til å gjøre et opphold i Weimar, slik at vi kunne treffes.
-Motta, monsieur, forsikringen om min dypeste aktelse. Franz Liszt
+Motta, monsieur, forsikringen om min dypeste aktelse.
+
+> Franz Liszt
 
 Griegs F-dur sonate er det første norske verk i sin genre av internasjonalt format, og i de stadige skiftninger mellom djerv pågåenhet og følsomme stemninger er den typisk griegsk.
 

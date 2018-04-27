@@ -1,27 +1,27 @@
 ---
 category: artister
 title: Henning Kraggerud
-date: 2017-12-04T12:28:12.048Z
+date: 2018-06-25T12:28:12.048Z
 thumbnail: ../img/HenningKraggerud.jpg
 tags:
   - fiolinist
 description: "Verdenskjent norsk fiolinist som gjør stor internasjonal karriere. Jury member at the Menuhin Competition, professor in Oslo, and International Chair in Violin at the Royal College of Music in Manchester."
 medialink: "https://www.youtube.com/embed/gNcFQP78bhA"
 ---
-Norwegian violinist Henning Kraggerud is Artistic Director of the Arctic Philharmonic Chamber Orchestra, with a tenure extending to 2020.
+Henning ekstraordinære posisjon som kunstner er et resultat av hans allsidighet og lidenskap for musikk. Han opptrer jevnlig med  mange av verdens mest betydningsfulle orkestre og på tilsvarende internasjonale festivaler
 
-Henning’s extraordinary reach as an artist is a result of his versatility and passion for music, as well as the genuine quality to his playing and the beauty of his performances. His teaching and educational writings provide fascinating insights into his multi-faceted approach to music-making, while his composing, arranging and improvising – frequently bringing his own works into the concert hall – recall the spirit of the old masters such as Fritz Kreisler and Eugène Ysaÿe.
+Henning er en produktiv komponist med mer enn 200 verk på opuslisten.
 
-Henning is invited time and again to join many of the world’s most significant orchestras, most recently the Toronto Symphony, Vancouver Symphony, Baltimore Symphony and Los Angeles Chamber orchestras, as well as the Danish National Symphony, Tonkünstler Orchestra Vienna and Brussels Philharmonic.
+Hennings voksende rykte som komponist inkluderer f.eks.«Equinox: 24 Postludier i alle tonearter for fiolin og strykeorkester», som et musikalsk motstykke til en historie av forfatteren Jostein Gaarder, og er blitt hyllet som "en fascinerende komposisjon å komme tilbake til igjen og igjen" (MusicWeb International)
 
-Henning regularly performs both on violin and viola at major festivals and venues; recent collaborations have taken place at Wigmore Hall, King’s Place, Bruges Concertgebouw and Berlin Konzerthaus, with artists such as Steven Isserlis, Joshua Bell, Lawrence Power, Leif Ove Andsnes, Håvard Gimse, Imogen Cooper, Adrian Brendel, Christian Poltéra and Jeremy Menuhin. Last season saw Henning appearing at Budapest’s kamara.hu festival, Incontri in Terra di Siena Festival and the West Cork Chamber Music Festival. In the 17/18 season, he returns to the Wigmore Hall with Natalie Clein and Christian Ihle Hadland, performs with the Nash Ensemble in Bern and gives a recital with Kathryn Stott at Musis Arnhem.
+Under Risør Kammermusikkfest 2016, sto Henning for nypremieren av Johan Halvorsens forsvunnete fiolinkonsert  
 
-In 2015, Henning became International Chair in Violin at the Royal College of Music in Manchester, and in 2017 was announced as the recipient of a Fellowship. Passionate about musical education, Henning is a Professor at the Barratt Due music conservatoire in Oslo, and in 2018 is a Jury member at the Menuhin Competition in Geneva, where he also performs the opening concert with Orchestre de la Suisse Romande.
+Hennings omfattende diskografi omfatter et meget stort antall kritikerroste  innspillinger.  
 
-Henning’s eclectic discography includes many recordings on the Naxos label, the most recent being Mozart Concertos Nos. 3, 4 and 5, including Henning’s own cadenzas, with the Norwegian Chamber Orchestra. The CD was awarded an ECHO Klassik Award and chosen as Classic FM’s Album of the Week, NDR Kultur’s CD of the Week, Editor’s Choice in Classical Music Magazine, Recommended in The Strad, and featured on BBC Radio 3’s Record Review where it was hailed as “so alive with such engaging articulation”. In 2013, also on Naxos, Henning released Grieg’s three sonatas, arranged for violin and chamber orchestra by Henning and Bernt Simen Lund.
+Den siste av mange suksesser er  Mozart fiolinkonserter  No. 3, 4 og 5 med Det Norske Kammerorkester, som har mottatt den prestisjetunge  ECHO Award  for Best Concert Recording av disse konsertene.  
 
-On the Simax label, Henning’s most recent release is a collaboration with the Arctic Philharmonic Orchestra and world-famous author Erik Fosnes Hansen. Entitled Between the Seasons, the disc features Vivaldi’s The Four Seasons interspersed with Henning’s own compositions. Also for Simax, Henning has recorded the complete solo sonatas of Ysaÿe, on a disc which won the prestigious Spellemann CD award. On the ACT label, he released a disc entitled Last Spring which explored improvisations on Norwegian folk music with jazz pianist Bugge Wesseltoft. Henning also appeared in a major television and cinema documentary about the Norwegian 19th century violin virtuoso and composer, Ole Bull, and received the Ole Bull Prize in 2007.
+Henning en mottaker av Norges prestisjetunge Grieg-pris og Ole Bull Prisen, og i 2007 ble han tildelt Sibelius-prisen for sine tolkninger og innspilling av Sibelius’ musikk rundt om i verden. Henning er professor ved Barratt Due Musikkinstitutt i Oslo, hvor han også  leder Oslo Camerata.  
 
-Born in Oslo in 1973, Henning studied with Camilla Wicks and Emanuel Hurwitz. He is a recipient of Norway's prestigious Grieg Prize and in 2007 was awarded the Sibelius Prize for his interpretations and recording of Sibelius’ music around the world.
+Den norske  fiolinisten Henning Kraggerud er kunstnerisk leder for Nordnorsk Kammerorkester, et engasjement nylig forlenget til 2020. Fra september 2015 er han International Chair i fiolin ved Royal Northern College of Music i Manchester.  
 
-Henning Kraggerud plays on a 1744 Guarneri del Gesù, provided by Dextra Musica AS. This company is founded by Sparebankstiftelsen DNB.
+Henning Kraggerud spiller på en 1744 Guarneri del Gesù, utlånt av Dextra Musica AS. Dette selskapet er grunnlagt av Sparebankstiftelsen DNB.

@@ -1,6 +1,6 @@
 ---
 category: opus
-date: 2018-05-11T20:04:44.484Z
+date: 2018-06-25T20:04:44.484Z
 title: '12'
 workname: Lyriske stykker hefte I
 startDate: '15.6'

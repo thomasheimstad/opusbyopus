@@ -5,11 +5,12 @@ title: '1'
 workname: Fire pianostykker
 startDate: '15.6'
 startTime: '17:30'
+location: 'Troldhaugen'
 composedin: "1863"
 dedicatedTo: Ernst Ferdinand Wenzel
 description: Opus 1
 author: Monica Jangaard
-thumbnail: ./img/room1.jpg
+thumbnail: ./img/opus1.jpg
 artists:
   - Kei Solvang
 tags:
@@ -17,7 +18,9 @@ tags:
 ---
 Høsten 1858 reiste en ung norsk student med dampskipet fra Bergen til Hamburg, medbrakt noter, klær og personlige eiendeler. Ferden gikk videre med tog til Leipzig, der han skulle blive kunstner”. Med Ole Bull som inspirator og med sine foreldres velsignelse reiste den 15 år gamle Edvard Grieg nå hjemmefra for å begynne på sitt voksne liv.
 
-Den unge Grieg ble tatt opp som elev ved det berømte Musikkonservatoriet i Leipzig, og hadde store forventninger til studiet. Herfra skulle han komme hjem til Norge «som en heksemester i tonernes rike». Men den rigide og konservative undervisningen passet dårlig for Grieg. Riktignok var han som barn vant til at moren, hans første pianolærer, var en skarp iakttager, og et korrektiv til hans drømmerier ved instrumentet. Men etter en tid med sin første pianolærer i Leipzig, gikk Grieg rett til konservatoriets direktør og forlangte å bli fritatt fra Louis Plaidys undervisning. Et dristig grep av en nykommer. Grieg selv innrømmet senere at han i begynnelsen var en lat elev, og at hans lærer hadde rett da han kastet notene gjennom rommet og med tordnende stemme utbrøt: «Gå hjem og øv!».
+Den unge Grieg ble tatt opp som elev ved det berømte Musikkonservatoriet i Leipzig, og hadde store forventninger til studiet. Herfra skulle han komme hjem til Norge «som en heksemester i tonernes rike». Men den rigide og konservative undervisningen passet dårlig for Grieg. Riktignok var han som barn vant til at moren, hans første pianolærer, var en skarp iakttager, og et korrektiv til hans drømmerier ved instrumentet. Men etter en tid med sin første pianolærer i Leipzig, gikk Grieg rett til konservatoriets direktør og forlangte å bli fritatt fra Louis Plaidys undervisning. Et dristig grep av en nykommer. Grieg selv innrømmet senere at han i begynnelsen var en lat elev, og at hans lærer hadde rett da han kastet notene gjennom rommet og med tordnende stemme utbrøt:
+
+> «Gå hjem og øv!»
 
 Hans nye lærer, Schumann-vennen Ernst Ferdinand Wenzel, satte et større mot i Grieg, og han fikk også ta timer hos den berømte Ignaz Moscheles. Hos ham fikk Grieg innstudere «et dusinvis av Beethovens sonater», og Moscheles’ egne etyder. Brikkene falt på plass og den unge Grieg fikk gode skussmål.   
 

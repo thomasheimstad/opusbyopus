@@ -6,7 +6,6 @@ import NavLink from 'gatsby-link';
 export default class ArtistView extends React.Component {
   render = () => {
     return (
-      <FadeInWrapper id={this.props.title}>
         <div className="artistCard">
           <NavLink exact to={this.props.path}>
             <BgImage sizes={this.props.thumbnail.childImageSharp.sizes} height={this.props.height} />
@@ -16,7 +15,6 @@ export default class ArtistView extends React.Component {
             </div>
           </NavLink>
         </div>
-      </FadeInWrapper>
     )
   }
 }

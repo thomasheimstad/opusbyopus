@@ -2,7 +2,7 @@ import React from 'react';
 export default class FadeInWrapper extends React.Component {
   state = {
     scrollTop: 0,
-    percentage: 0
+    percentage: "0"
   }
   handleScroll = () => {
     let distance = document.getElementById(`${this.props.id}`).getBoundingClientRect().top,

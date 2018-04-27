@@ -4,17 +4,18 @@ date: 2017-11-25T20:04:44.484Z
 title: '6'
 workname: Humoresker
 startDate: '15.6'
+location: 'Troldhaugen'
 composedin: '1865'
 dedicatedTo: 'Rikard Nordraak'
 description: Fire humoresker for solo piano
 author: Erling Dahl Jr.
-thumbnail: ./img/sheep.jpg
+thumbnail: ./img/opus6.jpg
 artists:
   - Joachim Carr
 tags:
   - piano
 ---
-Det første opus Grieg virkeliggjorde sitt livslange prosjekt i var i ”Humoresker”  opus 6.
+Det første opus Grieg virkeliggjorde sitt livslange prosjekt i var i ”Humoresker” opus 6.
 
 I disse fire stykkene, komponert i 1865, lar han seg inspirere av og til å bruke motiver og vendinger fra den norske folkemusikken. Etter at Grieg møtte Rickard Nordraak i København sommeren 1864, fikk livet hans ny retning og mening. Han skulle vende seg mot det norske og personlige (den nasjonalromantiske idé) i sitt uttrykk. Dette manifesterte seg i Humoreskene. Stykkene overrasket både publikum og kritikere. Her sto det plutselig fram en komponist med en særegen originalitet og evne til å forene slektskapet til den norske folkemusikken med tidens nye, musikalske strømninger.
 

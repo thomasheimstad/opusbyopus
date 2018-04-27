@@ -8,14 +8,15 @@ tags:
 description: "Norsk operasanger som har gjort stor suksess i utlandet, spesielt ved Den Kongelige Opera i København."
 medialink: "https://www.youtube.com/embed/fjzRr61ZsHk"
 ---
-> «Er der én ting, man kan sige som en generel karakteristik af denne sanger, så er det, at hun altid sætter pilen centralt i skiven, når hun skal debutere i en ny rolle».
 
-Slik beskriver den danske avisen Politiken Randi Stene, som siden 2000 har vært fast medlem av Den Kongelige Operas solistensemble.
+Mezzosopran Randi Stene har etablert seg som i sin generasjon en av de viktigste skandinaviske sangere. Hun er født i Trondheim og ble utdannet på NMH samt ved Opera-akademiet i København. Randi Stene opptrådte på Det Kongelige Teater i København første gang i 1988, og har siden vært fast tilknyttet teateret.
 
-Og det har blitt mange roller på mezzosopranen fra Trondheim. Siden hun ble ansatt i København har hun blant annet gjort Octavian i Der Rosenkavalier, Dorabella i Così fan tutte, Brangäne i Tristan und Isolde, Orpheo i Orpheo ed Eurydice, tittelrollen i Carmen, Fricka i Rhingullet og Valkyrien, Amneris i Aïda og Kundry i Parsifal.
+Hun fikk sitt internasjonale gjennombrudd i den engelske konkurransen “Cardiff Singer of the World” i 1991, og da hun sang partiet som Octavian i Richard Strauss Rosenkavaleren på Theatre Chatelet i Paris. Siden har hun opptrådt på verdens førende scener, bl.a Metropolitan-operaen i New York, Covent Garden i London, Bastill-operaen i Paris og mange flere.
 
-Det var Det Kongelige Teaters Operaskole som bragte henne til København, etter studier ved Norges musikkhøgskole. I 1993 fikk hun sitt internasjonale gjennombrudd som Oktavian i Rosenkavaleren på Châteletoperaen i Paris, og har siden sunget på bl.a. Covent Garden i London, Metropolitan i New York, Theatre la Monnaie i Brüssel, Opéra Bastille i Paris, Kungliga Operan i Stockholm og Opéra de Lausanne, i roller som Cherubino, Olga, Varvara og Carmen.
+Mange av Randi Stenes partier har vært de såkalte “bukseroller”, som skal synges av en mørk mezzo-sopran, f.eks Cherubino i Figaros bryllup, Orfeus i Orfeus og Euridike, men hun har også sunget de fleste av de mere kvinnelige rollene i sitt fag, som Bizets Carmen, Amneris i Aida og Eboli i Don Carlos.
 
-Randi Stene har også et omfattende konsertrepertoar, og er svært ettertraktet ved ledende konsertsaler. Hun har jobbet med dirigenter som Bernard Haitink, Christoph von Dohnanyi, Christian Thielemann, Armin Jordan, Nello Santi, Manfred Honeck, Pierre Boulez, Sir Antonio Pappano og Daniel Harding.
+I de senere årene har hun hatt stor suksess i Wagnerfaget. Hun har bl.a sunget Fricka i Ringen, Brangäne i Tristan og Isolde og senest Kundry i Parsifal.
 
-Randi Stene gjør for øvrig også Griegs op. 2 under Festspillene i Bergen 2018.
+Randi Stene er også en ofte benyttet konsertsanger, som har opptrådt under ledelse av store dirigenter som Pierre Boulez, Bernhard Haitink, Antonio Pappano, Andres Nelsons, Yannick Nezet- Segain m.fl. Hun er dessuten intressert i lieder og kammermusikk og har innspillt cder med Håvard Gimse og Burkhard Kehring.
+
+I tillegg til den utøvende virksomheten, er Randi Stene ansatt som professor II på NMH og hun er casting ansvarlig og kunstnerisk rådgiver i Trondheim Opera.

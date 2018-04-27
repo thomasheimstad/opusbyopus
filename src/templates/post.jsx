@@ -6,10 +6,12 @@ import PostTags from "../components/PostTags/PostTags";
 import SocialLinks from "../components/SocialLinks/SocialLinks";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
+import NavLink from 'gatsby-link';
 import Hero from "../components/modules/Hero";
 import Controls from "../components/modules/Controls";
 import Media from "../components/modules/Media";
 import ConnectionsInPost from "../components/modules/ConnectionsInPost";
+import PageNotFound from '../pages/404';
 
 export default class PostTemplate extends React.Component {
   formatDate = (date) => {
@@ -37,53 +39,74 @@ export default class PostTemplate extends React.Component {
       post.category_id = config.postDefaultCategoryID;
     }
     let opusPost = () => {
-      return (
-        <div className="blogPost">
-          <Hero id={post.title} src={post.thumbnail.childImageSharp.sizes} height="400"/>
-          <div className="basePad">
-            <div className="flex center column">
+      let today = new Date().toISOString();
+      if(post.date < today) {
+        return (
+          <div className="blogPost">
+            <Hero id={post.title} src={post.thumbnail.childImageSharp.sizes} height="400"/>
+            <div className="basePad">
               <div className="flex center column">
-                <h1>OPUS {post.title}</h1>
-                <h3>{post.workname}</h3>
-                <h5>Dedikert til {post.dedicatedTo}</h5>
-                <h4>{post.composedin}</h4>
+                <div className="flex center column">
+                  <h1>OPUS {post.title}</h1>
+                  <h3>{post.workname}</h3>
+                  <h5>Dedikert til {post.dedicatedTo}</h5>
+                  <h4>{post.composedin}</h4>
+                </div>
+              </div>
+              <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+              {post.author ? <div><h4 style={{textAlign: 'left', padding: '0 0 1rem'}}>Forfatter: {post.author}</h4></div> : null}
+              <div className="post-meta">
+                <PostTags tags={post.tags} />
+                {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
               </div>
             </div>
-            <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-            {post.author ? <div><h4 style={{textAlign: 'left', padding: '0 0 1rem'}}>Forfatter: {post.author}</h4></div> : null}
-            <div className="post-meta">
-              <PostTags tags={post.tags} />
-              {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
-            </div>
+            <ConnectionsInPost connections={artists} startDate={post.startDate} startTime={post.startTime} location={post.location}/>
+            <Controls post={post}/>
+            {/*<UserInfo config={config} />
+            {/* }<Disqus postNode={postNode} /> */}
           </div>
-          <ConnectionsInPost connections={artists} startDate={post.startDate} startTime={post.startTime}/>
-          <Controls post={post}/>
-          {/*<UserInfo config={config} />
-          {/* }<Disqus postNode={postNode} /> */}
-        </div>
-      )
+        )
+      } else {
+        return (
+          <div className="pageNotFound flex center column basePad" style={{height: '100%', width: '100%'}}>
+            <h2>Dette opuset er fortsatt hemmelig.</h2>
+            <h2>Du må nok vente i spenning!</h2>
+            <h2>Følg med og hold deg oppdatert.</h2>
+            <h2>Vi publiserer litt etter litt.</h2>
+            <Controls post={post}/>
+            <div className="button"><NavLink to="/opus-for-opus">Returner til opuslisten her.</NavLink></div>
+          </div>
+        )
+      }
     }
     let artistPost = () => {
-      return (
-        <div className="blogPost">
-          <Hero id={post.title} src={post.thumbnail.childImageSharp.sizes} height="400"/>
-          <div className="basePad">
-            <div className="flex center column">
-              <h1>{post.title}</h1>
-              <h4>{post.tags}</h4>
+      let today = new Date().toISOString();
+      if(post.date < today){
+        return (
+          <div className="blogPost">
+            <Hero id={post.title} src={post.thumbnail.childImageSharp.sizes} height="400"/>
+            <div className="basePad">
+              <div className="flex center column">
+                <h1>{post.title}</h1>
+                <h4>{post.tags}</h4>
+              </div>
+              <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+              { post.medialink ? (<div className="mediaView"><Media title={post.title} medialink={post.medialink} /></div>) : ''}
+              <div className="post-meta">
+                <PostTags tags={post.tags} />
+                {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
+              </div>
             </div>
-            <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-            { post.medialink ? (<div className="mediaView"><Media title={post.title} medialink={post.medialink} /></div>) : ''}
-            <div className="post-meta">
-              <PostTags tags={post.tags} />
-              {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
-            </div>
+            <ConnectionsInPost connections={opuses}/>
+            {/*<UserInfo config={config} />
+            {/* }<Disqus postNode={postNode} /> */}
           </div>
-          <ConnectionsInPost connections={opuses}/>
-          {/*<UserInfo config={config} />
-          {/* }<Disqus postNode={postNode} /> */}
-        </div>
-      )
+        )
+      } else {
+        return (
+          <PageNotFound />
+        )
+      }
     }
     return (
       <div className="postContainer">
@@ -116,6 +139,7 @@ export const pageQuery = graphql`
         workname
         startDate
         startTime
+        location
         artists
         medialink
         composedin
