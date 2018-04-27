@@ -77,6 +77,16 @@ export default class MainLayout extends React.Component {
           <link href="https://fonts.googleapis.com/css?family=Roboto" rel='stylesheet'/>
           <link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" rel='stylesheet'/>
           <script src="./intersection-observer.js"></script>
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118340353-1"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-118340353-1');
+          </script>
+
         </Helmet>
         <div>
           <NavBar
