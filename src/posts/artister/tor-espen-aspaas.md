@@ -17,6 +17,4 @@ Ved siden av konserter og verdensomspennende turnéer er han jevnlig engasjert v
 
 Aspaas har et titalls CD-utgivelser bak seg, blant disse internasjonalt kritikerroste solo-CDer med verker av Beethoven, Schönberg, Berg og Webern samt den franske komponisten Paul Dukas’ samlede klaververker. Han var en av initiativtagerne og kunstnerisk leder for Vinterfestspill i Bergstaden på Røros i årene 1999-2008 samt for 2014, se www.vinterfestpill.no. Tor Espen Aspaas ble født på Røros i 1971. Han studerte ved Norges musikkhøgskole med prof. Liv Glaser og prof. Jens Harald Bratlie og mottok i 1996 sitt solistdiplom før han debuterte i Oslo året etter med strålende kritikker.  
 
-[Link til Tor Espen Aspaas' hjemmeside](http://www.pianisten.no "Til Tor Espens hjemmeside")
-
 Foto av Tor Espen Aspaas: Tevje Akerø.

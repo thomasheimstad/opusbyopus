@@ -15,6 +15,3 @@ Isa er også en etterspurt programleder og formidler i ulike konsept bygget rund
 Isa er utdannet ved Norges musikkhøgskole og Hochschule der Künste i Berlin. Hun har vunnet en rekke priser, bl.a. Det Norske Selskabs aller første Wessel-pris for sitt arbeid med å fremme norsk vokalmusikk. Operadebuten fant sted i 2003 som Grete i Humperdincks “Hans og Grete” ved Den Norske Opera og Ballett.
 
 Solistengasjementene inkluderer samarbeid med bl.a. Oslo Filharmonien, Akademie für alte Musik Berlin, Bremer Philharmoniker, Kringkastingsorkesteret, TrondheimSolistene, BBC Symphonic Orchestra, Kammerakademie Potsdam, Tsjekkisk Filharmoni, og dirigenter som Sir Andrew Davies, Manfred Honneck, Franz Brüggen, Philippe Herreweghe, Rinaldo Alessandrini, Antonello Manacorda og Ole Kristian Ruud.
-
-Apr 2018
-Stellis Polaris Management

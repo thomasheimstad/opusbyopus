@@ -19,8 +19,6 @@ Som kammermusiker og solist, er han etterspurt hjemme og i utlandet på noen av 
 
 Høsten 2014 lanserte Claves Records hans debut-album med verker av Schumann, Brahms og Berg. Utgivelsen er blantannet tildelt 5* av "Diapason" med kritikker som, "en av de mest lovende pianistene i sin generasjon" og " pianisten med regnbue-fingre".Et pågående innspillingsprosjekt for NAXOS Grand Piano label, omfatter alle Halfdan Cleves klaverkonserter. Den første av innspillingene, Klaverkonsert no 4, ble lansert digitalt i 2016, og viser Carr som enformidabel tolker av den musikalske kvaliteten og virtuose kravene disse konsertene fremviser.
 
-[Link til Naxos]("http://naxos.akcelado.com/project,13,Joachim_Carr_med_Kringkastingsorkestret_Halfdan_Cleve_Klaverkonsert")
-
 Carr er født i 1988 i Bergen, og begynte å spille klaver i åtte-års alderen. Han tok timer med Sveinung Sæverud og JanHenrik Kayser før han ble elev av professor Jiri Hlinka ved Barratt Due Musikkinstitutt i Oslo. I senere år studerte han med professor Eldar Nebolsin ved Hochschule für Musik "Hanns Eisler" i Berlin der han høsten 2016 avla sin Master eksamen med høyeste utmerkelse.
 
 Hans debut-CD med verker av Schumann, Brahms og Berg på  det eksklusive platemerket CLAVES  har vakt betydelig internasjonal oppmerksomhet i internasjonal presse.«Med sine regnbue-fingre er Joachim Carr en født historieforteller»   

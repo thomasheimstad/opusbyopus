@@ -75,6 +75,7 @@ export default class MainLayout extends React.Component {
           <meta name="mobile-web-app-capable" content="yes" />
           <link href="https://fonts.googleapis.com/css?family=Roboto" rel='stylesheet'/>
           <link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" rel='stylesheet'/>
+          <script src="node_modules/intersection-observer/intersection-observer.js"></script>
         </Helmet>
         <div>
           <NavBar

@@ -2,7 +2,7 @@
 category: opus
 date: 2017-11-25T20:04:44.484Z
 title: '10'
-workname: Romanser og ballader
+workname: Fire romanser
 startDate: '15.6'
 location: 'Troldhaugen'
 composedin: '1866'
