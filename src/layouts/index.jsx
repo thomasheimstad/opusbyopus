@@ -73,6 +73,7 @@ export default class MainLayout extends React.Component {
           <meta name="description" content={config.siteDescription} />
           <meta name="google-site-verification" content={config.googleSiteVerification} />
           <meta name="mobile-web-app-capable" content="yes" />
+          <meta name="og:image" content="./posts/img/GriegNightCircle2.png" />
           <link href="https://fonts.googleapis.com/css?family=Roboto" rel='stylesheet'/>
           <link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One" rel='stylesheet'/>
           <script src="node_modules/intersection-observer/intersection-observer.js"></script>

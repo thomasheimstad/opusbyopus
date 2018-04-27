@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 
 const Head = () => (
   <Helmet
-    title="Edvard Grieg - opus for opus"
+    title="Grieg minutt for minutt"
     meta={[
       { name: 'description', content: 'Sample' },
       { name: 'keywords', content: 'sample, something' },
