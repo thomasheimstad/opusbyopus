@@ -8,7 +8,7 @@ module.exports = {
   siteDescription: "Edvard Grieg, liste over alle opusnumrene", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-118285877-1", // GA tracking ID.
+  googleAnalyticsID: "UA-118340353-1", // GA tracking ID.
   googleSiteVerification:"",
   disqusShortname: "http-grieg-minutt-for-minutt", // Disqus shortname.
   postDefaultCategoryID: "opus", // Default category for posts.
