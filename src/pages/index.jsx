@@ -8,6 +8,7 @@ import MainSeller from '../components/modules/MainSeller';
 import MainInfoText from '../components/modules/MainInfoText';
 import MainStarter from '../components/modules/MainStarter';
 import Footer from '../components/modules/Footer';
+import PageImg from '../posts/img/GriegMinuttForMinutt.jpg';
 export default class Index extends React.Component {
   state = {
     windowWidth: '',
@@ -36,6 +37,7 @@ export default class Index extends React.Component {
     return (
       <div>
         <Helmet title={config.siteTitle} />
+        <SEO pageImg={PageImg}/>
         <MainEntrance
           id="MainEntrance"
           src={this.props.data.front2.childImageSharp.sizes}

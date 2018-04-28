@@ -56,9 +56,17 @@ export default class PostListing extends React.Component {
         postListPusher();
       }
     });
-    postList.sort(function(a,b){
-      return parseInt(a.title) - parseInt(b.title)
-    })
+    if(postList[0].category === "opus") {
+      postList.sort(function(a,b){
+        return parseInt(a.title) - parseInt(b.title)
+      })
+    } else {
+      postList.sort(function(a, b){
+        if(a.title < b.title) return -1;
+        if(a.title > b.title) return 1;
+        return 0;
+      })
+    }
     this.setState({
       postList: postList
     })

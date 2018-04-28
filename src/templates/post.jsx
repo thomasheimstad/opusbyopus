@@ -117,7 +117,7 @@ export default class PostTemplate extends React.Component {
         <Helmet>
           <title>{post.category == "opus" ? `Op. ${post.title} | ${config.siteTitle}` : `${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
-        {/*<SEO postPath={slug} postNode={postNode} postSEO />*/}
+        <SEO postPath={slug} postNode={postNode} postSEO />
         <div className="postContent flex center column">
           {post.category === "opus" ? opusPost() : artistPost()}
         </div>

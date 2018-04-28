@@ -7,7 +7,7 @@ import ToolTipBottom from '../components/modules/ToolTipBottom';
 import PostListing from "../components/PostListing/PostListing";
 import FadeInWrapper from "../components/modules/FadeInWrapper"
 import GriegMFM from '../posts/img/GriegMFM.png';
-import PageImg from  '../posts/img/GriegPageImg.jpg';
+import PageImg from  '../posts/img/GriegMinuttForMinutt.jpg';
 
 class OpusForOpus extends React.Component {
   render() {
