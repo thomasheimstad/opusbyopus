@@ -4,7 +4,7 @@ import config from "../../../data/SiteConfig";
 
 class SEO extends Component {
   render() {
-    const { postNode, postPath, postSEO } = this.props;
+    const { postNode, postPath, postSEO, pageImg } = this.props;
     let title;
     let description;
     let image;
@@ -20,10 +20,10 @@ class SEO extends Component {
     } else {
       title = config.siteTitle;
       description = config.siteDescription;
-      image = this.props.pageImg ? this.props.pageImg : config.siteLogo;
+      image = pageImg ? pageImg : config.siteLogo;
     }
     const realPrefix = config.pathPrefix === "/" ? "" : config.pathPrefix;
-    image = this.props.pageImg ? image : config.siteUrl + realPrefix + image;
+    image = pageImg ? image : config.siteUrl + realPrefix + image;
     const blogURL = config.siteUrl + config.pathPrefix;
     const schemaOrgJSONLD = [
       {
