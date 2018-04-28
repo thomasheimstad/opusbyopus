@@ -3,7 +3,7 @@ module.exports = {
   siteTitle: "Grieg | minutt for minutt", // Site title.
   siteTitleAlt: "Edvard Grieg, minutt for minutt, opus for opus", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "http://thomasheimstad.github.io", // Domain of your website without pathPrefix.
+  siteUrl: "http://griegminuttforminutt.no", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Edvard Grieg, liste over alle opusnumrene", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
