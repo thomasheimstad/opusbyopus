@@ -15,7 +15,7 @@ class SEO extends Component {
       description = postMeta.description
         ? postMeta.description
         : postNode.excerpt;
-      image = postSRC ? postSRC : pageImg;
+      image = pageImg ? pageImg : config.siteLogo;
       postURL = config.siteUrl + postPath;
     } else {
       title = config.siteTitle;
