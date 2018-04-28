@@ -16,7 +16,7 @@ const MainInfoText = () => {
                 <p>En klassisk musikkfest i Bergen! Grieg minutt for minutt er enestående anledning til å oppleve hele Griegs produksjon fra opus 1–74, fremført av det beste fra norsk musikkliv. Troldhaugen, Edvard Griegs hjem, blir åpent gjennom hele arrangementet og et sentrum for den store folkefesten. Det blir også store arrangementer og opplevelser i Grieghallen, både med Bergen Filharmoniske Orkester, kor og andre musikere. Også Kringkastingsorkesteret bidrar med stor musikk fra Store Studio. Kanskje blir det innslag fra andre deler av landet også!</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText3">
-                <p>Programmet går fra ettermiddagen 15. juni og til nærmere midnatt 16. juni.  Det blir nattkonserter i Grieghallen, døgnåpent på Troldhaugen og folkefest hele sommernatten. Vil du på nattfremføring av Peer Gynt i Grieghallen, ha frokost på Troldhaugen med den fantastiske cellosonaten, eller oppleve strykekvartetten i grålysningen ved Nordåsvannet sammen med oss?</p>
+                <p>Programmet går fra ettermiddagen 15. juni og til nærmere midnatt 16. juni.  Det blir nattkonserter i Grieghallen, døgnåpent på Troldhaugen og folkefest hele sommernatten. Vil du på nattfremføring av Peer Gynt i Grieghallen, ha frokost på Troldhaugen med den fantastiske cellosonaten, eller oppleve strykekvartetten i grålysningen ved Nordåsvannet?</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText4">
                 <p>Du kan sikre deg billetter til nattkonserter i Grieghallen allerede nå, mens arrangementet på Troldhaugen blir gratis for alle. Du kan også oppleve alt på TV, hjemme i din egen stue, sammen med over en million andre seere.</p>
@@ -31,7 +31,7 @@ const MainInfoText = () => {
                 <h2>Partnere</h2>
                 <p>Prosjektet «Grieg minutt for minutt» er et initiativ fra KODE Kunstmuseer og komponisthjem og Musikkselskapet Harmonien. Innholdet produseres av KODE, Bergen Filharmoniske Orkester og Kringkastingsorkesteret, med viktige bidrag fra Griegakademiet ved Universitetet i Bergen og Norges Musikkhøgskole. Et stort antall frilansmusikere og kor deltar. Grieg minutt for minutt er en nasjonal musikkdugnad med over 600 sangere og musikere.</p>
                 <h3>
-                  Prosjektet hadde ikke vært mulig uten støtte fra Sparebankstiftelsen DNB til KODE Kunstmuseer og komponisthjem. Takk!</h3>
+                  Prosjektet hadde ikke vært mulig uten støtte fra Sparebankstiftelsen DNB til KODE Kunstmuseer og komponisthjem. </h3>
               </FadeInWrapper>
               {/*<FadeInWrapper id="mainInfoText5">
                 <div className="flex spaceAround wrap">
