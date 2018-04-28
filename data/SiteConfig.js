@@ -5,7 +5,7 @@ module.exports = {
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "http://griegminuttforminutt.no", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Edvard Grieg, liste over alle opusnumrene", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "En presentasjon av Griegs musikalske produksjon, og en introduksjon av artistene som skal delta under NRK-sendingen 15. og 16. juni 2018", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
   googleAnalyticsID: "UA-118340353-1", // GA tracking ID.
@@ -17,7 +17,7 @@ module.exports = {
   userLocation: "Bergen, Norge", // User location to display in the author segment.
   userAvatar: "", // User avatar to display in the author segment.
   userDescription:
-    "Edvard Griegs opusliste er hele 74 verk lang!", // User description to display in the author segment.
+    "Edvard Griegs opusliste er hele 74 verk lang.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
