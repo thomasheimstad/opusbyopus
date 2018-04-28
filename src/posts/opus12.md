@@ -10,7 +10,7 @@ description: Det første heftet med lyriske stykker for solo piano
 author: Monica Jangaard
 thumbnail: ./img/sheep.jpg
 artists:
-  - Pål Eide
+  - Liv Glaser
 tags:
   - piano
 ---

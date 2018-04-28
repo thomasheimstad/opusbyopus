@@ -8,11 +8,11 @@ tags:
 description: "Verdenskjent norsk fiolinist som gjør stor internasjonal karriere. Jury member at the Menuhin Competition, professor in Oslo, and International Chair in Violin at the Royal College of Music in Manchester."
 medialink: "https://www.youtube.com/embed/gNcFQP78bhA"
 ---
-Henning ekstraordinære posisjon som kunstner er et resultat av hans allsidighet og lidenskap for musikk. Han opptrer jevnlig med  mange av verdens mest betydningsfulle orkestre og på tilsvarende internasjonale festivaler
+Henning ekstraordinære posisjon som kunstner er et resultat av hans allsidighet og lidenskap for musikk. Han opptrer jevnlig med  mange av verdens mest betydningsfulle orkestre og på tilsvarende internasjonale festivaler.
 
 Henning er en produktiv komponist med mer enn 200 verk på opuslisten.
 
-Hennings voksende rykte som komponist inkluderer f.eks.«Equinox: 24 Postludier i alle tonearter for fiolin og strykeorkester», som et musikalsk motstykke til en historie av forfatteren Jostein Gaarder, og er blitt hyllet som "en fascinerende komposisjon å komme tilbake til igjen og igjen" (MusicWeb International)
+Hennings voksende rykte som komponist inkluderer f.eks.«Equinox: 24 Postludier i alle tonearter for fiolin og strykeorkester», som et musikalsk motstykke til en historie av forfatteren Jostein Gaarder, og er blitt hyllet som "en fascinerende komposisjon å komme tilbake til igjen og igjen" (MusicWeb International).
 
 Under Risør Kammermusikkfest 2016, sto Henning for nypremieren av Johan Halvorsens forsvunnete fiolinkonsert  
 
