@@ -118,7 +118,7 @@ export default class PostTemplate extends React.Component {
         <Helmet>
           <title>{post.category == "opus" ? `Op. ${post.title} | ${config.siteTitle}` : `${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
-        <SEO postPath={slug} postNode={postNode} postSEO postSRC={post.thumbnail.childImageSharp.sizes.src} pageImg={PageImg} />
+        <SEO postPath={slug} postNode={postNode} postSRC={postNode.frontmatter.thumbnail.childImageSharp.sizes} pageImg={PageImg} postSEO />
         <div className="postContent flex center column">
           {post.category === "opus" ? opusPost() : artistPost()}
         </div>
@@ -157,7 +157,6 @@ export const pageQuery = graphql`
           childImageSharp {
             sizes(maxWidth: 1920) {
               ...GatsbyImageSharpSizes
-              src
             }
           }
         }
