@@ -13,6 +13,7 @@ import Media from "../components/modules/Media";
 import ConnectionsInPost from "../components/modules/ConnectionsInPost";
 import PageNotFound from '../pages/404';
 import GriegNightCircle2 from '../posts/img/GriegNightCircle2.png';
+import PageImg from '../posts/img/GriegMinuttForMinutt.jpg';
 
 export default class PostTemplate extends React.Component {
   formatDate = (date) => {
@@ -117,7 +118,7 @@ export default class PostTemplate extends React.Component {
         <Helmet>
           <title>{post.category == "opus" ? `Op. ${post.title} | ${config.siteTitle}` : `${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
-        <SEO postPath={slug} postNode={postNode} postSEO />
+        <SEO postPath={slug} postNode={postNode} postSEO postSRC={post.thumbnail.childImageSharp.sizes} pageImg={PageImg} />
         <div className="postContent flex center column">
           {post.category === "opus" ? opusPost() : artistPost()}
         </div>

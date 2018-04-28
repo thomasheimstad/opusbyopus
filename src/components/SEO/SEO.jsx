@@ -4,7 +4,7 @@ import config from "../../../data/SiteConfig";
 
 class SEO extends Component {
   render() {
-    const { postNode, postPath, postSEO, pageImg } = this.props;
+    const { postNode, postPath, postSEO, pageImg, postSRC } = this.props;
     let title;
     let description;
     let image;
@@ -15,7 +15,7 @@ class SEO extends Component {
       description = postMeta.description
         ? postMeta.description
         : postNode.excerpt;
-      image = postMeta.thumbnail.childImageSharp.sizes.src;
+      image = postSRC ? postSRC.src : pageImg;
       postURL = config.siteUrl + postPath;
     } else {
       title = config.siteTitle;
