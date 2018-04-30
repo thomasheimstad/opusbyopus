@@ -8,8 +8,11 @@ tags:
 description: "Iransk-norsk pianist, en rebel i det norske musikkmiljøet, og en akkompagnatør av rang."
 medialink: "https://www.youtube.com/embed/2fb8MFot7EQ"
 ---
-Dirigent, pianist og hip-hop hode.
 
-Reza har hatt en eventyrlig reise i livet: Vokste opp i vakre, kulturrike Iran. Flyktet med foreldrene fra Khomeinis regime i 1986. Kom til Norge som 15-åring. En rebell innen klassisk musikkmiljø, tatt inn på Norges musikkhøgskole - bare for å bli sparket ut igjen.
+Reza har hatt en eventyrlig reise i livet. Kort oppsummert: I barnehagen begynte han å spille piano. Så flyktet han fra Khommeinis i Iran til Norge som 15-åring i 1985. Deretter ble han tatt inn på Norges musikkhøgskole, og så sparket ut igjen!
 
-Han jobber mye med våre fremste operasolister i sitt hovedprosjekt Reza e i Ragazzi. Han dirigerer flere kor og har drevet operapub i Oslo i over 20 år. Reza er også kjent for mannskorsuksessen Gli Scapoli fra i forrige årtusen, og for sin generelt særegne tilnærming til klassisk sjanger. Rezas samspill med sangerne preges av en uformell atmosfære og personlig touch.
+Reza har alltid tråkket opp sitt eget spor og jobber nå mye med våre fremste operasolister i sitt hovedprosjekt Reza e i Ragazzi. Der har det så langt blitt to kritikerroste utgivelser. LP «Grieg Unheard»- innspilt på Troldhaugen, Lommedalen Kirke og Den Norske Opera, samt EP «Ja, vi elsker» - Nasjonalsangen vår i nytt arrangement, innspilt i Store Studio sammen med KORK.
+
+Han dirigerer flere kor og har drevet operapub i Oslo i over 20 år. Reza er også kjent for suksessen med koret Gli Scapoli, og for sin utradisjonelle tilnærming til den klassiske sjangeren. Rezas samspill og direksjon preges av en uformell atmosfære og personlig touch.
+
+Reza er også aktuell med prosjektet «Soul on Strings», et samarbeid med tidligere «The Voice» vinner Knut Marius Djupvik.
