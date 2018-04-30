@@ -22,7 +22,7 @@ const MainInfoText = () => {
                 <p>Programmet går fra ettermiddagen 15. juni og til nærmere midnatt 16. juni.  Det blir nattkonserter i Grieghallen, døgnåpent på Troldhaugen og folkefest hele sommernatten. Vil du på nattfremføring av Peer Gynt i Grieghallen, ha frokost på Troldhaugen med den fantastiske cellosonaten, eller oppleve strykekvartetten i grålysningen ved Nordåsvannet?</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText5">
-                <p>Du kan sikre deg billetter til nattkonserter i Grieghallen allerede nå, mens arrangementet på Troldhaugen blir gratis for alle. Du kan også oppleve alt på TV, hjemme i din egen stue, sammen med over en million andre seere.</p>
+                <p>Fra 3. mai kan du sikre deg billetter til nattkonserter i Grieghallen, mens arrangementet på Troldhaugen blir gratis for alle. Du kan også oppleve alt på TV, hjemme i din egen stue, sammen med over en million andre seere.</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText6">
                 <p>Når sendingen begynner kl. 17.30 fredag 15. juni fordeler høydepunktene seg automatisk. «Jeg elsker dig» i Dagsrevy-tid fredag, A-mollkonserten utpå kvelden, Peer Gynt i sceneversjon i Grieghallen litt etter midnatt, den fabelaktige balladen i g-moll i fire-tiden lørdag morgen, Holbergsuiten i frokosttid lørdag, Haugtussa til middag, og endelig Salmene – Griegs aller siste opus – ved gravstedet på Troldhaugen sent lørdag kveld.</p>
