@@ -68,7 +68,7 @@ export const query = graphql`
       childImageSharp {
         # Specify the image processing steps right in the query
         # Makes it trivial to update as your page's design changes.
-        sizes(maxWidth: 1080, maxHeight: 1080, quality: 80) {
+        sizes(maxWidth: 250, maxHeight: 250, quality: 80) {
           ...GatsbyImageSharpSizes
         }
       }

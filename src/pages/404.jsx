@@ -1,12 +1,12 @@
 import React from 'react';
 import NavLink from 'gatsby-link';
-import GriegNightCircle2 from '../posts/img/GriegNightCircle2.png';
+import GriegNightCircle250 from '../posts/img/GriegNightCircle250.png';
 
 export default class PageNotFound extends React.Component {
   render = () => {
     return (
       <div className="base404 flex center column basePad" style={{height: '100%', width: '100%', backgroundColor: 'white'}}>
-        <img src={GriegNightCircle2} alt="Grieg minutt for minutt logo" style={{height: "200px", marginBottom: "4rem"}}/>
+        <img src={GriegNightCircle250} alt="Grieg minutt for minutt logo" style={{height: "200px", marginBottom: "4rem"}}/>
         <div className="flex center column">
           <h2>Innholdet her er fortsatt hemmelig.</h2>
           <h2>Du må nok vente i spenning.</h2>

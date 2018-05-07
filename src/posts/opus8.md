@@ -1,6 +1,6 @@
 ---
 category: opus
-date: 2018-06-25T20:04:44.484Z
+date: 2019-06-25T20:04:44.484Z
 title: '8'
 workname: Fiolinsonate nr. 1 i F-dur
 startDate: '15.6'

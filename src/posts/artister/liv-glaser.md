@@ -1,7 +1,7 @@
 ---
 category: artister
 title: Liv Glaser
-date: 2018-05-11T12:28:12.048Z
+date: 2019-05-11T12:28:12.048Z
 thumbnail: ../img/LivGlaser.jpg
 tags:
   - pianist

@@ -1,7 +1,7 @@
 import React from 'react';
 import Overcast from "./Overcast";
 import ZoomIn from "./ZoomIn";
-import PageImg from  '../../posts/img/GriegNightTrans.png';
+import GriegNightTrans from  '../../posts/img/GriegNightTrans.png';
 
 export default class Starter extends React.Component {
   state = {
@@ -33,7 +33,7 @@ export default class Starter extends React.Component {
       height: this.state.windowHeight / this.props.height
     }
     let backgroundStyle = {
-      backgroundImage: `url(${PageImg})`,
+      backgroundImage: `url(${GriegNightTrans})`,
     }
     return(
       <div className="starter flex column center basePad" style={starterHeight}>

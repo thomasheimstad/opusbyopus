@@ -5,13 +5,13 @@ import MdList from 'react-icons/lib/md/list';
 import MdInfo from 'react-icons/lib/md/info-outline';
 import MdStar from "react-icons/lib/md/star-outline";
 import NavLink from 'gatsby-link';
-import PageImg from  '../../posts/img/GriegNightCircle2.png';
+import GriegNightCircle250 from  '../../posts/img/GriegNightCircle250.png';
 
 const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick, loc}) => {
   return(
     <nav className={showNav ? 'showing navigator flex column' : 'hidden navigator flex column'}>
       <div>
-        <span className="logo flex row"><img src={PageImg} /><p></p></span>
+        <span className="logo flex row"><img src={GriegNightCircle250} /><p></p></span>
         <ul>
           <li onClick={handleNavClick}>
             <NavLink exact to="/" activeClassName="active">

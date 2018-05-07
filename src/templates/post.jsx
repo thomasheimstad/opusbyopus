@@ -12,7 +12,7 @@ import Controls from "../components/modules/Controls";
 import Media from "../components/modules/Media";
 import ConnectionsInPost from "../components/modules/ConnectionsInPost";
 import PageNotFound from '../pages/404';
-import GriegNightCircle2 from '../posts/img/GriegNightCircle2.png';
+import GriegNightCircle250 from '../posts/img/GriegNightCircle250.png';
 import PageImg from '../posts/img/GriegMinuttForMinutt.jpg';
 
 export default class PostTemplate extends React.Component {
@@ -71,7 +71,7 @@ export default class PostTemplate extends React.Component {
       } else {
         return (
           <div className="pageNotFound flex center column basePad" style={{height: '100%', width: '100%'}}>
-            <img src={GriegNightCircle2} alt="Grieg minutt for minutt logo" style={{height: "200px", marginBottom: "3rem"}}/>
+            <img src={GriegNightCircle250} alt="Grieg minutt for minutt logo" style={{height: "200px", marginBottom: "3rem"}}/>
             <div className="flex center column">
               <h2>Innholdet her er fortsatt hemmelig.</h2>
               <h2>Du må nok vente i spenning.</h2>
@@ -96,7 +96,7 @@ export default class PostTemplate extends React.Component {
                 <h4>{post.tags}</h4>
               </div>
               <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-              { post.medialink ? (<div className="mediaView"><Media title={post.title} medialink={post.medialink} /></div>) : ''}
+              { post.medialink ? (<div className="mediaView"><Media title={post.title} medialink={`${post.medialink}?rel=0`} /></div>) : ''}
               <div className="post-meta">
                 <PostTags tags={post.tags} />
                 {/* <SocialLinks postPath={slug} postNode={postNode} /> */}
@@ -118,7 +118,7 @@ export default class PostTemplate extends React.Component {
         <Helmet>
           <title>{post.category == "opus" ? `Op. ${post.title} | ${config.siteTitle}` : `${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
-        <SEO postPath={slug} postNode={postNode} pageImg={PageImg} postSEO />
+        <SEO postPath={slug} postNode={postNode} postSEO pageImg={PageImg}/>
         <div className="postContent flex center column">
           {post.category === "opus" ? opusPost() : artistPost()}
         </div>

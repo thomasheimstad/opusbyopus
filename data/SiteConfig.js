@@ -3,7 +3,7 @@ module.exports = {
   siteTitle: "Grieg | minutt for minutt", // Site title.
   siteTitleAlt: "Edvard Grieg, minutt for minutt, opus for opus", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "http://griegminuttforminutt.no", // Domain of your website without pathPrefix.
+  siteUrl: "https://griegminuttforminutt.no", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "En presentasjon av Griegs musikalske produksjon, og en introduksjon av artistene som skal delta under NRK-sendingen 15. og 16. juni 2018", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
