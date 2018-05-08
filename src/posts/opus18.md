@@ -29,14 +29,4 @@ Grieg møtte sorgen med å komponere, og høsten 1869 hadde han alle sangene til
 
 Senere arrangerte Grieg «Hun er så hvid», nr. 2 for piano, og utga den i «Klaverstykker etter egne sanger I» opus 41.
 
-Opus 18 spilles av studenter ved Griegakademiet og Norges Musikkhøgskole:
-
-   Eirik Haug Stømner, piano  
-   Eirik Grøtvedt, sang  
-   Magnus Berg, sang  
-   Kaja R Teigen, sang  
-   Emily Adjei, sang  
-   Olivera Ticevic, sang  
-   Renate Eid, sang  
-   Knut Andreas Grove, sang  
-   Olivera Ticevi, sang  
+Opus 18 spilles av studenter ved Griegakademiet og Norges Musikkhøgskole.

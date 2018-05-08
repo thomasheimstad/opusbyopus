@@ -24,11 +24,4 @@ Den side av klaverproduksjonen som Grieg selv synes best fornøyd med, er bearbe
 
 Foto: Francis Frith. "Colosseum. Rome", ca. 1870.
 
-Opus 17 spilles av studenter ved Griegakademiet og Norges Musikkhøgskole:
-
-   Julie Ye (1-5)  
-   Daniela Fietzek (6-9)  
-   Vivian Tsui (10-13)  
-   Iiris Rissanen (14-17)  
-   Elena Reznikova (18-21)  
-   Bojana Sovilj (22-25)  
+Opus 17 spilles av studenter ved Griegakademiet og Norges Musikkhøgskole.
