@@ -15,7 +15,7 @@ artists:
   - Tor Espen Aspaas
 tags:
   - sang
-  - piano
+  - klaver
 ---
 På konservatoriet i Leipzig fikk Grieg undervisning av flere lærere i både harmonilære og kontrapunkt, og studerte også flittig komposisjoner av andre komponister, som Mozart og Beethoven. Likevel opplevde Grieg selv at han manglet grunnleggende ferdigheter i komposisjonsfaget.  
 

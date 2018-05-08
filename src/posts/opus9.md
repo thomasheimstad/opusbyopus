@@ -15,7 +15,7 @@ artists:
   - Pål Eide
 tags:
   - sang
-  - piano
+  - klaver
 ---
 I løpet av de lykkelige årene i København kom det flere sangopus fra Grieg. Romanser og Ballader opus 9, er hans første sangopus med norsk tekst, av Andreas Munch (1811-1884). Munch var kjent for sine historiske skuespill, men som dikter kom han etter hvert i skyggen av Ibsen og Bjørnson. Mest kjent har han blitt for diktet til Tidemand og Gudes maleri Brudeferden i Hardanger.
 

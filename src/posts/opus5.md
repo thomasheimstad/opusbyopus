@@ -15,15 +15,15 @@ artists:
   - Reza Aghamir
 tags:
   - sang
-  - piano
+  - klaver
 ---
 Våren 1865 gikk Grieg, Nordraak og deres danske kunstnervenner sammen og stiftet musikkselskapet «Euterpe». Fulle av ungdommelig mot tok de navnet fra en tilsvarende forening i Leipzig, og hadde som mål å oppføre nordisk musikk som ellers ikke ville finne veien til de tradisjonelle konsertsalene. Foreningen representerte også et opprør mot den etablerte og konservative Musikforeningen i København. I løpet av et par års tid holdt foreningen en rekke konserter, og ved selve åpningskonserten i februar 1865 ble det fremført en prolog som var forfattet av H. C. Andersen, der han lovpriste den unge og fremadstormende kunstnergenerasjonen:
 
 > «…Prologen er det Program vi føre:  
-At de som elske Musik skulde høre  
-For billig Betaling ret gode Concerter
-Af unge Kræfter med unge Hjerter,
-Musik af de bedste, de store Mestre!..»
+> At de som elske Musik skulde høre  
+> For billig Betaling ret gode Concerter
+> Af unge Kræfter med unge Hjerter,
+> Musik af de bedste, de store Mestre!..»
 
 Allerede høsten før hadde Grieg benyttet seg av H. C. Andersens dikt til nok en samling med sanger, «Hjertes melodier», fra Andersens diktsyklus med samme navn, utgitt i 1830. Opp under jul ble Nina og Edvard hemmelig forlovet, og «Hjertets melodier» ble gitt til Nina i julegave. I april 1865 ble den utgitt i København med påskriften «Hr. Professor H. C. Andersen med Beundring og Höiagtelse tilegnet». Til sammen skulle Grieg tonesette 16 sanger med tekster av H. C. Andersen.  
 

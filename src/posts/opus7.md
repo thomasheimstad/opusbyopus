@@ -13,7 +13,7 @@ thumbnail: ./img/opus7.jpg
 artists:
   - Tor Espen Aspaas
 tags:
-  - piano
+  - klaver
 ---
 Like etter arbeidet med Humoreskene ga Grieg seg i kast med sin første sonate. Innen sonatelitteraturen gjorde han seg etter hvert godt bemerket med sine 5 sonater – 3 for fiolin og klaver, en for cello og klaver og en solosonate for klaver.
 
@@ -21,6 +21,6 @@ Først ute var han med sin Klaversonate i e-moll opus 7, komponert i 1865. Våre
 
 I løpet av denne sommeren kom to sonater fra Griegs hånd. Og her var det den Griegske, norske Grieg som utfoldet seg innen de tradisjonsrike europeiske musikkformer. Først ferdig var klaversonaten i e-moll. Det at den gikk i e-moll var nok ingen tilfeldighet. Gades sonate fra 1840 (opus 28) gikk også i e-moll, og Grieg tilegnet sin sonate til Gade. Kort tid etter var også den første fiolinsonaten ferdig, og han tok da også de nykomponerte sonatene med til Klampenborg der professoren bodde, for å få dem gjennomgått. Grieg forteller i et intervju i Dannebrog (1893) om denne inspirerende hendelse:
 
-> ”Om det var de fortryllende omgivelser eller den styrkende luft som inspirerte meg, skal være usagt. Nok er det: på 11 dager hadde jeg komponert min pianosonate, og snart etter min første fiolinsonate. Jeg tok dem begge med til Gade ute på Klampenborg. Han så dem igjennom med behag, klappet meg på skulderen og sa: ’Det er s’gu kønt. Nu skal vi gå dem nøjere efter i Sømmene.’ Så krøp vi ad en smal, steil hønsestige opp til Gades arbeidsværelse, hvor han satte seg til klaveret og var helt begeistret. Man har sagt meg at når Gade var inspirert, drakk han vann i store mengder. Den dag tømte professoren fire store karafler.”
+> «Om det var de fortryllende omgivelser eller den styrkende luft som inspirerte meg, skal være usagt. Nok er det: på 11 dager hadde jeg komponert min pianosonate, og snart etter min første fiolinsonate. Jeg tok dem begge med til Gade ute på Klampenborg. Han så dem igjennom med behag, klappet meg på skulderen og sa: ’Det er s’gu kønt. Nu skal vi gå dem nøjere efter i Sømmene.’ Så krøp vi ad en smal, steil hønsestige opp til Gades arbeidsværelse, hvor han satte seg til klaveret og var helt begeistret. Man har sagt meg at når Gade var inspirert, drakk han vann i store mengder. Den dag tømte professoren fire store karafler.»
 
 Den firesatsige sonaten er meget frisk og kraftfull, og Grieg viser sitt spesielle grep på dette med de gode melodier og tøffe harmonier. Han behersket å skrive for instrumentet som få. Lite effektmakeri, men med meget stort uttrykksregister. Sonaten innvarsler det geniale pianistiske mesterskap i a-mollkonserten som skulle komme tre år senere.

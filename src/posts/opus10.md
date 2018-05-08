@@ -15,7 +15,7 @@ artists:
   - Torleif Torgersen
 tags:
   - sang
-  - piano
+  - klaver
 ---
 Den danske dikteren Christian Winther (1796-1876) blir regnet som en av Danmarks betydelige naturlyrikere, og hans diktning har fått en plass i den danske Kulturkanon, sammen med blant annet H. C. Andersen og Søren Kierkegaard. Winther studerte teologi, men fikk etter endt teologieksamen aldri noen prestestilling. Han etterlot seg både noveller og dikt og virket også som oversetter og forlegger.
 

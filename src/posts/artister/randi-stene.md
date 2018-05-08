@@ -20,3 +20,5 @@ I de senere årene har hun hatt stor suksess i Wagnerfaget. Hun har bl.a sunget 
 Randi Stene er også en ofte benyttet konsertsanger, som har opptrådt under ledelse av store dirigenter som Pierre Boulez, Bernhard Haitink, Antonio Pappano, Andres Nelsons, Yannick Nezet- Segain m.fl. Hun er dessuten interessert i lieder og kammermusikk og har innspillt cder med Håvard Gimse og Burkhard Kehring.
 
 I tillegg til den utøvende virksomheten, er Randi Stene ansatt som professor II på NMH og hun er casting ansvarlig og kunstnerisk rådgiver i Trondheim Opera.
+
+Foto: Miklos Szabo.

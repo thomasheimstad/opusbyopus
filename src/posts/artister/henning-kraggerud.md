@@ -25,3 +25,5 @@ Henning en mottaker av Norges prestisjetunge Grieg-pris og Ole Bull Prisen, og i
 Den norske  fiolinisten Henning Kraggerud er kunstnerisk leder for Nordnorsk Kammerorkester, et engasjement nylig forlenget til 2020. Fra september 2015 er han International Chair i fiolin ved Royal Northern College of Music i Manchester.  
 
 Henning Kraggerud spiller på en 1744 Guarneri del Gesù, utlånt av Dextra Musica AS. Dette selskapet er grunnlagt av Sparebankstiftelsen DNB.
+
+Foto: Kaupo Kikkas.

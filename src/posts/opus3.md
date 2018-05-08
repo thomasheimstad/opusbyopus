@@ -13,7 +13,7 @@ thumbnail: ./img/opus3.jpg
 artists:
   - Torleif Torgersen
 tags:
-  - piano
+  - klaver
 ---
 Etter et år i Bergen bosatte den 20 år gamle Grieg seg i København. Han fikk ikke stipendet han hadde søkt på fra departementet, men levde på lånte penger fra faren. Dette var hans første opphold i byen, han hadde bare vært der på gjennomreise et par år tidligere.
 

@@ -15,7 +15,7 @@ artists:
   - Leif Ove Andsnes
 tags:
   - fiolin
-  - piano
+  - klaver
 ---
 De tre fiolinsonate står i en særstilling i Griegs produksjon. I et brev til Bjørnson i 1900 omtaler han dem som noen av sine beste verk. Hver av sonatene representerer viktige perioder i livet, «den første, naive, rik på forbilder; den andre nasjonale; og den tredje med en videre horisont.»
 

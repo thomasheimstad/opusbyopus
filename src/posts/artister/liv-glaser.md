@@ -1,15 +1,21 @@
 ---
 category: artister
 title: Liv Glaser
-date: 2019-05-11T12:28:12.048Z
+date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/LivGlaser.jpg
 tags:
   - pianist
-description: "Allsidig og improviserende fra barokk til crossover, både som kammermusiker og som solist."
-medialink: "https://www.youtube.com/embed/ypzjWQ0KZHs"
+description: "En bauta i norsk pianist- og musikkhistorie. Liv Glaser har gjort alt og har oppnådd det meste."
+medialink: "https://www.youtube.com/embed/rMJDT0KAomw"
 ---
-Mona Julsrud fra er utdannet ved Norges musikkhøgskole og Royal College of Music i London. Hun har i mer enn tre tiår vært en etterspurt og aktiv konsertsanger både nasjonalt og internasjonalt. Hennes repertoar strekker seg fra tidlig barokk til ny musikk og hun har samarbeidet med dirigenter som Sir David Willcocks, Frans Bruggen, Philip Herreweghe, Fabio Biondi og Laurence Cummings. Med Frans Bruggen og Orchestra of the 18th. century har Mona spilt inn Bachs Matteuspasjon og Mozarts Requiem, andre kritikerroste innspillinger er f eks Handels Jephtha med Fabio Biondi og Stavanger Symfoniorkester.
+Liv Glaser er et begrep for norske musikkelskere. Hun studerte i Paris og Moskva, og fra debuten i 1960 er hun blitt regnet blant den norske klaverélite med utallige konserter og opptredener i radio og TV. Hun har turnert Norge og Skandinavia på kryss og tvers og gitt konserter i Europa, Midtøsten og Asia.
 
-Men det er først og fremst kammermusikken som ligger hennes hjerte nærmest, hun har i over 20 år samarbeidet med ensemblet Bergen Barokk og med dem gitt ut flere cd’er, bl a en komplett innspilling av Telemanns "Die Harmonische Gottes-Dienst". Hun har også samarbeidet med jazzmusikerne Tord Gustavsen og Mats Eilertsen. De siste årene har hun arbeidet med  fri improvisasjon basert på metoden til Anne-Liis Poll fra Tallinn.
+Liv Glaser har undervist ved Norges Musikkhøyskole fra starten i 1973, ble Professor i 1994 og er fremdeles knyttet til institusjonen som timelærer.
 
-Mona er professor i sang ved Norges musikkhøgskole.
+Hun har gitt kurser og mesterklasser hjemme og ute og vært jurymedlem i nasjonale, nordiske og internasjonale konkurranser.
+
+I sitt virke som utøver og med sin undervisning har hun bidratt sterkt til en økt interesse for hammerklaver og for klassisk-tidlig-romantisk oppføringspraksis. Hun har spilt inn tallrike CD'er på hammerklaver som har fått strålende mottagelse nasjonalt og internasjonalt.
+
+Liv Glaser ble tildelt Kongens Fortjenstemedalje 1965, Lindemanprisen i 2004 og Grieg-prisen 2014.
+
+Foto: Kjetil Asdal Bjørgan.

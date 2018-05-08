@@ -11,4 +11,4 @@ Siden debuten i Universitets aula i 1992 har Torleif Torgersen hatt en omfattend
 
 Torgersen studerte klaver ved Norges Musikkhøgskole med Einar Steen-Nøkleberg, senere på diplomstudiet med Eva Knardahl og Lazar Berman. Han spiller også hammerklaver og historiske klaverinstrumenter, og har foruten Liv Glaser, også hatt Malcolm Bilson og Bart van Oort som lærere. Torleif Torgersen er professor ved Griegakademiet i Bergen.
 
-Foto: Paul Bernhard
+Foto: Paul Bernhard.

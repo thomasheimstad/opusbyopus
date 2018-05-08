@@ -15,7 +15,7 @@ artists:
   - Tor Espen Aspaas
 tags:
   - sang
-  - piano
+  - klaver
 ---
 Nina Grieg, født Hagerup, var Edvards kusine; Ninas far, Herman Hagerup og Edvards mor Gesine (født Hagerup) var søsken. Nina og søstrene hennes bodde de første årene på Haukeland gård, før de flyttet til Danmark, morens hjemland, da Nina var 8 år. Da Grieg som 20-åring kom til København tok han opp bekjentskapet med Nina, og tilbrakte mye tid i Hagerup-familien. Vennskapet med Nina skulle snart føre til forlovelse og giftermål, selv om ingen av familiene bifalt forbindelsen.  
 

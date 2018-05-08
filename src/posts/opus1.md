@@ -14,7 +14,7 @@ thumbnail: ./img/opus1.jpg
 artists:
   - Kei Solvang
 tags:
-  - piano
+  - klaver
 ---
 Høsten 1858 reiste en ung norsk student med dampskipet fra Bergen til Hamburg, medbrakt noter, klær og personlige eiendeler. Ferden gikk videre med tog til Leipzig, der han skulle blive kunstner”. Med Ole Bull som inspirator og med sine foreldres velsignelse reiste den 15 år gamle Edvard Grieg nå hjemmefra for å begynne på sitt voksne liv.
 

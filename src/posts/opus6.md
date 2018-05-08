@@ -13,7 +13,7 @@ thumbnail: ./img/opus6.jpg
 artists:
   - Joachim Carr
 tags:
-  - piano
+  - klaver
 ---
 Det første opus Grieg virkeliggjorde sitt livslange prosjekt i var i ”Humoresker” opus 6.
 

@@ -14,4 +14,4 @@ Høsten 2017 deltok hun i Copenhagen Lied-Duo Competition sammen med pianisten C
 
 Hun konserterte under Festspillene i Nord-Norge samt var en av solistene på konserten "Unge operastjerner" med Trondheim symfoniorkester. Hun har nettopp fullført sine studier ved Det Kongelige Operaakademi i København hvor hun sang tittelrollen i The Rape of Lucretia og Dorabella i Così fan tutte. Under Copenhagen Opera Festival deltok hun på flere av arrangementene, hvor hun blant annet hadde en egen solo recital. Sesongen 2018/2019 vil hun tilbringe i Den Norske Opera & Ballett som solistpraktikant, hvor hun blant annet skal synge hovedrollen i Purcells Dido og Aeneas.
 
-Foto: Lasse Berre
+Foto: Lasse Berre.

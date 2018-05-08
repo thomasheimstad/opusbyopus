@@ -12,4 +12,4 @@ Marius Roth Christensen har en allsidig karriere. Han ble først kjent som gitar
 
 På operascener rundt om i Norge har han blant annet sunget Rodolfo i La bohème, Tamino i Tryllefløyten, Rinuccio i Gianni Schicci, Bastien i Bastien og Bastienne og Turiddu i Cavalleria rusticana. I tillegg har han sunget i flere musikaler, blant annet West Side Story, Jesus Christ Superstar, Carousel og Spellemann på taket. I 2012 hadde han sin debut ved Lyric Opera Dublin i rollen som Pinkerton i Madama Butterfly.
 
-Foto: Kavlie Borge Foto
+Foto: Kavlie Borge Foto.

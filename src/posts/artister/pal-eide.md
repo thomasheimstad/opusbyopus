@@ -16,4 +16,4 @@ Som 6-åring begynte Pål Eide å lytte til klassisk musikk, og som 8-åring tok
 
 Repertoaret omfatter alle stilarter, men han har en særlig interesse for senromantikk og 1900-tallets verk som markerer overgangen til "moderne" musikk, noe som har resultert i hans originale programsammensetning i albumet Listen!, som inneholder verk av Bach, Nordheim, Koch og Rachmaninov, mens hans siste CD Grey Clouds består av Liszt, Ravel, Debussy og Stravinsky.
 
-Foto: Per Dreyer
+Foto: Per Dreyer.

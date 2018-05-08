@@ -1,7 +1,7 @@
 ---
 category: artister
 title: Kringkastingsorkestret
-date: 2019-12-04T12:28:12.048Z
+date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/Kringkastingsorkestret.jpg
 tags:
   - orkester
@@ -18,4 +18,4 @@ Fra høsten 2013 er Miguel Harth-Bedoya orkesterets sjefdirigent. Han er utdanne
 
 Harth-Bedoya sier: «Samarbeidet med Kringkastingsorkestret har vært spennende og kraftfullt fra starten. Jeg ble veldig imponert over musikernes høye nivå, og orkesterets stilistiske allsidighet. Jeg visste med én gang at KORK og jeg var en god match.»
 
-Foto: Anna-Julia Granberg/Blunderbuss/NRK
+Foto: Anna-Julia Granberg/Blunderbuss/NRK.
