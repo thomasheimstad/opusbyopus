@@ -82,4 +82,4 @@ Bjørnson ble tidlig begeistret for Griegs musikk. Kanskje er historien om dette
 
 Bjørnsons dikt, ”Fremad! Fremad! Fedres høye hærtak var” ble brukt da Grieg senere arrangerte stykket for mannskor a cappella med tittelen ”Fremad”.
 
-Foto: [Henry Rosling](https://digitaltmuseum.no/011014326835/tollbugata-fra-kongens-gate-til-ovre-vollgate)
+Foto: <a href="https://digitaltmuseum.no/011014326835/tollbugata-fra-kongens-gate-til-ovre-vollgate" target="_blank">Henry Rosling</a>
