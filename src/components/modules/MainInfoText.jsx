@@ -8,7 +8,7 @@ const MainInfoText = () => {
         <div className="flex center column ">
           <FadeInWrapper id="mainInfoText1">
             <h1>Grieg 175 år</h1>
-            <h3>NRK, BFO & KODE</h3>
+            <h3>NRK, Bergen Filharmoniske orkester & KODE</h3>
           </FadeInWrapper>
             <div className="basePad">
               <FadeInWrapper id="mainInfoText2">

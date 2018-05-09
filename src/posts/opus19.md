@@ -2,7 +2,7 @@
 category: opus
 date: 2018-05-07T12:00:00.048Z
 title: '19'
-workname: 25 norske folkeviser og danser
+workname: Folkelivsbilder
 startDate: '15.6'
 location: 'Troldhaugen'
 composedin: '1871'

@@ -1,6 +1,6 @@
 ---
 category: artister
-title: BFO
+title: Bergen Filharmoniske Orkester
 date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/BergenFilharmoniskeOrkester.jpg
 tags:

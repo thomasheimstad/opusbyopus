@@ -12,7 +12,7 @@ author: Monica Jangaard
 thumbnail: ./img/opus16.jpg
 artists:
   - Håvard Gimse
-  - BFO
+  - Bergen Filharmoniske Orkester
   - Edward Gardner
 tags:
   - klaver
@@ -40,4 +40,6 @@ Vinteren 1869-70 oppholdt Grieg og Nina seg i Roma. Her møtte han Franz Liszt, 
 
 > «Winding og jeg var meget spent på om han virkelig ville spille min konsert fra bladet, jeg for min part holdt det for en umulighet. Liszt derimot oppfattet saken helt annerledes...Og så begynte han. Og efter hva han nu presterte, sier jeg at i denne retning kan intet høyere tenkes...kadensen, som er noe av det teknisk vanskeligste, spilte han fullendt...Til sist sa han, idet han rakte meg boken: "Hold frem som De stevner. Jeg sier Dem, De har evner til det, og - la Dem ikke skremme!" Dette siste har for meg uendelig betydning. Det er noe jeg vil kalle innviet i det. Mang en gang når skuffelser og bitterhet kommer, vil jeg tenke på hans ord, og erindringen om hin stund vil ha en forunderlig makt til å holde meg oppe i motgangens dager, det håper jeg forvisst.»
 
-Det er lett å forstå at dette møtet ble viktig for Griegs selvtillit som komponist.  
+Det er lett å forstå at dette møtet ble viktig for Griegs selvtillit som komponist.
+
+Konserten er et av Bergen Filharmoniske Orkesters signaturverk som ofte står på repertoaret når orkestret turnerer internasjonalt. Orkestret har også spilt inn verket med flere internasjonalt anerkjente pianister som Leif Ove Andsnes, Stephen Hough, Noriko Ogawa og Jean-Efflam Bavouzet. Under Grieg minutt for minutt er Håvard Gimse solist, og orkestrets sjefsdirigent Ed Gardner står på podiet.
