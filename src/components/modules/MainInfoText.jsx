@@ -32,7 +32,7 @@ const MainInfoText = () => {
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText8">
                 <h2>Partnere</h2>
-                <p>Prosjektet «Grieg minutt for minutt» er et initiativ fra KODE Kunstmuseer og komponisthjem og Musikkselskapet Harmonien. Innholdet produseres av KODE, Bergen Filharmoniske Orkester og Kringkastingsorkesteret, med viktige bidrag fra Griegakademiet ved Universitetet i Bergen og Norges Musikkhøgskole. Et stort antall frilansmusikere og kor deltar. Grieg minutt for minutt er en nasjonal musikkdugnad med over 600 sangere og musikere.</p>
+                <p>Prosjektet «Grieg minutt for minutt» er et initiativ fra KODE Kunstmuseer og komponisthjem og Musikkselskapet Harmonien. Innholdet produseres av KODE, Bergen Filharmoniske Orkester og Kringkastingsorkesteret, med viktige bidrag fra Griegakademiet ved Universitetet i Bergen, Norges Musikkhøgskole og Bergen Filharmoniske Ungdomsorkester. Et stort antall frilansmusikere og kor deltar. Grieg minutt for minutt er en nasjonal musikkdugnad med over 600 sangere og musikere.</p>
                 <h3>
                   Prosjektet hadde ikke vært mulig uten støtte fra Sparebankstiftelsen DNB til KODE Kunstmuseer og komponisthjem. </h3>
               </FadeInWrapper>
