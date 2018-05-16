@@ -43,3 +43,5 @@ Vinteren 1869-70 oppholdt Grieg og Nina seg i Roma. Her møtte han Franz Liszt, 
 Det er lett å forstå at dette møtet ble viktig for Griegs selvtillit som komponist.
 
 Konserten er et av Bergen Filharmoniske Orkesters signaturverk som ofte står på repertoaret når orkestret turnerer internasjonalt. Orkestret har også spilt inn verket med flere internasjonalt anerkjente pianister som Leif Ove Andsnes, Stephen Hough, Noriko Ogawa og Jean-Efflam Bavouzet. Under Grieg minutt for minutt er Håvard Gimse solist, og orkestrets sjefsdirigent Ed Gardner står på podiet.
+
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

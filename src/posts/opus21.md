@@ -4,7 +4,7 @@ date: 2018-05-07T12:00:00.048Z
 title: '21'
 workname: 'Fire dikt fra "Fiskerjenten"'
 startDate: '15.6'
-location: 'Troldhaugen'
+location: 'TBA'
 composedin: '1872'
 dedicatedTo: 'Clara Winding'
 description: Opus 21

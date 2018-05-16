@@ -37,6 +37,8 @@ Det meste av verket ble skrevet våren 1872, men Grieg tok i tillegg inn en Gavo
 
 Gavotten ble også spilt av Edvard Grieg og Ole Bull på konsert i Ekserserhuset i Bergen 11. august 1873. Dette var deres eneste offisielle opptreden sammen.    
 
+<a href="http://bergen.folkebibl.no/cgi-bin/websok-grieg?tnr=248876" target="_blank">Link til det originale konsertprogrammet</a>
+
 I november 1905 ble «Sigurd Jorsalfar» fremført ved en festforestilling på Nationalteatret, med kongeparet til stede. I Dagboken skriver Grieg at han og Bjørnson etter andre akt ble hentet opp til kongelosjen. «Her kom Kongen og Dronningen oss i møte med den største elskverdighet. Er de så jevne og likefremme folk, som de her gjorde inntrykket av, da tør vi håpe på et folkelig kongedømme.»
 
-<a href="http://bergen.folkebibl.no/cgi-bin/websok-grieg?tnr=248876" target="_blank">Link til det originale konsertprogrammet</a>
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

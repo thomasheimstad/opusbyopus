@@ -4,8 +4,8 @@ title: Svein Sturla Hungnes
 date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/SveinSturlaHungnes.jpg
 tags:
-  - regisør
-description: "Regisør av Peer Gynt-spelet på Gålå i 25 år. Norsk skuespiller, teatersjef og instruktør."
+  - regissør
+description: "Regissør av Peer Gynt-spelet på Gålå i 25 år. Norsk skuespiller, teatersjef og instruktør."
 medialink: "https://www.youtube.com/embed/4_m0nf0fGTA"
 ---
 Svein Sturla Hungnes er en norsk skuespiller, teatersjef og instruktør.

@@ -47,6 +47,8 @@ Grieg sendte høsten Folkelivsbilder (opus 19) og Foran Syden Kloster (klaverver
 
 På sine konsertreiser i utlandet dirigerte Grieg hyppig Foran Sydens Kloster. Første gang Grieg dirigerte orkesterversjonen i Leipzig, var konen Nina en av solistene. Publikum likte denne váre musikken, og Grieg merket seg deres begeistring og fikk bestilt gode oversettelser til ulike språk for å øke tilgjengeligheten.
 
+<a href="http://bergen.folkebibl.no/arkiv/grieg/konsertprogram/stor_18721130_kristiania.pdf" target="_blank">Konsertprogram for uroppførelsen av "Foran Sydens kloster", Christiania 30. november 1872</a>
+
 "Foran Sydens kloster» ble uroppført i Christiania 30. november 1872 ved Musikforeningens kor og orkester, og med Grieg selv som dirigent. På programmet for øvrig stod Händels Coronation Anthems, Johan Svendsens fiolinkonsert i A-dur med Gudbrand Bøhn som solist, og Beethovens 5. symfoni.
 
-<a href="http://bergen.folkebibl.no/arkiv/grieg/konsertprogram/stor_18721130_kristiania.pdf" target="_blank">Konsertprogram for uroppførelsen av "Foran Sydens kloster", Christiania 30. november 1872</a>
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

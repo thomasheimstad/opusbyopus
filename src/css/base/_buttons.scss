@@ -15,3 +15,15 @@
     }
   }
 }
+.button.postButton {
+  margin: 2rem 0;
+  a {
+    border: 0;
+    color: $white;
+    background: $action-color;
+    &:hover {
+      color: lighten($white, 25%);
+      background: darken($action-color, 25%);
+    }
+  }
+}

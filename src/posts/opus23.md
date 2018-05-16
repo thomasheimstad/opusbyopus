@@ -12,6 +12,8 @@ author: Annett Schattauer
 thumbnail: ./img/opus23.jpg
 artists:
   - Svein Sturla Hungnes
+  - Rune Reksten
+  - Lise Fjeldstad
   - Ann Helen Moen
   - Tora Augestad
   - Lina Johnson
@@ -26,6 +28,7 @@ tags:
   - sang
   - symfoniorkester
   - sangkor
+  - skuespill
 ---
 Det er januar i 1874, og Grieg sliter med å få samarbeidet med Bjørnson og «Olav Trygvason» til å fungere. Økonomien ser heller ikke lys ut. Da kommer et brev fra Henrik Ibsen - et brev som skulle bli et svært viktig vendepunkt i norsk musikk – og teaterhistorie. Ibsen vil nemlig sette opp «Peer Gynt. Et dramatisk dikt» for teaterscenen, et prosjekt der musikk ifølge forfatteren selv er uunnværlig i dramaturgien. Som erfaren teatermann har Ibsen selv sine idéer om hvordan musikken skal bli, og Grieg skal være mannen å utføre jobben.
 
