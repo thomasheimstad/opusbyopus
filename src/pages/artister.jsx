@@ -18,6 +18,20 @@ class Artister extends React.Component {
     this.props.data.allMarkdownRemark.edges.forEach(postEdge => {
       tagList.push(postEdge.node.frontmatter.tags);
     });
+    let sortByFrequency = (array) => {
+      let frequency = {};
+      array.forEach(value => { frequency[value] = 0; });
+
+      let uniques = array.filter(value => {
+          return ++frequency[value] == 1;
+      });
+
+      return uniques.sort((a, b) => {
+          return frequency[b] - frequency[a];
+      });
+    }
+    return sortByFrequency(tagList)
+    {/*
     let toArray = [];
     let tezt = () => {for (const x of tagList) { toArray.push(x) };}
     tezt();
@@ -40,6 +54,7 @@ class Artister extends React.Component {
       return out;
     }
     return fastUniq(toArray);
+    */}
   }
   handleArtistClick(e){
     if(this.state.artistType !== e.target.id ){

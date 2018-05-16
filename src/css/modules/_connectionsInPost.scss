@@ -20,8 +20,10 @@
   .perPost {
     display: flex;
     flex-flow: wrap;
+    align-items: flex-end;
     > a {
-      padding: 3rem 6px 0;
+      flex:1;
+      padding: 3rem 23px 0;
       h4 {
         padding: 0 0 1rem 0;
       }

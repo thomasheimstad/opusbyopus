@@ -7,14 +7,14 @@ export default class ConnectionsInPost extends React.Component {
     lang: 'no'
   }
   sortConnections = () => {
-    if(this.props.connections.map(connection=>connection.hasOwnProperty("opuses"))){
-      return this.props.connections.slice().sort((a, b) => a.frontmatter.title - b.frontmatter.title)
+    console.log(this.props.connections)
+    if(this.props.connections[0].frontmatter.category === "artister"){
+      return this.props.connections
     } else {
-      return null
+      return this.props.connections.sort((a, b) => a.frontmatter.title - b.frontmatter.title)
     }
   }
   render = () => {
-
     let artistList = this.sortConnections().map((x,i) => {
       return (
         <NavLink to={x.fields.slug} key={i}>

@@ -5,7 +5,7 @@ date: 2017-12-04T12:28:12.048Z
 thumbnail: ../img/TorEspenAspaas.jpg
 tags:
   - pianist
-description: "Ridder av første klasse, artist og pianist av ypperste grad, og formidler og humanist av natur."
+description: "Ridder av første klasse, artist og pianist av ypperste grad, og formidler av rang."
 medialink: "https://www.youtube.com/embed/ocb7dqh029k"
 ---
 

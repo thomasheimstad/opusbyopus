@@ -12,7 +12,7 @@ export default class ZoomIn extends React.Component {
       transition: "0.3s ease-out"
     }
     return (
-      <div style={transformStyle}>
+      <div style={transformStyle} className="flex center column">
         {this.props.children}
       </div>
     )

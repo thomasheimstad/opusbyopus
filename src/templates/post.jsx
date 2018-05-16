@@ -166,6 +166,7 @@ export const pageQuery = graphql`
         artist {
           frontmatter {
             title
+            category
             tags
             thumbnail {
               childImageSharp {
@@ -188,6 +189,7 @@ export const pageQuery = graphql`
         opuses {
           frontmatter {
             title
+            category
             workname
             thumbnail {
               childImageSharp {
