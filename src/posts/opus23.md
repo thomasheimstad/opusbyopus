@@ -50,4 +50,6 @@ Finn Ludt, NRK radioteatret, bl.a. 1958 og 1967
 Arne Nordheim, Den Nationale Scene i Bergen, 1969   
 Øistein Sommerfeldt, Riksteatret 1971   
 Henning Sommerro, Riksteatret 1984   
-Ketil Hvoslef, NRK TV 1993 og Riksteatret 1997   
+Ketil Hvoslef, NRK TV 1993 og Riksteatret 1997
+
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>
