@@ -7,7 +7,6 @@ export default class ConnectionsInPost extends React.Component {
     lang: 'no'
   }
   sortConnections = () => {
-    console.log(this.props.connections)
     if(this.props.connections[0].frontmatter.category === "artister"){
       return this.props.connections
     } else {
