@@ -13,7 +13,7 @@ thumbnail: ./img/opus24.jpg
 artists:
   - Christian Ihle Hadland
 tags:
-  - piano
+  - klaver
 ---
 I sorgen over foreldrenes død høsten 1875 fordypet Grieg seg i et arbeid som skulle resultere i hans største verk for klaver, Ballade, opus 24. Dette stort anlagte variasjonsverket er bygd over en folketone fra Valdres, «Den Nordlandske Bondestand». Den norske folketonesamleren Ludvig Mathias Lindeman nedtegnet folketonen etter Anders Nilsen Perlesteinsbakken fra Sør-Aurdal i Valdres i 1848, og ti år senere ble den publisert i bind 2 av hans samling «Ældre og nyere Norske Fjeldmelodier». Teksten til folketonen var skrevet av Kirstine Aas.  
 

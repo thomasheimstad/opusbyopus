@@ -15,7 +15,7 @@ artists:
   - Christian Grøvlen
 tags:
   - sang
-  - piano
+  - klaver
 ---
 Avslutningen av Peer Gynt prosessen ble forstyrret av store rystelser i Griegs liv. Da begge hans foreldre døde høsten 1875, falt en vegg ut av hans tilværelse. Han maktet ingen omgang med omverdenen, og bare gjennom kontemplasjon og kunstnerisk arbeid kom han gjennom de sjelelige rystelsene.
 

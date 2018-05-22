@@ -13,7 +13,7 @@ thumbnail: ./img/opus28.jpg
 artists:
   - Audun Kayser
 tags:
-  - piano
+  - klaver
 ---
 Albumblad er en benevnelse som på 1800-tallet ble tatt i bruk på korte og velklingende komposisjoner. Opprinnelig henspiller tittelen på stykker som er tilegnet en spesiell venn eller beundrer, men ble etter hvert brukt som tittel på enkle salongstykker med ulik form og struktur. Griegs samtidige, som Dvorák, Smetana, Schumann, Liszt og Mendelssohn skrev pianostykker i denne genre. Grieg bruker tittelen på sine fire korte pianostykker i opus 28, og for øvrig på et av stykkene i opus 12, det første heftet med lyriske stykker.  
 

@@ -15,7 +15,7 @@ artists:
   - Knut Christian Jansson
 tags:
   - sang
-  - piano
+  - klaver
 ---
 Fra Ibsens dypsindige stemningsbilder gikk Grieg over i et lysere leie da han lot seg inspirere av John Paulsens dikt. Våren 1876 skriver han til Bjørnstjerne Bjørnson at han har våknet av en ”lang, lang Dvale... Barnet i meg kom frem igjen, og dermed kjærligheten til alt det deilige i livet.”
 

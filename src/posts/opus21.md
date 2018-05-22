@@ -15,7 +15,7 @@ artists:
   - Joachim Carr
 tags:
   - sang
-  - piano
+  - klaver
 ---
 
 Griegs samarbeid med Bjørnstjerne Bjørnson skulle bli hans redning og inspirasjon i de vanskelige årene i Kristiania omkring 1870. Hos Bjørnson fant han den nasjonalromantiske diktning han identifiserte seg med. Han fikk også mot og kraft til å kjempe kunstens sak, og hans politiske og sosiale sinnelag ble utviklet til praktisk gjerning.

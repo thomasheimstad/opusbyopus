@@ -13,7 +13,7 @@ thumbnail: ./img/opus29.jpg
 artists:
   - Jens Harald Bratlie
 tags:
-  - piano
+  - klaver
 ---
 Grieg fikk kr. 100 i honorar fra forleggeren, Warmuth, for dette opuset. Pengene ga han til innsamlingen for Holbergmonumentet, som ble avduket 3. desember 1884. Verket er skrevet i Lofthus høsten 1878, og også her benytter Grieg seg av melodier fra Lindemanns samling. Opuset er tilegnet den svenske pianisten Ida Åqvist, som var en venn av Nina og Edvard Grieg. Imidlertid var det Grieg selv som uroppførte verket, i København i 1880.  
 
