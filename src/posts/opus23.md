@@ -30,7 +30,7 @@ tags:
   - sangkor
   - skuespill
 ---
-Det er januar i 1874, og Grieg sliter med å få samarbeidet med Bjørnson og «Olav Trygvason» til å fungere. Økonomien ser heller ikke lys ut. Da kommer et brev fra Henrik Ibsen - et brev som skulle bli et svært viktig vendepunkt i norsk musikk – og teaterhistorie. Ibsen vil nemlig sette opp «Peer Gynt. Et dramatisk dikt» for teaterscenen, et prosjekt der musikk ifølge forfatteren selv er uunnværlig i dramaturgien. Som erfaren teatermann har Ibsen selv sine idéer om hvordan musikken skal bli, og Grieg skal være mannen å utføre jobben.
+Det er januar i 1874, og Grieg sliter med å få samarbeidet med Bjørnson og «Olav Tryggvason» til å fungere. Økonomien ser heller ikke lys ut. Da kommer et brev fra Henrik Ibsen - et brev som skulle bli et svært viktig vendepunkt i norsk musikk – og teaterhistorie. Ibsen vil nemlig sette opp «Peer Gynt. Et dramatisk dikt» for teaterscenen, et prosjekt der musikk ifølge forfatteren selv er uunnværlig i dramaturgien. Som erfaren teatermann har Ibsen selv sine idéer om hvordan musikken skal bli, og Grieg skal være mannen å utføre jobben.
 
 De to hadde møttes for første gang i Roma da Grieg var 22 år, og allerede da så Ibsen det store potensialet i komponisten. I brevet Grieg holder i hendene nå, åtte år senere, gir Ibsen ham et tilbud som er vanskelig å avslå: Honoraret skulle deles likt mellom forfatter og komponist, dvs. 200 riksdaler, i dag ca. 45.000 kr.  
 

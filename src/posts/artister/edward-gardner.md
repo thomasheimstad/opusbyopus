@@ -5,7 +5,7 @@ date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/EdwardGardner.jpg
 tags:
   - dirigent
-description: "Sjefsdirigent for Bergen Filharmoniske orkester, og med en imponerende internasjonal merittliste."
+description: "Sjefdirigent for Bergen Filharmoniske orkester, og med en imponerende internasjonal merittliste."
 medialink: "https://www.youtube.com/embed/Kvasabu2wp0"
 ---
 Edward Gardner (f. 1974) er internasjonalt anerkjent som en av de ledende dirigenter i sin generasjon. Gardner ble musikksjef ved English National Opera (ENO) i London i 2007, en posisjon han hadde til våren 2015. I 2011 ledet han, som den yngste dirigent i historien, den prestisjefylte Last Night of the Proms-konserten i Royal Albert Hall. Han ble i juni 2012 tildelt ordenen OBE (Order of the British Empire) for sin innsats for britisk musikkliv. Gardner dirigerer jevnlig i de store internasjonale operahusene; Metropolitan i New York, La Scala i Milano, Paris-operaen og Glyndebourne Festival Opera. Han er en svært etterspurt orkester-gjestedirigent og har i sesongen 2017-2018 fått sin debut med blant annet New York Philharmonic og Chicago Symphony Orchestra.

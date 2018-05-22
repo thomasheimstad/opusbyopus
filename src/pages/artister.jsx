@@ -128,7 +128,7 @@ export const pageQuery = graphql`
             date
             thumbnail {
               childImageSharp {
-                sizes(maxWidth: 250, maxHeight: 200, quality: 80) {
+                sizes(maxWidth: 500, maxHeight: 400, quality: 80, cropFocus: CENTER) {
                   ...GatsbyImageSharpSizes
                 }
               }

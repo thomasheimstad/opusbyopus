@@ -5,7 +5,7 @@ date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/BergenFilharmoniskeOrkester.jpg
 tags:
   - orkester
-description: "Nasjonalorkestret som er 253 år i 2018. Sjefsdirigent Ed Gardner leder orkestret inn i en ny æra med turneer, innspillinger og musikalske tolkninger i verdensklassen."
+description: "Nasjonalorkestret som er 253 år i 2018. Sjefdirigent Ed Gardner leder orkestret inn i en ny æra med turneer, innspillinger og musikalske tolkninger i verdensklassen."
 medialink: "https://www.youtube.com/embed/GqTvjhG4zv4"
 ---
 Bergen Filharmoniske Orkester har status som nasjonalorkester og kan som et av verdens eldste orkestre føre sin historie helt tilbake til 1765. Edvard Grieg var nær knyttet til orkesteret, og var i årene 1880-82 orkesterets kunstneriske leder. Orkesteret teller 101 musikere og kunne i 2015 feire sitt 250-årsjubileum.

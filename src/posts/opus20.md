@@ -49,6 +49,6 @@ På sine konsertreiser i utlandet dirigerte Grieg hyppig Foran Sydens Kloster. F
 
 <a href="http://bergen.folkebibl.no/arkiv/grieg/konsertprogram/stor_18721130_kristiania.pdf" target="_blank">Konsertprogram for uroppførelsen av "Foran Sydens kloster", Christiania 30. november 1872</a>
 
-"Foran Sydens kloster» ble uroppført i Christiania 30. november 1872 ved Musikforeningens kor og orkester, og med Grieg selv som dirigent. På programmet for øvrig stod Händels Coronation Anthems, Johan Svendsens fiolinkonsert i A-dur med Gudbrand Bøhn som solist, og Beethovens 5. symfoni.
+Foran Sydens kloster ble uroppført i Christiania 30. november 1872 ved Musikforeningens kor og orkester, og med Grieg selv som dirigent. På programmet for øvrig stod Händels Coronation Anthems, Johan Svendsens fiolinkonsert i A-dur med Gudbrand Bøhn som solist, og Beethovens 5. symfoni.
 
 <div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

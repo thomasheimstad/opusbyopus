@@ -42,6 +42,10 @@ Vinteren 1869-70 oppholdt Grieg og Nina seg i Roma. Her møtte han Franz Liszt, 
 
 Det er lett å forstå at dette møtet ble viktig for Griegs selvtillit som komponist.
 
-Konserten er et av Bergen Filharmoniske Orkesters signaturverk som ofte står på repertoaret når orkestret turnerer internasjonalt. Orkestret har også spilt inn verket med flere internasjonalt anerkjente pianister som Leif Ove Andsnes, Stephen Hough, Noriko Ogawa og Jean-Efflam Bavouzet. Under Grieg minutt for minutt er Håvard Gimse solist, og orkestrets sjefsdirigent Ed Gardner står på podiet.
+Konserten er et av Bergen Filharmoniske Orkesters signaturverk som ofte står på repertoaret når orkestret turnerer internasjonalt. Orkestret har også spilt inn verket med flere internasjonalt anerkjente pianister som Leif Ove Andsnes, Stephen Hough, Noriko Ogawa og Jean-Efflam Bavouzet. Under Grieg minutt for minutt er Håvard Gimse solist, og orkestrets sjefdirigent Ed Gardner står på podiet.
+
+Harmonien spilte a-mollkonserten første gang i 1881, 1. desember. Alie Lindberg, finsk pianist som da bodde i Bergen, var solist og Edvard Grieg selv dirigerte. I følge Harmoniens "uoffisielle" statistikk over framføringer av a-mollkonserten, blir framføringen på Grieg minutt for minutt nr. 251. I tillegg kommer flere plateinnspillinger. Grieg skrev til den danske komponisten og pianisten August Winding før konserten:
+
+> Jeg gruer! Jeg har en rædsel for at fremføre egne Kompositioner – af mange Grunde – men da både Direktionen og Frøken L. absolut ønskede dette Valg så får jeg stå og dirigere med sammenbidte Tænder.
 
 <div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

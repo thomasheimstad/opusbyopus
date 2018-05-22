@@ -7,7 +7,7 @@ export default class MainStarter extends React.Component {
     return (
       <div className="mainStarter flex row" style={{height: this.props.windowHeight}}>
           <NavLink to="/">
-            <CountDownTimer date="Jun 15, 2018 18:00:00"/>
+            <CountDownTimer date="Jun 15, 2018 17:30:00"/>
           </NavLink>
           <NavLink to="/opus-for-opus">
             <img src={GriegNightInv} alt="Grieg by day, Grieg by night"/>

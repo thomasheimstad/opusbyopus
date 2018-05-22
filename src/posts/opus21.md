@@ -22,7 +22,7 @@ Griegs samarbeid med Bjørnstjerne Bjørnson skulle bli hans redning og inspiras
 
 De rike samarbeidsår ble selvsagt ledsaget av en rekke komposisjoner. Med det store politiske og kulturelle engasjement de begge utviste, ble sanger til nasjonens og fremtredende personligheters ære en del av dette samarbeidet.
 
-Men det var i de større dramatiske verk de skulle utfolde seg mest. Deres store plan om en nasjonal opera, Olav Trygvason endte riktignok bare i en torso, men før dette prosjektet gikk i stå, hadde de lagt store verk til listen over norsk nasjonalkunst med Sigurd Jorsalfar, Arnljot Gjelline på scenen og korsangen framfor alle korsanger Landkjenning.
+Men det var i de større dramatiske verk de skulle utfolde seg mest. Deres store plan om en nasjonal opera, Olav Tryggvason endte riktignok bare i en torso, men før dette prosjektet gikk i stå, hadde de lagt store verk til listen over norsk nasjonalkunst med Sigurd Jorsalfar, Arnljot Gjelline på scenen og korsangen framfor alle korsanger Landkjenning.
 
 Grieg hadde også satt musikk til flere dikt av Bjørnson. I 1872 fullførte han ”Fire dikt av ’Fiskerjenten’”, opus 21. ”Det første møte” – favner et univers av følelser, men uttrykt gjennom en knapp og innadvendt form. En stor utfordring for utøveren!
 

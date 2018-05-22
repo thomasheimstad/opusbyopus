@@ -20,7 +20,7 @@ export default class MainEntrance extends React.Component {
         </ZoomIn>
       </div>
       <div className="mainEntranceText flex column center">
-        <CountDownTimer date="Jun 15, 2018 18:00:00"/>
+        <CountDownTimer date="Jun 15, 2018 17:30:00"/>
         <div className="mainEntranceTextInfo flex center column">
           <h2>15. juni kl. 17.30 starter verdens lengste fremførelse av Edvard Griegs musikk. NRK direktesender 30 timer med live musikk fra Griegs hjem Troldhaugen, Grieghallen og fra Store Studio. Vi lanserer artistene gradvis. Følg med her!</h2>
         </div>

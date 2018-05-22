@@ -35,7 +35,7 @@ Stykket ble også utgitt for både to- og firhendig piano.
 
 Det meste av verket ble skrevet våren 1872, men Grieg tok i tillegg inn en Gavotte som var komponert flere år tidligere, og oppført sammen med uroppførelsen av Griegs fiolinsonate nr. 2 i G-dur i 1867. Gavotten var et enkeltstående fiolinstykke, som fikk tittelen «Ved mannjevningen» da den ble tatt inn i scenemusikken til Sigurd Jorsalfar.
 
-Gavotten ble også spilt av Edvard Grieg og Ole Bull på konsert i Ekserserhuset i Bergen 11. august 1873. Dette var deres eneste offisielle opptreden sammen.    
+Gavotten ble også spilt av Edvard Grieg og Ole Bull på konsert i Ekserserhuset i Bergen 11. august 1873. Dette var deres eneste offisielle opptreden sammen.
 
 <a href="http://bergen.folkebibl.no/cgi-bin/websok-grieg?tnr=248876" target="_blank">Link til det originale konsertprogrammet</a>
 

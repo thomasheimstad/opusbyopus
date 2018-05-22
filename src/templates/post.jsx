@@ -170,7 +170,7 @@ export const pageQuery = graphql`
             tags
             thumbnail {
               childImageSharp {
-                sizes(maxWidth: 400, maxHeight: 400) {
+                sizes(maxWidth: 360, maxHeight: 360, cropFocus: CENTER) {
                   ...GatsbyImageSharpSizes
                 }
               }
@@ -193,7 +193,7 @@ export const pageQuery = graphql`
             workname
             thumbnail {
               childImageSharp {
-                sizes(maxWidth: 400, maxHeight: 400) {
+                sizes(maxWidth: 360, maxHeight: 360, cropFocus: CENTER) {
                   ...GatsbyImageSharpSizes
                 }
               }

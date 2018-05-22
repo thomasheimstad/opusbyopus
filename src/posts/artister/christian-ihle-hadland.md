@@ -5,7 +5,7 @@ date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/ChristianIhleHadland.jpg
 tags:
   - pianist
-description: "En fremadstormende pianist med internasjonale utsikter, Spellemannsprisvinner i 2014 og Grieg-tolker av rang."
+description: "En fremadstormende pianist med internasjonale utsikter, Spellemannsprisvinner i 2014 og en stor Grieg-tolker."
 medialink: "https://www.youtube.com/embed/OHS9Pw8MNuI"
 ---
 Christian Ihle Hadland har etablert seg som en av våre mest fremadstormende pianister. Hans elegante spill og egenartede anslag har ledet ham til noen av verdens mest prestisjetunge scener.
