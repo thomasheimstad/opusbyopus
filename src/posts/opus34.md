@@ -30,3 +30,5 @@ Etter et år som dirigent ønsket Grieg å avslutte arbeidsforholdet. Han hadde 
 Høsten 1881 ble orkesterversjonen av de to Vinjestykkene utgitt som «To elegiske melodier» opus 34. Grieg hadde nå endret tittel på stykkene, til «Hjertesår» og «Siste vår». Siden lytteren ikke hadde teksten tilgjengelig, ønsket han på denne måten å understreke innholdet. De elegiske melodiene fikk et stort nedslag utenfor Norge, og også forleggeren kunne innkassere god fortjeneste.
 
 Verket er tilegnet den østerrikske komponisten og dirigenten Heinrich von Herzogenberg som Grieg ble kjent med i Leipzig.
+
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

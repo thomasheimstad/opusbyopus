@@ -40,3 +40,5 @@ Vinjesangene har blitt stående i en særstilling blant Griegs sangkomposisjoner
 «Ved Rondane» har han også arrangert for trestemmig damekor a cappella.
 
 Bilde: «Vinternatt i Rondane», fra 1901 av Harald Sohlberg.
+
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

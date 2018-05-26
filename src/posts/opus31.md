@@ -45,3 +45,5 @@ Til tross for den store skuffelsen blant publikum over at dronningen meldte sykd
 Landkjenning har blitt stående som et av Griegs aller beste korverk og karakteriseres gjerne som Norges mest kjente korsang. Fortsatt står verket på repertoaret til nærmest alle landets mannskor.
 
 Foto: <a href="https://commons.wikimedia.org/wiki/File:Peter_Nicolai_Arbo-Olav_Tryggvasons_ankomst_til_Norge.jpg">Peter Nicolai Arbo</a>
+
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

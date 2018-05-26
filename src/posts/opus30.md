@@ -35,3 +35,5 @@ Men Album for manssang ble ikke oppført så mye som Grieg ønsket de første å
 Album for mannssang representerer et høydepunkt blant Griegs korkomposisjoner, og kan trolig bare toppes av hans siste verk, «Fire salmer», opus 74.
 
 Foto: <a href="https://commons.wikimedia.org/wiki/File:Johan_Didrik_Behrens.jpg">Ukjent, via Oslo Museum</a>
+
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>

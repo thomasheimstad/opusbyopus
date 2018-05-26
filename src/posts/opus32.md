@@ -31,4 +31,6 @@ Grieg var sterkt personlig grepet av teksten. Første og siste strofe er identis
 
 > «Jeg visste ingen bedre å tilegne den. Jeg visste, du hører til disse forferdelige naturer, som fordrer å se blod, og en natur som din vil ikke søke lenge før du finner pletter og stenk hist og her av det rene, skjære hjerteblod.» - (Grieg til Matthison-Hansen 18. november 1881).
 
-Den bergtekne ble datert i Lofthus i april 1878. Da gikk året i Hardanger snart mot slutten og Grieg satte kursen ut av landet samme høst. Etter vinteren i Tyskland kom han til København våren 1879, og her ble Den bergtekne uroppført den 5. april i Musikforeningen, med tidens store sanger Thorvald Lammers som solist og Grieg selv på dirigentpulten.  
+Den bergtekne ble datert i Lofthus i april 1878. Da gikk året i Hardanger snart mot slutten og Grieg satte kursen ut av landet samme høst. Etter vinteren i Tyskland kom han til København våren 1879, og her ble Den bergtekne uroppført den 5. april i Musikforeningen, med tidens store sanger Thorvald Lammers som solist og Grieg selv på dirigentpulten.
+
+<div class="button postButton"><a href="http://harmonien.no/konserter-og-billetter/2018/06/grieg-minutt-for-minutt/" target="_blank">Kjøp billetter til Grieghallen her</a></div>
