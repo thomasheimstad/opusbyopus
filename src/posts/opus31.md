@@ -16,7 +16,7 @@ artists:
   - Bergen Filharmoniske Ungdomsorkester
   - Bergen Mannskor
   - Follesø Mannskor
-  - Den norske Studentersangforening
+  - Den Norske Studentersangforening
 tags:
   - sang
   - sangkor
