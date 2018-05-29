@@ -20,4 +20,4 @@ Ragnhild Hemsings nye plateinnspeling «Northern Timbre» frå 2017 med pianiste
  
 Ragnhild Hemsing vart fødd i Valdres i 1988, i hjartet av Folkemusikk-Noreg. Ho begynte å spela fiolin då ho var fem, og studerte ved det prestisjetunge Barratt Due musikkinstitutt i Oslo og deretter med professor Boris Kuschnir i Wien. Ho spelar på ein fiolin bygd av Francesco Ruggeri (Cremona, 1694) som er utlånt frå Dextra Musica.
 
-Foto: Cathrine Dokken. 
+Foto: Cathrine Dokken.
