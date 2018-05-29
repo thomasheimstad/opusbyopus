@@ -1,6 +1,6 @@
 ---
 category: artister
-title: Ann Helen Moen
+title: Ann-Helen Moen
 date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/AnnHelenMoen.jpg
 tags:

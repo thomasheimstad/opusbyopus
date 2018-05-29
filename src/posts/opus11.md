@@ -11,6 +11,7 @@ description: Opus 11
 author: Monica Jangaard
 thumbnail: ./img/opus11.jpg
 artists:
+  - Miguel Harth-Bedoya
   - Kringkastingsorkestret
 tags:
   - symfoniorkester

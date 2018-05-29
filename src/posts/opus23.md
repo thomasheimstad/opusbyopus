@@ -14,7 +14,7 @@ artists:
   - Svein Sturla Hungnes
   - Rune Reksten
   - Lise Fjeldstad
-  - Ann Helen Moen
+  - Ann-Helen Moen
   - Tora Augestad
   - Lina Johnson
   - Aleksander Nohr

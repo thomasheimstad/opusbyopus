@@ -25,7 +25,7 @@ Bare noen dager senere ga Grieg en kammerkonsert i samme by, og ved den anlednin
 
 Da cellosonaten endelig var ferdig vinteren 1882-83, sendte han den til Leipzig, og i brevet til Dr. Max Abraham beskrev han sin kamp med materialet på følgende måte:  
 
-> ”Og nå for å tale om Pegasus: Han har visstnok vært her, men ’Presto’ vil jeg ikke akkurat kalle ham, ’Allegro’ kan han heller ikke hete; skulle jeg døpe ham, måtte navnet bli ’Andante, quasi lento’ ”. (Brev til Dr. Max Abraham, mai 1883)
+> ”Og nå for å tale om Pegasus: Han har visstnok vært her, men ’Presto’ vil jeg ikke akkurat kalle ham, ’Allegro’ kan han heller ikke hete; skulle jeg døpe ham, måtte navnet bli ’Andante, quasi lento’ ”. (Brev til Dr. Max Abraham, mai 1883).
 
 Grieg var med andre ord ikke helt fornøyd med sitt nye opus. Han var en meget streng dommer med hensyn til egne verk. Rett nok kan vi i sonaten finne mange likhetstrekk med tidligere verk i oppbygging og rent tematisk. Både a-moll konserten, Hyldningsmarsjen fra Sigurd Jorsalfar og det velkjente Grieg-motivet brukes. I innledningen i 2. sats kan en i pianostemmen høre en passasje som er hentet fra Bjørnson-sangen ”Fra Monte Pincio”. På grunn av at han siterte seg selv så mye i denne sonaten, karakteriserte han den ikke som ”noe fremskritt i min utvikling.”. Men ser en på den uavhengig av dette, har Grieg laget en meget god sonate til et kammermusikkinstrument som ikke har alt for stort repertoar.
 
