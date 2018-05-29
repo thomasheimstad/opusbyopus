@@ -5,7 +5,7 @@
   "author": "Thomas Heimstad",
   "dependencies": {
     "babel-plugin-lodash": "^3.3.2",
-    "gatsby": "^1.9.128",
+    "gatsby": "^1.9.261",
     "gatsby-cli": "^1.1.23",
     "gatsby-image": "^1.0.31",
     "gatsby-link": "^1.6.28",
@@ -17,7 +17,6 @@
     "gatsby-plugin-offline": "^1.0.3",
     "gatsby-plugin-react-helmet": "^1.0.2",
     "gatsby-plugin-sass": "^1.0.13",
-    "gatsby-plugin-sharp": "^1.6.21",
     "gatsby-plugin-sitemap": "^1.2.1",
     "gatsby-plugin-twitter": "^1.0.6",
     "gatsby-react-router-scroll": "^1.0.7",
@@ -26,7 +25,7 @@
     "gatsby-remark-images": "^1.5.32",
     "gatsby-remark-prismjs": "^1.2.9",
     "gatsby-remark-responsive-iframe": "^1.4.14",
-    "gatsby-source-filesystem": "^1.5.8",
+    "gatsby-source-filesystem": "^1.5.36",
     "gatsby-transformer-remark": "^1.7.21",
     "gatsby-transformer-sharp": "^1.6.14",
     "intersection-observer": "^0.5.0",
@@ -64,8 +63,9 @@
   },
   "keywords": [
     "Grieg",
-    "Minutt for minutt",
-    "Opus for opus",
+    "Minutt",
+    "For",
+    "Opus",
     "Collection"
   ],
   "license": "MIT",
