@@ -14,6 +14,7 @@ export default class Footer extends React.Component {
            <div className="footerLinks flex wrap basePad center">
              <div className="button"><NavLink to="/opus-for-opus">Opus for opus</NavLink></div>
              <div className="button"><NavLink to="/artister">Artister</NavLink></div>
+             <div className="button"><NavLink to="/info">Info</NavLink></div>
            </div>
          </FadeInWrapper>
        </div>

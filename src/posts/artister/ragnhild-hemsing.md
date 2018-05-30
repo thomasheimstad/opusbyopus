@@ -5,7 +5,7 @@ date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/RagnhildHemsing.jpg
 tags:
   - fiolinist
-description: "Uvanlig allsidig artist med dype røtter i den rike folkemusikktradisjonen. Prisvinnende, kritikerrost og med en stor kunstnerisk aktivitet i inn- og utland."
+description: "Uvanlig allsidig artist med dype røtter i den rike folkemusikktradisjonen. Prisvinnende, kritikerrost og med en stor kunstnerisk aktivitet i Norge og i utlandet."
 medialink: "https://www.youtube.com/embed/AYSVDG8ZFNw"
 ---
 Ragnhild Hemsing skil seg ut blant dei nye talenta i Noreg som ein uvanleg allsidig artist. Ho har djupe røter i den rike folkemusikktradisjonen i Noreg, og det gjer henne til ein av dei første artistane som på ein vellykka måte smeltar saman typiske trekk ved norsk folkemusikk og klassisk musikk på ein ungdommeleg, frisk og fullt ut moderne måte.

@@ -21,7 +21,7 @@ export default class Locations extends React.Component {
           embed="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3942.8599645527693!2d5.32807525396727!3d60.38857573207041!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6d306d8bd273b82!2sGrieghallen!5e0!3m2!1sno!2sno!4v1524596712639"
           >
           <h2>Grieghallen</h2>
-          <p>Med sine 1610 sitteplasser er Griegsalen, hovedsalen i Grieghallen, den største arenaen for klassiske konserter i Bergen. Bygget sto ferdig i 1978, og huser også en rekke konsert- og bankettsaler på totalt 3500 kvadratmeter. Den danske arkitekten Knud Munk er mannen bak ideen, og sett fra ett av de syv fjellene ser bygget ut som et stort konsertflygel. Griegsalen er hjemmearena for Bergen Filharmoniske orkester, som under Grieg minutt for minutt spiller blant annet Griegs berømte pianokonsert i A-moll utpå kvelden fredag 15. juni, og Peer Gynt natt til lørdag.</p>
+          <p>Med sine 1610 sitteplasser er Griegsalen, hovedsalen i Grieghallen, den største arenaen for klassiske konserter i Bergen. Bygget sto ferdig i 1978, og huser også en rekke konsert- og bankettsaler på totalt 3500 kvadratmeter. Den danske arkitekten Knud Munk er mannen bak ideen, og sett fra et av de syv fjellene ser bygget ut som et stort konsertflygel. Griegsalen er hjemmearena for Bergen Filharmoniske orkester, som under Grieg minutt for minutt spiller blant annet Griegs berømte pianokonsert i A-moll utpå kvelden fredag 15. juni, og Peer Gynt natt til lørdag.</p>
           {/*<a target="_blank" href="https://goo.gl/maps/FhStkU6T5Am"><h4>Hvordan komme seg til Grieghallen</h4></a>*/}
         </LocationCard>
         <LocationCard

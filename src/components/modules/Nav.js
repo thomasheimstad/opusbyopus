@@ -31,6 +31,11 @@ const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick, l
               <h3><MdStar /> Artistene</h3>
             </NavLink>
           </li>
+          <li onClick={handleNavClick}>
+            <NavLink to="/info" activeClassName="active">
+              <h3><MdInfo /> Info</h3>
+            </NavLink>
+          </li>
         </ul>
       </div>
       {/* LANGUAGE
