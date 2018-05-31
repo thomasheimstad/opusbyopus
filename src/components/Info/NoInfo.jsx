@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import DualLink from "../modules/DualLink";
 import CollaboratorsLogo from "../modules/CollaboratorsLogo";
 import Locations from "../modules/Locations";
-import AnchorLink from 'react-anchor-link-smooth-scroll';
+import AnchorLinks from "../modules/AnchorLinks";
 
 export default class NoInfo extends Component {
   shouldComponentUpdate() {
@@ -15,20 +15,16 @@ export default class NoInfo extends Component {
             <div className="basePad">
               <div className="flex center column">
                 <div>
-                  <h1>#NRKGrieg</h1>
+                  <h1>#nrkgrieg</h1>
                   <h3>Minutt for minutt</h3>
                   <h4>NRK, Bergen Filharmoniske Orkester, KODE</h4>
                 </div>
                 <div>
-                  <h3 style={{textAlign: "center", marginBottom:"2rem"}}>Grieg minutt for minutt kan sees direkte på NRK, lyttes til på radio eller oppleves fra salen. Bli med på folkefesten i Bergen, dag og natt, 15.–16. juni. Alle konsertene i Grieghallen for 450 kroner! Kjøp billetter her. Konserter på Troldhaugen er gratis. Les mer om alt som skal skje. </h3>
-                  <DualLink />
-                  <div className="flex center">
-                    <div className="button"><AnchorLink href='#troldhaugen'>Troldhaugen</AnchorLink></div>
-                    <div className="button"><AnchorLink href='#grieghallen'>Grieghallen</AnchorLink></div>
-                    <div className="button"><AnchorLink href='#oppladning'>Oppladning</AnchorLink></div>
-                  </div>
+                  <h3 style={{textAlign: "center", marginBottom:"2rem"}}>Grieg minutt for minutt kan sees direkte på NRK, lyttes til på radio eller oppleves fra salen. Bli med på folkefesten i Bergen, dag og natt, 15.–16. juni. Alle konsertene i Grieghallen for 450 kroner!</h3>
+                  <DualLink link1="Troldhaugen">Gratis på Troldhaugen og i Store studio</DualLink>
+                  <AnchorLinks link1="Troldhaugen" link2="Grieghallen" link3="Oppladning" />
                   <div className="arenaInfo">
-                    <h2 id="troldhaugen">Dette skjer på Troldhaugen:</h2>
+                    <h2 id="Troldhaugen">Dette skjer på Troldhaugen:</h2>
                     <p>Konsertene som spilles på Troldhaugen er gratis å ta del i, og hele sendingen vises kontinuerlig på skjermer på området fra fredag kl. 17.30. Vi kan ikke garantere plass i Troldsalen eller villaen, og anmoder publikum om å følge anvisninger fra verter på området.
                     </p>
                     <p>Servering i kafeen og på museumsområdet hele døgnet, med alle rettigheter.
@@ -49,7 +45,7 @@ export default class NoInfo extends Component {
                     <p>Innspurten starter med Haugtussa ca. kl. 18.45. Sendingen avsluttes med Salmene ca. kl. 22 - de første tre i Troldsalen og den siste ved gravstedet.</p>
                   </div>
                   <div className="arenaInfo">
-                    <h2 id="grieghallen">Dette skjer i Grieghallen:</h2>
+                    <h2 id="Grieghallen">Dette skjer i Grieghallen:</h2>
                     <p>Grieghallen åpner dørene for publikum fredag kl. 17.00. Hele sendingen vises kontinuerlig på storskjerm i foajeen og i Griegsalen.
                     Det er gratis å følge arrangementet på foajéstorskjermen, og om du vil oppleve konsertene fra salen tilbyr vi ulike billettløsninger.</p>
                     <p>Servering og kafésalg hele døgnet med alle rettigheter.
@@ -65,7 +61,7 @@ export default class NoInfo extends Component {
                     <h3>Vi tar forbehold om endringer i programmet. </h3>
                   </div>
                   <div className="arenaInfo">
-                    <h2 id="oppladning">OPPLADNING – HELGEN 9.–10. juni. <br/>Bergen kommune bidrar til en markering av 175-årsjubileet.</h2>
+                    <h2 id="Oppladning">OPPLADNING – HELGEN 9.–10. juni. <br/>Bergen kommune bidrar til en markering av 175-årsjubileet.</h2>
 
                     <p>Bergen kommune har invitert frivillige kor, korps, orkestre og andre sangere og musikere fra byens rike amatørkulturliv til å lage et lite forspill helgen før det store arrangementet.</p>
 

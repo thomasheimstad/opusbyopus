@@ -12,7 +12,7 @@ author: Monica Jangaard
 thumbnail: ./img/opus47.jpg
 artists:
   - Håkon Sjøvik Olsen
-  - Studenter GA NMH
+  - Vadim Borodin
 tags:
   - klaver
 ---
