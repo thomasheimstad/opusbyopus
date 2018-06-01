@@ -19,7 +19,7 @@ const MainInfoText = () => {
                 <p>En klassisk musikkfest i Bergen! Grieg minutt for minutt er en enestående anledning til å oppleve hele Griegs produksjon fra opus 1–74, fremført av det beste fra norsk musikkliv. Troldhaugen, Edvard Griegs hjem, blir åpent gjennom hele arrangementet og et sentrum for den store folkefesten. Det blir også store arrangementer og opplevelser i Grieghallen, med Bergen Filharmoniske Orkester, kor og andre musikere. Også Kringkastingsorkesteret bidrar med stor musikk fra Store Studio. Kanskje blir det innslag fra andre deler av landet også!</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoText3">
-                <p>Det du nå ser på hjemmesiden er bare begynnelsen - en smakebit. Listen over artister og Griegs opusnumre oppdateres fortløpende. Programmet går fra ettermiddagen 15. juni og til nærmere midnatt 16. juni. Du er herved invitert til Edvard Griegs 175-årsdag, bli med på festen, dag og natt!</p>
+                <p>Listen over artister og Griegs opusnumre oppdateres fortløpende. Programmet går fra ettermiddagen 15. juni og til nærmere midnatt 16. juni. Du er herved invitert til Edvard Griegs 175-årsdag, bli med på festen, dag og natt!</p>
               </FadeInWrapper>
               <FadeInWrapper id="mainInfoAnchorLinks">
                 <DualLink link2="info#Troldhaugen">Gratis på Troldhaugen og i Store studio</DualLink>

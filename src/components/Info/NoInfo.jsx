@@ -20,7 +20,7 @@ export default class NoInfo extends Component {
                   <h4>NRK, Bergen Filharmoniske Orkester, KODE</h4>
                 </div>
                 <div>
-                  <h3 style={{textAlign: "center", marginBottom:"2rem"}}>Grieg minutt for minutt kan sees direkte på NRK, lyttes til på radio eller oppleves fra salen. Bli med på folkefesten i Bergen, dag og natt, 15.–16. juni. Alle konsertene i Grieghallen for 450 kroner!</h3>
+                  <h3 style={{textAlign: "center", marginBottom:"2rem"}}>Grieg minutt for minutt kan sees direkte på NRK, lyttes til på radio eller oppleves fra salen. Bli med på folkefesten i Bergen, dag og natt, 15.–16. juni. Alle konsertene i Grieghallen for 450 kroner. Konsertene som spilles på Troldhaugen er gratis å ta del i!</h3>
                   <DualLink link1="Troldhaugen">Gratis på Troldhaugen og i Store studio</DualLink>
                   <AnchorLinks link1="Troldhaugen" link2="Grieghallen" link3="Oppladning" />
                   <div className="arenaInfo">
