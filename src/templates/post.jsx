@@ -49,7 +49,7 @@ export default class PostTemplate extends React.Component {
             <div className="basePad">
               <div className="flex center column">
                 <div className="flex center column">
-                  <h1>OPUS {post.title}</h1>
+                  { post.title <= 74 ? <h1>OPUS {post.title}</h1> : <h1>EG {post.title}</h1> }
                   <h3>{post.workname}</h3>
                   {post.dedicatedTo ? <h5>Dedikert til {post.dedicatedTo}</h5> : null}
                   <h4>{post.composedin}</h4>
