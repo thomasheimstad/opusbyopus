@@ -7,7 +7,7 @@ tags:
   - korps
 description: "Sjøforsvarets musikkorps ble i 2008 kåret til Årets utøver av Den norske komponistforening og Kulturrådets ærespris i 2016 for korpsets uvurderlige betydning for norsk kulturliv gjennom 200 år."
 ---
-200 år i 2018
+##200 år i 2018
 
 Sjøforsvarets musikkorps holder til i Bergen og er en sentral aktør i kulturlivet på Vestlandet. Korpset, med sine høyt kvalifiserte, profesjonelle musikere løser nær sagt alle typer oppdrag, i alle sjangre, alle ukedager, alle tenkelige og utenkelige steder og i all slags vær alltid i uniform.
 
