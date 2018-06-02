@@ -24,7 +24,7 @@ export default class Controls extends React.Component {
       return (
         <div className="controls flex spaceBetween">
           <div>
-            <NavLink exact to="/opus74"><h3>&larr;</h3></NavLink>
+            <NavLink exact to="/opus59"><h3>&larr;</h3></NavLink>
           </div>
           <div>
           </div>
