@@ -11,6 +11,7 @@ description: Opus 42
 author: Arnulf Mattes
 thumbnail: ./img/opus42.jpg
 artists:
+  - Gørild Mauseth
   - Miguel Harth-Bedoya
   - Kringkastingsorkestret
 tags:

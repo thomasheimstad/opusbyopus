@@ -12,6 +12,7 @@ author: Monica Jangaard
 thumbnail: ./img/opus33.jpg
 artists:
   - Njål Sparbo
+  - Eirik Grøtvedt
   - Melissa Baug
   - Studenter GA NMH
   - Einar Røttingen
