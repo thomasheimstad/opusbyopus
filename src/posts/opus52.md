@@ -8,7 +8,7 @@ location: 'Troldhaugen'
 composedin: '1890'
 dedicatedTo: ''
 description: Opus 52
-author:
+author: Monica Jangaard
 thumbnail: ./img/opus52.jpg
 artists:
   - Marianna Shirinyan

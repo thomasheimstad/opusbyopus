@@ -41,7 +41,7 @@ export default class TreeView extends React.Component {
               {
                 this.props.title <= 74 ?
                 <h2>{this.props.category == "opus" ? "Opus "+this.props.title : this.props.title}</h2> :
-                <h2>{this.props.category == "opus" ? "Eg "+this.props.title : this.props.title}</h2>
+                <h2>{this.props.category == "opus" ? "EG "+this.props.title : this.props.title}</h2>
               }
               <p>
                 {this.props.workname ? this.props.workname : this.props.tags}

@@ -7,8 +7,8 @@ startDate: '16.6'
 location: 'Troldhaugen'
 composedin: '1866'
 dedicatedTo: ''
-description: Eg 107
-author:
+description: EG 107
+author: Monica Jangaard
 thumbnail: ./img/opus107.jpg
 artists:
   - Sjøforsvarets Musikkorps

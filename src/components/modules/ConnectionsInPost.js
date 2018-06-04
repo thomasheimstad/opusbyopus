@@ -19,7 +19,7 @@ export default class ConnectionsInPost extends React.Component {
         <NavLink to={x.fields.slug} key={i}>
           { x.frontmatter.title <= 74 ?
             <h3>{x.frontmatter.workname ? "Opus "+ x.frontmatter.title : x.frontmatter.title}</h3> :
-            <h3>{x.frontmatter.workname ? "Eg "+ x.frontmatter.title : x.frontmatter.title}</h3>
+            <h3>{x.frontmatter.workname ? "EG "+ x.frontmatter.title : x.frontmatter.title}</h3>
           }
           <h4>{x.frontmatter.workname ? x.frontmatter.workname : x.frontmatter.tags}</h4>
           <div>
