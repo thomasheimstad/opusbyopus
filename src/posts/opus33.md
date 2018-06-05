@@ -14,7 +14,6 @@ artists:
   - Njål Sparbo
   - Eirik Grøtvedt
   - Melissa Baug
-  - Studenter GA NMH
   - Einar Røttingen
 tags:
   - sang

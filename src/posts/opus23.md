@@ -24,6 +24,7 @@ artists:
   - Edvard Grieg Kor
   - Edvard Grieg Ungdomskor
   - Bergen Filharmoniske Kor
+  - Bergen Guttekor og Pikekor
 tags:
   - sang
   - symfoniorkester

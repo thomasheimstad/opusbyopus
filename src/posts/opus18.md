@@ -11,7 +11,13 @@ description: Opus 18
 author: Monica Jangaard
 thumbnail: ./img/opus18.jpg
 artists:
-  - Studenter GA NMH
+  - Eirik Grøtvedt
+  - Magnus Berg
+  - Kaia Rullestad Teigen
+  - Emily Adomah Rimmereide Adjei
+  - Renate Eide
+  - Knut Andreas Grove
+  - Eirik Haug Stømner
 tags:
   - sang
   - klaver

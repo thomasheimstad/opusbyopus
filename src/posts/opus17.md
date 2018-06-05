@@ -11,7 +11,9 @@ description: Opus 17
 author: Audun Kayser
 thumbnail: ./img/opus17.jpg
 artists:
-  - Studenter GA NMH
+  - Daniela Dawn Fietzek
+  - Iiris Rissanen
+  - Elena Reznikova
 tags:
   - klaver
 ---

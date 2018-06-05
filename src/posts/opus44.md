@@ -14,14 +14,14 @@ artists:
   - Harald Bjørkøy
   - Simen Bredesen Hørthe
   - Magnus Berg
-  - Studenter GA NMH
+  - Arne Kvarven
   - Torleif Torgersen
 tags:
   - sang
   - klaver
 ---
 “Reiseminder fra fjell og fjord” med tekst av Holger Drachmann ble til i 1886, samtidig som Grieg skrev Lyriske stykker opus 43. Denne sommeren var Grieg på tur i Hardanger og Jotunheimen sammen med den danske dikteren Holger Drachmann (1846-1908). Under oppholdet skrev Drachmann entusiastiske dikt om naturen, og om kvinner de møtte.
- 
+
 Samlingen er rammet inn av en prolog der han tar oss med inn i Jotunheimen, og en epilog der vi tar farvel med fjellet og naturopplevelsen. I midten beskrives fire kvinner, Johanne, Ragnhild, Ingebjørg og Ragna. Samlet utgjør de seks sangene en fortelling, der prologen og epilogen er harmonisk beslektet, begge skrevet i en resitativisk stil.
 
 Samlingen har av noen vært vurdert som svakere enn de øvrige av Griegs sangopus. Derfor er det interessant at Grieg til den amerikanske musikkforskeren Henry T. Finck omtaler prologen i opus 44 som en av sine beste sanger:
