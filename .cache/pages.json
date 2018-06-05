@@ -10,13 +10,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-1.json",
-        "path": "/opus1/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-10.json",
         "path": "/opus10/"
     },
@@ -31,22 +24,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-11.json",
-        "path": "/opus11/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-13.json",
-        "path": "/opus13/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-14.json",
-        "path": "/opus14/"
+        "jsonName": "opus-1.json",
+        "path": "/opus1/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -59,6 +38,13 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-13.json",
+        "path": "/opus13/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-15.json",
         "path": "/opus15/"
     },
@@ -66,8 +52,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-17.json",
-        "path": "/opus17/"
+        "jsonName": "opus-11.json",
+        "path": "/opus11/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -75,6 +61,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-16.json",
         "path": "/opus16/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-17.json",
+        "path": "/opus17/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -94,8 +87,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-2.json",
-        "path": "/opus2/"
+        "jsonName": "opus-21.json",
+        "path": "/opus21/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -103,13 +96,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-20.json",
         "path": "/opus20/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-21.json",
-        "path": "/opus21/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -129,15 +115,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-24.json",
-        "path": "/opus24/"
+        "jsonName": "opus-14.json",
+        "path": "/opus14/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-25.json",
-        "path": "/opus25/"
+        "jsonName": "opus-2.json",
+        "path": "/opus2/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -157,15 +143,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-28.json",
-        "path": "/opus28/"
+        "jsonName": "opus-24.json",
+        "path": "/opus24/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-29.json",
-        "path": "/opus29/"
+        "jsonName": "opus-28.json",
+        "path": "/opus28/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -185,8 +171,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-31.json",
-        "path": "/opus31/"
+        "jsonName": "opus-25.json",
+        "path": "/opus25/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -199,15 +185,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-33.json",
-        "path": "/opus33/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-34.json",
-        "path": "/opus34/"
+        "jsonName": "opus-31.json",
+        "path": "/opus31/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -220,15 +199,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-36.json",
-        "path": "/opus36/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-37.json",
-        "path": "/opus37/"
+        "jsonName": "opus-33.json",
+        "path": "/opus33/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -241,36 +213,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-39.json",
-        "path": "/opus39/"
+        "jsonName": "opus-34.json",
+        "path": "/opus34/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-4.json",
-        "path": "/opus4/"
+        "jsonName": "opus-29.json",
+        "path": "/opus29/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-40.json",
-        "path": "/opus40/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-42.json",
-        "path": "/opus42/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-43.json",
-        "path": "/opus43/"
+        "jsonName": "opus-36.json",
+        "path": "/opus36/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -283,15 +241,43 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-45.json",
-        "path": "/opus45/"
+        "jsonName": "opus-42.json",
+        "path": "/opus42/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-44.json",
-        "path": "/opus44/"
+        "jsonName": "opus-37.json",
+        "path": "/opus37/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-39.json",
+        "path": "/opus39/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-40.json",
+        "path": "/opus40/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-4.json",
+        "path": "/opus4/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-45.json",
+        "path": "/opus45/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -304,13 +290,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-47.json",
-        "path": "/opus47/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-48.json",
         "path": "/opus48/"
     },
@@ -318,8 +297,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-49.json",
-        "path": "/opus49/"
+        "jsonName": "opus-44.json",
+        "path": "/opus44/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -332,6 +311,13 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-43.json",
+        "path": "/opus43/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-51.json",
         "path": "/opus51/"
     },
@@ -339,15 +325,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-50.json",
-        "path": "/opus50/"
+        "jsonName": "opus-47.json",
+        "path": "/opus47/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-52.json",
-        "path": "/opus52/"
+        "jsonName": "opus-50.json",
+        "path": "/opus50/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -367,15 +353,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-54.json",
-        "path": "/opus54/"
+        "jsonName": "opus-49.json",
+        "path": "/opus49/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-56.json",
-        "path": "/opus56/"
+        "jsonName": "opus-52.json",
+        "path": "/opus52/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-54.json",
+        "path": "/opus54/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -388,8 +381,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-60.json",
-        "path": "/opus60/"
+        "jsonName": "opus-59.json",
+        "path": "/opus59/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -402,15 +395,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-6.json",
-        "path": "/opus6/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-59.json",
-        "path": "/opus59/"
+        "jsonName": "opus-60.json",
+        "path": "/opus60/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -423,15 +409,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-63.json",
-        "path": "/opus63/"
+        "jsonName": "opus-56.json",
+        "path": "/opus56/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-64.json",
-        "path": "/opus64/"
+        "jsonName": "opus-6.json",
+        "path": "/opus6/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-63.json",
+        "path": "/opus63/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -451,20 +444,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-66.json",
-        "path": "/opus66/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-68.json",
-        "path": "/opus68/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-67.json",
         "path": "/opus67/"
     },
@@ -479,8 +458,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "opus-9.json",
-        "path": "/opus9/"
+        "jsonName": "opus-68.json",
+        "path": "/opus68/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-64.json",
+        "path": "/opus64/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-66.json",
+        "path": "/opus66/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -493,6 +486,13 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-aleksander-nohr.json",
+        "path": "/artister/aleksander-nohr/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "opus-8.json",
         "path": "/opus8/"
     },
@@ -500,22 +500,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "opus-9.json",
+        "path": "/opus9/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-ashild-skiri-refsdal.json",
+        "path": "/artister/ashild-skiri-refsdal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-ann-helen-moen.json",
         "path": "/artister/ann-helen-moen/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-adrian-angelico.json",
-        "path": "/artister/adrian-angelico/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-aleksander-nohr.json",
-        "path": "/artister/aleksander-nohr/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -535,15 +535,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-ashild-skiri-refsdal.json",
-        "path": "/artister/ashild-skiri-refsdal/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-audun-iversen.json",
-        "path": "/artister/audun-iversen/"
+        "jsonName": "artister-bergen-filharmoniske-kor.json",
+        "path": "/artister/bergen-filharmoniske-kor/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -556,15 +549,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-bergen-filharmoniske-kor.json",
-        "path": "/artister/bergen-filharmoniske-kor/"
+        "jsonName": "artister-adrian-angelico.json",
+        "path": "/artister/adrian-angelico/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-bergen-kulturskole.json",
-        "path": "/artister/bergen-kulturskole/"
+        "jsonName": "artister-audun-iversen.json",
+        "path": "/artister/audun-iversen/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -584,15 +577,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-bergen-guttekor-og-pikekor.json",
-        "path": "/artister/bergen-guttekor-og-pikekor/"
+        "jsonName": "artister-bergen-kulturskole.json",
+        "path": "/artister/bergen-kulturskole/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-bergen-mannskor.json",
-        "path": "/artister/bergen-mannskor/"
+        "jsonName": "artister-bergen-guttekor-og-pikekor.json",
+        "path": "/artister/bergen-guttekor-og-pikekor/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -612,6 +605,34 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-christian-valle.json",
+        "path": "/artister/christian-valle/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-daniela-dawn-fietzek.json",
+        "path": "/artister/daniela-dawn-fietzek/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-den-norske-studentersangforening.json",
+        "path": "/artister/den-norske-studentersangforening/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-bergen-mannskor.json",
+        "path": "/artister/bergen-mannskor/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-christian-grovlen.json",
         "path": "/artister/christian-grovlen/"
     },
@@ -626,36 +647,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-daniela-dawn-fietzek.json",
-        "path": "/artister/daniela-dawn-fietzek/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-christian-valle.json",
-        "path": "/artister/christian-valle/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-den-norske-studentersangforening.json",
-        "path": "/artister/den-norske-studentersangforening/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-edvard-grieg-ungdomskor.json",
-        "path": "/artister/edvard-grieg-ungdomskor/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-didrik-solli-tangen.json",
-        "path": "/artister/didrik-solli-tangen/"
+        "jsonName": "artister-edward-gardner.json",
+        "path": "/artister/edward-gardner/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -668,8 +661,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-einar-rottingen.json",
-        "path": "/artister/einar-rottingen/"
+        "jsonName": "artister-didrik-solli-tangen.json",
+        "path": "/artister/didrik-solli-tangen/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-edvard-grieg-ungdomskor.json",
+        "path": "/artister/edvard-grieg-ungdomskor/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -682,13 +682,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-edward-gardner.json",
-        "path": "/artister/edward-gardner/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-eldbjorg-hemsing.json",
         "path": "/artister/eldbjorg-hemsing/"
     },
@@ -696,29 +689,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-einar-rottingen.json",
+        "path": "/artister/einar-rottingen/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-eirik-haug-stomner.json",
         "path": "/artister/eirik-haug-stomner/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-elena-reznikova.json",
-        "path": "/artister/elena-reznikova/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-ellena-hale.json",
-        "path": "/artister/ellena-hale/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-ellen-ugelvik.json",
-        "path": "/artister/ellen-ugelvik/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -738,6 +717,13 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-ellen-ugelvik.json",
+        "path": "/artister/ellen-ugelvik/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-erlend-tvinnereim.json",
         "path": "/artister/erlend-tvinnereim/"
     },
@@ -745,15 +731,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-frida-fredrikke-waaler-waervagen.json",
-        "path": "/artister/frida-fredrikke-waaler-waervagen/"
+        "jsonName": "artister-elena-reznikova.json",
+        "path": "/artister/elena-reznikova/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-folleso-mannskor.json",
-        "path": "/artister/folleso-mannskor/"
+        "jsonName": "artister-ellena-hale.json",
+        "path": "/artister/ellena-hale/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -766,20 +752,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-gunnar-flagstad.json",
-        "path": "/artister/gunnar-flagstad/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-hakon-austbo.json",
-        "path": "/artister/hakon-austbo/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-gorild-mauseth.json",
         "path": "/artister/gorild-mauseth/"
     },
@@ -787,15 +759,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-hakon-matti-skrede.json",
-        "path": "/artister/hakon-matti-skrede/"
+        "jsonName": "artister-gunnar-flagstad.json",
+        "path": "/artister/gunnar-flagstad/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-havard-gimse.json",
-        "path": "/artister/havard-gimse/"
+        "jsonName": "artister-folleso-mannskor.json",
+        "path": "/artister/folleso-mannskor/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-frida-fredrikke-waaler-waervagen.json",
+        "path": "/artister/frida-fredrikke-waaler-waervagen/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -808,13 +787,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-harald-bjorkoy.json",
-        "path": "/artister/harald-bjorkoy/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-henning-kraggerud.json",
         "path": "/artister/henning-kraggerud/"
     },
@@ -822,22 +794,29 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-iiris-rissanen.json",
-        "path": "/artister/iiris-rissanen/"
+        "jsonName": "artister-hakon-austbo.json",
+        "path": "/artister/hakon-austbo/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-ingfrid-breie-nyhus.json",
-        "path": "/artister/ingfrid-breie-nyhus/"
+        "jsonName": "artister-hakon-matti-skrede.json",
+        "path": "/artister/hakon-matti-skrede/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-ingrid-andsnes.json",
-        "path": "/artister/ingrid-andsnes/"
+        "jsonName": "artister-harald-bjorkoy.json",
+        "path": "/artister/harald-bjorkoy/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-havard-gimse.json",
+        "path": "/artister/havard-gimse/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -864,15 +843,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-jonas-aune.json",
-        "path": "/artister/jonas-aune/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-joachim-kwetzinsky.json",
-        "path": "/artister/joachim-kwetzinsky/"
+        "jsonName": "artister-iiris-rissanen.json",
+        "path": "/artister/iiris-rissanen/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -885,15 +857,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-knut-andreas-grove.json",
-        "path": "/artister/knut-andreas-grove/"
+        "jsonName": "artister-jonas-aune.json",
+        "path": "/artister/jonas-aune/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-kaia-rullestad-teigen.json",
-        "path": "/artister/kaia-rullestad-teigen/"
+        "jsonName": "artister-ingfrid-breie-nyhus.json",
+        "path": "/artister/ingfrid-breie-nyhus/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -906,15 +878,29 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-knut-christian-jansson.json",
-        "path": "/artister/knut-christian-jansson/"
+        "jsonName": "artister-joachim-kwetzinsky.json",
+        "path": "/artister/joachim-kwetzinsky/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-leif-ove-andsnes.json",
-        "path": "/artister/leif-ove-andsnes/"
+        "jsonName": "artister-ingrid-andsnes.json",
+        "path": "/artister/ingrid-andsnes/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-kaia-rullestad-teigen.json",
+        "path": "/artister/kaia-rullestad-teigen/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-knut-christian-jansson.json",
+        "path": "/artister/knut-christian-jansson/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -927,29 +913,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-leonard-lindweld.json",
-        "path": "/artister/leonard-lindweld/"
+        "jsonName": "artister-leif-ove-andsnes.json",
+        "path": "/artister/leif-ove-andsnes/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-lina-johnson.json",
-        "path": "/artister/lina-johnson/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-liv-glaser.json",
-        "path": "/artister/liv-glaser/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-lydia-hoen-tjore.json",
-        "path": "/artister/lydia-hoen-tjore/"
+        "jsonName": "artister-knut-andreas-grove.json",
+        "path": "/artister/knut-andreas-grove/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -962,8 +934,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-magnus-berg.json",
-        "path": "/artister/magnus-berg/"
+        "jsonName": "artister-lina-johnson.json",
+        "path": "/artister/lina-johnson/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-lydia-hoen-tjore.json",
+        "path": "/artister/lydia-hoen-tjore/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -983,15 +962,15 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-marius-roth-christensen.json",
-        "path": "/artister/marius-roth-christensen/"
+        "jsonName": "artister-liv-glaser.json",
+        "path": "/artister/liv-glaser/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-melissa-baug.json",
-        "path": "/artister/melissa-baug/"
+        "jsonName": "artister-leonard-lindweld.json",
+        "path": "/artister/leonard-lindweld/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1011,8 +990,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-nina-gravrok.json",
-        "path": "/artister/nina-gravrok/"
+        "jsonName": "artister-melissa-baug.json",
+        "path": "/artister/melissa-baug/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-magnus-berg.json",
+        "path": "/artister/magnus-berg/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-marius-roth-christensen.json",
+        "path": "/artister/marius-roth-christensen/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1020,13 +1013,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-nils-anders-mortensen.json",
         "path": "/artister/nils-anders-mortensen/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-pal-eide.json",
-        "path": "/artister/pal-eide/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1046,8 +1032,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-ragnhild-hemsing.json",
-        "path": "/artister/ragnhild-hemsing/"
+        "jsonName": "artister-randi-stene.json",
+        "path": "/artister/randi-stene/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1060,22 +1046,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-randi-stene.json",
-        "path": "/artister/randi-stene/"
+        "jsonName": "artister-pal-eide.json",
+        "path": "/artister/pal-eide/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-renate-eide.json",
-        "path": "/artister/renate-eide/"
+        "jsonName": "artister-nina-gravrok.json",
+        "path": "/artister/nina-gravrok/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-rune-reksten.json",
-        "path": "/artister/rune-reksten/"
+        "jsonName": "artister-ragnhild-hemsing.json",
+        "path": "/artister/ragnhild-hemsing/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1095,22 +1081,36 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-signe-bakke.json",
-        "path": "/artister/signe-bakke/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-svein-sturla-hungnes.json",
-        "path": "/artister/svein-sturla-hungnes/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-simen-bredesen-horthe.json",
         "path": "/artister/simen-bredesen-horthe/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-rune-reksten.json",
+        "path": "/artister/rune-reksten/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-renate-eide.json",
+        "path": "/artister/renate-eide/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-thorbjorn-gulbrandsoy.json",
+        "path": "/artister/thorbjorn-gulbrandsoy/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-signe-bakke.json",
+        "path": "/artister/signe-bakke/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1123,8 +1123,22 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-torodd-wigum.json",
+        "path": "/artister/torodd-wigum/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-tor-espen-aspaas.json",
         "path": "/artister/tor-espen-aspaas/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "artister-tora-augestad.json",
+        "path": "/artister/tora-augestad/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1137,8 +1151,8 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-thorbjorn-gulbrandsoy.json",
-        "path": "/artister/thorbjorn-gulbrandsoy/"
+        "jsonName": "artister-svein-sturla-hungnes.json",
+        "path": "/artister/svein-sturla-hungnes/"
     },
     {
         "componentChunkName": "component---src-templates-post-jsx",
@@ -1158,20 +1172,6 @@
         "componentChunkName": "component---src-templates-post-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-tora-augestad.json",
-        "path": "/artister/tora-augestad/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "artister-torodd-wigum.json",
-        "path": "/artister/torodd-wigum/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "artister-tuva-semmingsen.json",
         "path": "/artister/tuva-semmingsen/"
     },
@@ -1186,15 +1186,15 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-klaver.json",
-        "path": "/tags/klaver/"
+        "jsonName": "tags-sang.json",
+        "path": "/tags/sang/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-sang.json",
-        "path": "/tags/sang/"
+        "jsonName": "tags-klaver.json",
+        "path": "/tags/klaver/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -1207,13 +1207,6 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-symfoniorkester.json",
-        "path": "/tags/symfoniorkester/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-jsx",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-fiolin.json",
         "path": "/tags/fiolin/"
     },
@@ -1221,8 +1214,8 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-firhendig.json",
-        "path": "/tags/firhendig/"
+        "jsonName": "tags-symfoniorkester.json",
+        "path": "/tags/symfoniorkester/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -1237,6 +1230,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
         "jsonName": "tags-skuespill.json",
         "path": "/tags/skuespill/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-jsx",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-jsx",
+        "jsonName": "tags-firhendig.json",
+        "path": "/tags/firhendig/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -1312,15 +1312,15 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-cellist.json",
-        "path": "/tags/cellist/"
+        "jsonName": "tags-skuespiller.json",
+        "path": "/tags/skuespiller/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-skuespiller.json",
-        "path": "/tags/skuespiller/"
+        "jsonName": "tags-cellist.json",
+        "path": "/tags/cellist/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
@@ -1333,15 +1333,15 @@
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-regissor.json",
-        "path": "/tags/regissor/"
+        "jsonName": "tags-korps.json",
+        "path": "/tags/korps/"
     },
     {
         "componentChunkName": "component---src-templates-tag-jsx",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-jsx",
-        "jsonName": "tags-korps.json",
-        "path": "/tags/korps/"
+        "jsonName": "tags-regissor.json",
+        "path": "/tags/regissor/"
     },
     {
         "componentChunkName": "component---src-templates-category-jsx",
