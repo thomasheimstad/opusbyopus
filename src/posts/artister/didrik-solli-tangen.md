@@ -5,7 +5,7 @@ date: 2018-05-07T12:00:00.048Z
 thumbnail: ../img/DidrikSolliTangen.jpg
 tags:
   - sanger
-description: "Klassisk sanger fra Porsgrunn. Vant Melodi Grand Prix i 2010 med låten "My Heart Is Yours", og har siden stått på scenen med blant andre Jose Carreras, Solveig Kringlebotn og Ole Edvard Antonsen. 2. plass i programmet Stjernekamp på NRK i 2017."
+description: "Klassisk sanger fra Porsgrunn. Vant Melodi Grand Prix i 2010 med låten My Heart Is Yours, og har siden stått på scenen med blant andre Jose Carreras, Solveig Kringlebotn og Ole Edvard Antonsen. 2. plass i programmet Stjernekamp på NRK i 2017."
 ---
 31 år, fra Porsgrunn, bosatt i Oslo.
 
