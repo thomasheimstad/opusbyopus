@@ -1,7 +1,7 @@
 ---
 category: artister
 title: Leif Ove Andsnes
-date: 2019-06-25T12:28:12.048Z
+date: 2018-05-25T12:28:12.048Z
 thumbnail: ../img/LeifOveAndsnes.jpg
 tags:
   - pianist

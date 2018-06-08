@@ -1,6 +1,6 @@
 ---
 category: opus
-date: 2019-05-07T12:00:00.048Z
+date: 2018-05-07T12:00:00.048Z
 title: '54'
 workname: Lyriske stykker hefte V
 startDate: '16.6'

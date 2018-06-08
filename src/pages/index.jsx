@@ -45,7 +45,6 @@ export default class Index extends React.Component {
         />
         <MainSeller />
         <MainInfoText />
-
         <Footer src={this.props.data.front.childImageSharp.sizes}/>
       </div>
     );
