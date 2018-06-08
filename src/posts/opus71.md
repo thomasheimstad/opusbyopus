@@ -42,6 +42,7 @@ Med sitt aller siste lyriske stykke, «Etterklang», runder Grieg av. Et langt l
 Grieg sender samlingen til Max Abrahams nevø Henri Hinrichsen i Peters Verlag 10. august og presiserer at samlingen heter ” ’Lyriske stykker. 10de og siste hefte’. ….Slik må det være. Det er ingen fiks idé.”
 
 Hinrichsen svarer at han håper dette ikke blir det siste heftet, og spør om det ikke også kan komme et ”aller siste” hefte? Han tilbyr 7.000 tyske mark i honorar, altså 1.000 mark per stykke. Men Grieg er ubøyelig. Han avslutter her, og i «Etterklang» henter han opp tråden fra det første heftet med lyriske stykker, opus 12 nr. 1; temaet fra Ariettaen kommer tilbake i ny drakt.  
+
 Valget av tre-takten, - her som en elegant vals – er kanskje overraskende. Grieg løfter Arietta-temaet ut i nye omgivelser – ikke bare med taktarten. Temaet endrer karakter med stadig nye harmoniske baktepper; det er som om Grieg ønsker å åpne flere vinduer og gi oss nye blikk framover.
 
 Så avslutter han slik han avsluttet Ariettaen: melodien dør hen og overlater resten til oss.
