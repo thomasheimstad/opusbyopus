@@ -9,7 +9,9 @@ export default class InfoPage extends Component {
   render() {
     return (
       <div className="info post flex center column">
-        <Helmet title={`Info | ${config.siteTitle}`} />
+        <Helmet title={`Info | ${config.siteTitle}`}>
+          <meta name="description" content="Info about Grieg minute by minute on 15th and 16th June 2018."/>
+        </Helmet>
         <Hero id="aboutID" src={this.props.data.front5.childImageSharp.sizes} height="400" position="50% 20%" fit="cover"/>
         <EnInfo
           trold={this.props.data.front2.childImageSharp.sizes}
