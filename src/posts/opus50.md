@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '50'
 workname: Scener fra Olav Trygvason
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '12:00'
+location: 'Griegsalen Grieghallen'
 composedin: '1889'
 dedicatedTo: 'Bjørnstjerne Bjørnson'
 description: Opus 50

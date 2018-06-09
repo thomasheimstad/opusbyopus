@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '49'
 workname: Seks dikte
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '11:31'
+location: 'Troldsalen Troldhaugen'
 composedin: '1889'
 dedicatedTo: 'Thorvald Lammers'
 description: Opus 49

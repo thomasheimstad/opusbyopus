@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '48'
 workname: Sechs lieder
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '11:11'
+location: 'Troldsalen Troldhaugen'
 composedin: '1889'
 dedicatedTo: 'Ellen Nordgren Gulbranson'
 description: Opus 48

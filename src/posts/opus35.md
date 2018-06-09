@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '35'
 workname: Norske danser
 startDate: '16.6'
-location: 'Grieghallen og Troldhaugen'
+startTime: '06:22'
+location: 'Villaen Troldhaugen'
 composedin: '1881'
 dedicatedTo: ''
 description: Opus 35

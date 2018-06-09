@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '54'
 workname: Lyriske stykker hefte V
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '13:42'
+location: 'Troldsalen Troldhaugen'
 composedin: '1891'
 dedicatedTo: 'Julius Röntgen'
 description: Opus 54

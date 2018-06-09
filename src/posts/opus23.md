@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '23'
 workname: Peer Gynt
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '00:49'
+location: 'Griegsalen Grieghallen'
 composedin: '1875'
 dedicatedTo: ''
 description: Opus 23

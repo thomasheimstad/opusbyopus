@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '39'
 workname: Romanser (eldre og nyere)
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '07:50'
+location: 'Troldsalen Troldhaugen'
 composedin: '1884'
 dedicatedTo: 'Niels Ravnkilde'
 description: Opus 39

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '33'
 workname: Tolv melodier til dikt av A. O. Vinje
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '05:29'
+location: 'Griegsalen Grieghallen'
 composedin: '1880'
 dedicatedTo: 'Agathe Backer Grøndahl'
 description: Opus 33

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '41'
 workname: Klaverstykker etter egne sanger I
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '08:40'
+location: 'Troldsalen Troldhaugen'
 composedin: '1884'
 dedicatedTo: 'Nadine Helbig'
 description: Opus 41

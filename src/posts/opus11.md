@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '11'
 workname: I høst. Konsertouverture.
 startDate: '15.6'
-location: 'Store Studio'
+startTime: '20:17'
+location: 'Store studio, Oslo'
 composedin: '1866'
 dedicatedTo: 'Kong Karl XV av Sverige og Norge'
 description: Opus 11

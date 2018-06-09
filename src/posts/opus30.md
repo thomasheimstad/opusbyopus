@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '30'
 workname: Album for mandssang
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '04:32'
+location: 'Foajeen Grieghallen'
 composedin: '1878'
 dedicatedTo: 'Johan Diederich Behrens'
 description: Opus 30

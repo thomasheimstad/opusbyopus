@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '66'
 workname: 19 norske folkeviser
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '18:12'
+location: 'Villaen Troldhaugen'
 composedin: '1896'
 dedicatedTo: 'Frants Beyer'
 description: Opus 66

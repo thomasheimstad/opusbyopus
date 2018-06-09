@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '12'
 workname: Lyriske stykker hefte I
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '20:33'
+location: 'Villaen Troldhaugen'
 composedin: '1867'
 dedicatedTo: 'Betty Egeberg'
 description: Det første heftet med lyriske stykker for solo piano

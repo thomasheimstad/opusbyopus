@@ -4,7 +4,8 @@ date: 2017-11-25T20:04:44.484Z
 title: '6'
 workname: Humoresker
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '18:43'
+location: 'Villaen Troldhaugen'
 composedin: '1865'
 dedicatedTo: 'Rikard Nordraak'
 description: Fire humoresker for solo piano

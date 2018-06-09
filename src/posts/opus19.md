@@ -4,14 +4,15 @@ date: 2018-05-07T12:00:00.048Z
 title: '19'
 workname: Folkelivsbilder
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '23:24'
+location: 'Villaen Troldhaugen'
 composedin: '1871'
 dedicatedTo: 'J. P. E. Hartmann'
 description: Opus 19
 author: Erling Dahl jr.
 thumbnail: ./img/opus19.jpg
 artists:
-  - Jorunn Marie Bratlie
+  - Ole Christian Haagenrud
 tags:
   - klaver
 ---

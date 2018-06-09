@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '69'
 workname: Fem dikt
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '19:42'
+location: 'Troldsalen Troldhaugen'
 composedin: '1900'
 dedicatedTo: 'Otto Benzon'
 description: Opus 69

@@ -4,7 +4,8 @@ date: 2017-11-25T20:04:44.484Z
 title: '3'
 workname: Poetiske tonebilder
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '18:04'
+location: 'Troldsalen Troldhaugen'
 composedin: "1864"
 dedicatedTo: Benjamin Feddersen
 description: Opus 3

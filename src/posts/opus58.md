@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '58'
 workname: Norge. Dikt av John Paulsen
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '15:15'
+location: 'Troldsalen Troldhaugen'
 composedin: '1894'
 dedicatedTo: 'Ingolf Schøtt'
 description: Opus 58

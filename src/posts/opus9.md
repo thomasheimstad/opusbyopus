@@ -4,7 +4,8 @@ date: 2017-11-25T20:04:44.484Z
 title: '9'
 workname: Romanser og ballader
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '19:45'
+location: 'Villaen Troldhaugen'
 composedin: '1866'
 dedicatedTo: 'Erika Lie'
 description: Opus 9

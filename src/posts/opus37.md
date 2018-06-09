@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '37'
 workname: Valse-kapriser
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '07:16'
+location: 'Troldsalen Troldhaugen'
 composedin: '1883'
 dedicatedTo: 'Ernst Perabo'
 description: Opus 37

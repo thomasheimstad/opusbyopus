@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '53'
 workname: To melodier for strykeorkester
 startDate: '16.6'
-location: 'Store studio'
+startTime: '13:30'
+location: 'Store studio, Oslo'
 composedin: '1891'
 dedicatedTo: 'Franz Neruda'
 description: Opus 53

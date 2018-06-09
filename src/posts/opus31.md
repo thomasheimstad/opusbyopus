@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '31'
 workname: Landkjenning
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '05:09'
+location: 'Griegsalen Grieghallen'
 composedin: '1872'
 dedicatedTo: 'Johan Diederich Behrens'
 description: Opus 31

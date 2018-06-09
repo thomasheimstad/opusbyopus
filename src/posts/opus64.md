@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '64'
 workname: Symfoniske danser
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '17:07'
+location: 'Griegsalen Grieghallen'
 composedin: '1898'
 dedicatedTo: 'Arthur de Greef'
 description: Opus 64

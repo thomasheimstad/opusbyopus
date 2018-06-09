@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '47'
 workname: Lyriske stykker hefte IV
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '10:47'
+location: 'Villaen Troldhaugen'
 composedin: '1888'
 dedicatedTo: 'Elisabeth Horneman'
 description: Opus 47

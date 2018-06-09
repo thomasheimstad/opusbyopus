@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '14'
 workname: Symfoniske stykker
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '21:15'
+location: 'Troldsalen Troldhaugen'
 composedin: '1864'
 dedicatedTo: 'Christian Cappelen'
 description: Opus 14

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '17'
 workname: 25 norske folkeviser og danser
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '22:27'
+location: 'Villaen og Troldsalen Troldhaugen'
 composedin: '1869'
 dedicatedTo: 'Ole Bull'
 description: Opus 17

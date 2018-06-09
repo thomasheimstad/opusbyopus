@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '24'
 workname: Ballade i g-moll
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '02:35'
+location: 'Troldsalen Troldhaugen'
 composedin: '1876'
 dedicatedTo: ''
 description: Opus 24

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '43'
 workname: Lyriske stykker hefte III
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '09:24'
+location: 'Villaen Troldhaugen'
 composedin: '1886'
 dedicatedTo: 'Isidor Seiss'
 description: Opus 43

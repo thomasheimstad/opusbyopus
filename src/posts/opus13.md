@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '13'
 workname: Fiolinsonate nr. 2 i G-dur
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '20:49'
+location: 'Troldsalen Troldhaugen'
 composedin: '1867'
 dedicatedTo: 'Johan Svendsen'
 description: Opus 13

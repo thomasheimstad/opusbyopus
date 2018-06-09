@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '34'
 workname: To Elegiske Melodier
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '06:07'
+location: 'Griegsalen Grieghallen'
 composedin: '1880'
 dedicatedTo: 'Heinrich von Herzogenberg'
 description: Opus 34

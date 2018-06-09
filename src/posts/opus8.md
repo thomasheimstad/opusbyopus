@@ -4,7 +4,8 @@ date: 2018-05-25T20:04:44.484Z
 title: '8'
 workname: Fiolinsonate nr. 1 i F-dur
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '19:19'
+location: 'Troldsalen Troldhaugen'
 composedin: '1865'
 dedicatedTo: 'August Fries'
 description: Opus 8

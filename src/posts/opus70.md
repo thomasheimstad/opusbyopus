@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '70'
 workname: Fem dikt av Otto Benzon
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '20:02'
+location: 'Villaen Troldhaugen'
 composedin: '1900'
 dedicatedTo: 'Niels Juel Simonsen'
 description: Opus 70

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '29'
 workname: Improvisata over to norske folkeviser
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '04:23'
+location: 'Villaen Troldhaugen'
 composedin: '1878'
 dedicatedTo: 'Ida Åqvist'
 description: Opus 29

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '18'
 workname: Romancer og Sange
 startDate: '15.6'
-location: 'Grieghallen'
+startTime: '23:01'
+location: 'Foajeen Grieghallen'
 composedin: '1869'
 dedicatedTo: 'Nina Grieg'
 description: Opus 18

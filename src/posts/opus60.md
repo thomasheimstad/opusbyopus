@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '60'
 workname: Dikt av Vilhelm Krag
 startDate: '16.6'
-location: 'Kirsten Flagstad Museum'
+startTime: '15:52'
+location: 'Kirsten Flagstad Museum, Hamar'
 composedin: '1894'
 dedicatedTo: 'Johannes Messchaert'
 description: Opus 60

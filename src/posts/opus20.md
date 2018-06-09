@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '20'
 workname: Foran Sydens Kloster
 startDate: '15.6'
-location: 'Grieghallen'
+startTime: '23:42'
+location: 'Griegsalen Grieghallen'
 composedin: '1871'
 dedicatedTo: 'Franz Liszt'
 description: Opus 20

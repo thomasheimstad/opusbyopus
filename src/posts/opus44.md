@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '44'
 workname: Reiseminder fra fjell og fjord
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '09:42'
+location: 'Troldsalen Troldhaugen'
 composedin: '1886'
 dedicatedTo: 'Holger Drachmann'
 description: Opus 44

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '74'
 workname: Fire salmer
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '22:10'
+location: 'Troldsalen og ved graven Troldhaugen'
 composedin: '1906'
 dedicatedTo: 'Budtz Christie'
 description: Opus 74

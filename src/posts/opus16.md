@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '16'
 workname: Klaverkonsert i a-moll
 startDate: '15.6'
-location: 'Grieghallen'
+startTime: '21:51'
+location: 'Griegsalen Grieghallen'
 composedin: '1868'
 dedicatedTo: 'Edmund Neupert'
 description: Opus 16

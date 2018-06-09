@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '36'
 workname: Cellosonate i a-moll
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '06:43'
+location: 'Troldsalen Troldhaugen'
 composedin: '1883'
 dedicatedTo: 'John Grieg'
 description: Opus 36

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '62'
 workname: Lyriske stykker hefte VII
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '16:30'
+location: 'Foajeen Grieghallen'
 composedin: '1895'
 dedicatedTo: ''
 description: Opus 62

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '72'
 workname: Slåtter
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '20:49'
+location: 'Troldsalen Troldhaugen'
 composedin: '1903'
 dedicatedTo: 'Hermann Kretzschmar'
 description: Opus 72

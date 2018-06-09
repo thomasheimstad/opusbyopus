@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '73'
 workname: Stemninger
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '21:36'
+location: 'Villaen Troldhaugen'
 composedin: '1905'
 dedicatedTo: ''
 description: Opus 73

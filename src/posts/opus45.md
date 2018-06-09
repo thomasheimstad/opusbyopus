@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '45'
 workname: Fiolinsonate nr. 3 i c-moll
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '10:02'
+location: 'Troldsalen Troldhaugen'
 composedin: '1887'
 dedicatedTo: 'Franz von Lenbach'
 description: Opus 45

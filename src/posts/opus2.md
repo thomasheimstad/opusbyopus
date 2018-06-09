@@ -4,7 +4,8 @@ date: 2017-11-28T20:45:39.703Z
 title: '2'
 workname: Fire sanger
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '17:52'
+location: 'Villaen Troldhaugen'
 composedin: "1863"
 dedicatedTo: Wibecke Meyer
 description: Opus 2

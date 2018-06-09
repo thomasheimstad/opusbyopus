@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '42'
 workname: Bergliot
 startDate: '16.6'
-location: 'Store studio'
+startTime: '09:02'
+location: 'Store studio, Oslo'
 composedin: '1885'
 dedicatedTo: 'Laura Gundersen'
 description: Opus 42

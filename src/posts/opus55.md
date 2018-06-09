@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '55'
 workname: Peer Gynt-suite nr. 2
 startDate: '16.6'
-location: 'Store studio'
+startTime: '14:09'
+location: 'Store studio, Oslo'
 composedin: '1891'
 dedicatedTo: ''
 description: Opus 55

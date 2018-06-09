@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '68'
 workname: Lyriske stykker hefte IX
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '19:20'
+location: 'Villaen Troldhaugen'
 composedin: '1898'
 dedicatedTo: ''
 description: Opus 68

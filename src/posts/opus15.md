@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '15'
 workname: Romanser
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '21:37'
+location: 'Villaen Troldhaugen'
 composedin: '1868'
 dedicatedTo: ''
 description: Opus 15

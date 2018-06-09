@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '26'
 workname: Fem dikt av John Paulsen
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '03:16'
+location: 'Villaen Troldhaugen'
 composedin: '1876'
 dedicatedTo: 'John Paulsen'
 description: Opus 26

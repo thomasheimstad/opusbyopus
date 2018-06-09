@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '25'
 workname: Seks dikt
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '02:59'
+location: 'Troldsalen Troldhaugen'
 composedin: '1876'
 dedicatedTo: 'Julius Steenberg'
 description: Opus 25

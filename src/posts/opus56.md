@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '56'
 workname: Tre orkesterstykker fra "Sigurd Jorsalfar"
 startDate: '16.6'
-location: 'Store studio'
+startTime: '14:29'
+location: 'Store studio, Oslo'
 composedin: '1892'
 dedicatedTo: ''
 description: Opus 56

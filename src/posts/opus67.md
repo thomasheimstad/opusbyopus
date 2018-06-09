@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '67'
 workname: Haugtussa
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '18:46'
+location: 'Troldsalen Troldhaugen'
 composedin: '1898'
 dedicatedTo: 'Dagmar Møller'
 description: Opus 67

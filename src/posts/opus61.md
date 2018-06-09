@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '61'
 workname: Barnlige sange
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '16:10'
+location: 'Villaen Troldhaugen'
 composedin: '1894'
 dedicatedTo: 'Nordahl Rolfsen'
 description: Opus 61

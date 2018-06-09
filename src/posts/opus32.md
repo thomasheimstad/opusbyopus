@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '32'
 workname: Den Bergtekne
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '05:18'
+location: 'Griegsalen Grieghallen'
 composedin: '1878'
 dedicatedTo: 'Gottfred Matthison-Hansen'
 description: Opus 32

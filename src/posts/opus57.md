@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '57'
 workname: Lyriske stykker hefte VI
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '14:48'
+location: 'Villaen Troldhaugen'
 composedin: '1893'
 dedicatedTo: 'Herrmann Scholtz'
 description: Opus 57

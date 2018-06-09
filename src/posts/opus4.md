@@ -4,7 +4,8 @@ date: 2017-11-26T16:20:29.979Z
 title: '4'
 workname: Seks digte
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '18:19'
+location: 'Villaen Troldhaugen'
 composedin: "1864"
 dedicatedTo: Nina Hagerup
 description: Opus 4

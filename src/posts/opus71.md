@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '71'
 workname: Lyriske stykker hefte X
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '20:21'
+location: 'Villaen Troldhaugen'
 composedin: '1901'
 dedicatedTo: 'Mien Röntgen'
 description: Opus 71

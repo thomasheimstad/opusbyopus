@@ -4,7 +4,8 @@ date: 2017-11-25T20:04:44.484Z
 title: '10'
 workname: Fire romanser
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '20:02'
+location: 'Troldsalen Troldhaugen'
 composedin: '1866'
 dedicatedTo: ''
 description: Opus 10

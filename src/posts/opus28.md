@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '28'
 workname: Fire Albumblad
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '04:08'
+location: 'Villaen Troldhaugen'
 composedin: '1878'
 dedicatedTo: 'Minna Petersen'
 description: Opus 28

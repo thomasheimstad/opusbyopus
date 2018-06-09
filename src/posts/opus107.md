@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '107'
 workname: Sørgemarsj over Rikard Nordraak
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '22:02'
+location: 'I hagen Troldhaugen'
 composedin: '1866'
 dedicatedTo: ''
 description: EG 107

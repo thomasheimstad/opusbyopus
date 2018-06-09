@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '38'
 workname: Lyriske stykker hefte II
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '07:28'
+location: 'Villaen Troldhaugen'
 composedin: '1883'
 dedicatedTo: ''
 description: Opus 38

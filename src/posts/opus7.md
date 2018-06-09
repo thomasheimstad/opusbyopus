@@ -4,7 +4,8 @@ date: 2017-11-25T20:04:44.484Z
 title: '7'
 workname: Klaversonate i e-moll
 startDate: '15.6'
-location: 'Troldhaugen'
+startTime: '18:56'
+location: 'Troldsalen Troldhaugen'
 composedin: '1865'
 dedicatedTo: 'Niels Wilhelm Gade'
 description: Opus 7

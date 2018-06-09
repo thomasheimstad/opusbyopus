@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '22'
 workname: Sigurd Jorsalfar
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '00:04'
+location: 'Griegsalen Grieghallen'
 composedin: '1872'
 dedicatedTo: ''
 description: Opus 22

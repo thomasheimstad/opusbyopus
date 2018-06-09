@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '52'
 workname: Klaverstykker etter egne sanger II
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '13:07'
+location: 'Villaen Troldhaugen'
 composedin: '1890'
 dedicatedTo: ''
 description: Opus 52

@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '40'
 workname: Fra Holbergs tid. Suite i Gammel stil
 startDate: '16.6'
-location: 'Store studio'
+startTime: '08:13'
+location: 'Store studio, Oslo'
 composedin: '1885'
 dedicatedTo: 'Erika Nissen'
 description: Opus 40

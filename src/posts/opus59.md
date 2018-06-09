@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '59'
 workname: Elegiske dikt av John Paulsen
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '15:34'
+location: 'Villaen Troldhaugen'
 composedin: '1894'
 dedicatedTo: 'Hanchen Alme'
 description: Opus 59

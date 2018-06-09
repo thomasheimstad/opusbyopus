@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '51'
 workname: Gammelnorsk romanse med variasjoner
 startDate: '16.6'
-location: 'Store studio'
+startTime: '12:40'
+location: 'Store studio, Oslo'
 composedin: '1890'
 dedicatedTo: 'Benjamin Godard'
 description: Opus 51

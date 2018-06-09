@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '46'
 workname: Peer Gynt-suite nr. 1
 startDate: '16.6'
-location: 'Store studio'
+startTime: '10:30'
+location: 'Store studio, Oslo'
 composedin: '1875'
 dedicatedTo: ''
 description: Opus 46

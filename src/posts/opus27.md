@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '27'
 workname: Strykekvartett i g-moll
 startDate: '16.6'
-location: 'Troldhaugen'
+startTime: '03:29'
+location: 'Troldsalen Troldhaugen'
 composedin: '1878'
 dedicatedTo: 'Robert Heckmann'
 description: Opus 27
@@ -47,7 +48,7 @@ så i store kirker og sale
 hun mener at følge dig ind
 
 Men kampen for å nå kunstens innerste vesen har sin pris, og dikteren konkluderer med:
-  
+
 Jeg maned den våde af dybet;   
 han spilled mig bent fra Gud -;   
 men da jeg var bleven hans mester,   

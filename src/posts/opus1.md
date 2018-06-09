@@ -4,8 +4,8 @@ date: 2017-12-04T12:28:12.048Z
 title: '1'
 workname: Fire pianostykker
 startDate: '15.6'
-startTime: '17:30'
-location: 'Troldhaugen'
+startTime: '17:35'
+location: 'Villaen Troldhaugen'
 composedin: "1863"
 dedicatedTo: Ernst Ferdinand Wenzel
 description: Opus 1

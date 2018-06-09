@@ -4,7 +4,8 @@ date: 2018-05-07T12:00:00.048Z
 title: '63'
 workname: To nordiske melodier for strykeorkester
 startDate: '16.6'
-location: 'Grieghallen'
+startTime: '16:50'
+location: 'Griegsalen Grieghallen'
 composedin: '1895'
 dedicatedTo: 'Frederik Georg Knut Due'
 description: Opus 63
