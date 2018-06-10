@@ -25,25 +25,25 @@ export default class EnInfo extends Component {
                   <AnchorLinks link1="Troldhaugen" link2="Grieghallen" link3="Locations" />
                   <div className="arenaInfo">
                     <h2 id="Troldhaugen">What's going on at Troldhaugen: </h2>
-                    <p>The concerts at Troldhaugen are free entrance. In addition, the entire TV-production is shown continuously on TV-screens around Troldhaugen, from friday 17:30. We cannot guarantee seats in the concert hall nor in the villa, and we advice our audiences to follow the instructions by our hosts on location.
+                    <p>All concerts at Troldhaugen have free admission. In addition, the entire production will be broadcasted live and displayed at screens on the area, from Friday at 17:30. We cannot guarantee seats in the concert hall nor in the villa, and advice you to follow instructions given by our hosts on location.
                     </p>
-                    <p>The cafe is open for 30 hours. It's also possible to bring your own picknick-basket: Bringing your own food is absolutely allowed. Bringing your own alcohol isn't.</p>
+                    <p>Our small restaurant/bar will be open for 30 hours. It's also possible to bring your own picknick-basket: Bringing your own food is absolutely allowed. Bringing your own alcohol isn't.</p>
 
                     <h3>Friday evening: </h3>
-                    <p>Opening at 17:15. The broadcast starts at 17:30. Join the start of the world's longest Grieg concert! Free anniversary-cake for all. Arve Tellefsen kickstarts the concert at 17:30.</p>
+                    <p>Opening at 17:15. The broadcast starts at 17:30. Join us for the start of the world's longest Grieg concert! Free anniversary-cake for all. Violinist Arve Tellefsen and pianist Leif Ove Andsnes kickstarts the concerts at 17:30.</p>
                     <h3>Night to Saturday: </h3>
                     <p>Small concert break at Troldhaugen from 00:00 - 02:30. Chill mood, hot soup-sale between 03-05.</p>
                     <h3>Saturday morning: Morning mood. </h3>
                     <p>Breakfast-sale and coffee from 06:30. Holbergsuit on screen from Oslo, and bubbly-anniversary-breakfast-sale from 08:00.</p>
                     <h3>Saturday: Concerts all day. </h3>
-                    <p>Partymood at the museum. Enjoy the day, the broadcast and the concerts at Troldhaugen. You may purchase food in the cafe, or bring your own picknick-basket.</p>
-                    <h3>Saturday evening: The finale. </h3>
-                    <p>The beginning of the end starts with The Mountain Maid at 18:45, and the broadcast ends with Grieg's Four psalms at 22:10. The last psalm is peformed by the gravesite.</p>
+                    <p>Festive mood at the museum. Enjoy the day, the broadcast and the concerts at Troldhaugen. You may purchase food in the cafe, or bring your own picknick-basket.</p>
+                    <h3>Saturday evening: Grand finale. </h3>
+                    <p>The beginning of the end starts with The Mountain Maid at 18:45, and the broadcast ends with Grieg's Four psalms at 22:10. The last psalm is performed by Grieg’s gravesite at Troldhaugen.</p>
                   </div>
                   <div className="arenaInfo">
                     <h2 id="Grieghallen">What's going on in Grieghallen:</h2>
-                    <p>Grieghallen opens its doors Friday at 17:00. The entire broadcast is shown on huge screens in the foyer and in the Griegsalen. It is free to follow the event on the big screens, and if you want to experience the concerts, we offer different ticket solutions.</p>
-                    <p>The cafe is open the entire 30 hours! You may also bring a sleeping pad if you need a little rest during the broadcast!</p>
+                    <p>Grieghallen opens the doors Friday at 17:00. The entire broadcast is shown on huge screens in the foyer and in the Griegsalen. It is free to follow the event on the big screens, and if you want to experience the concerts, we have a selection of ticket options.</p>
+                    <p>The cafe is open for 30 hours! Feel free to bring a sleeping bag if you need a little rest during the broadcast!</p>
                     <div class="button postButton"><a href="http://harmonien.no/english/concerts-and-tickets/2018/06/grieg-minute-by-minute/" target="_blank">Purchase tickets to Grieghallen here</a></div>
                     <h3>Friday at 21:50</h3>
                     <p>From the a-minor concerto to Peer Gynt. Hot dogs and wraps for sale.</p>

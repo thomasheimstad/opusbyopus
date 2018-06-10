@@ -4,6 +4,8 @@ import FaHome from 'react-icons/lib/fa/home';
 import MdList from 'react-icons/lib/md/list';
 import MdInfo from 'react-icons/lib/md/info-outline';
 import MdStar from "react-icons/lib/md/star-outline";
+import MdInfoEnglish from "react-icons/lib/md/info";
+
 import NavLink from 'gatsby-link';
 import GriegNightCircle250 from  '../../posts/img/GriegNightCircle250.png';
 
@@ -34,6 +36,11 @@ const Nav = ({showLangContent, handleLangClick, lang, showNav, handleNavClick, l
           <li onClick={handleNavClick}>
             <NavLink to="/info" activeClassName="active">
               <h3><MdInfo /> Info</h3>
+            </NavLink>
+          </li>
+          <li onClick={handleNavClick}>
+            <NavLink to="/en/info" activeClassName="active">
+              <h3><MdInfoEnglish /> English info</h3>
             </NavLink>
           </li>
         </ul>
