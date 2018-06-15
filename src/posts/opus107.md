@@ -12,6 +12,7 @@ description: EG 107
 author: Monica Jangaard
 thumbnail: ./img/opus107.jpg
 artists:
+  - Eivind Gullberg Jensen
   - Sjøforsvarets Musikkorps
 tags:
   - musikkorps

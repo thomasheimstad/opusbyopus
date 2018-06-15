@@ -13,8 +13,10 @@ author: Audun Kayser
 thumbnail: ./img/opus17.jpg
 artists:
   - Daniela Dawn Fietzek
+  - Vivian Tsui
   - Iiris Rissanen
   - Elena Reznikova
+  - Bojana Sovilj
 tags:
   - klaver
 ---

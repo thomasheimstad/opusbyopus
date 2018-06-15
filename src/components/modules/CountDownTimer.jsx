@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 export default class CountDownTimer extends React.Component {
   state = {
     days: '',
@@ -38,6 +39,9 @@ export default class CountDownTimer extends React.Component {
   render = () => {
     return(
       <div className="countDownTimer flex column">
+        <Helmet>
+          <script src="https://static.nrk.no/ludo/latest/video-embed.js"></script>
+        </Helmet>
         { !this.state.letsCelebrate ?
           <div className="flex center row wrap">
             <h2>{this.state.days}d</h2>
@@ -46,9 +50,14 @@ export default class CountDownTimer extends React.Component {
             <h2>{this.state.seconds}s</h2>
           </div>
           :
-        <div className="flex center button">
-          <a href="$"><h1>SE SENDINGEN HER</h1></a>
-        </div>
+          <div className="flex center">
+            <div className="button">
+              <a href="https://www.nrk.no/video/PS*a2c8daef-4299-48e9-ada1-27043c18d7d9">SE SENDINGEN LIVE</a>
+            </div>
+            <div className="button">
+              <a href="https://www.nrk.no/kultur/grieg_-minutt-for-minutt-1.14081196">FØLG NETTPRATEN</a>
+            </div>
+          </div>
         }
       </div>
     )
