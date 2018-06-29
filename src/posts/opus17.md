@@ -12,6 +12,7 @@ description: Opus 17
 author: Audun Kayser
 thumbnail: ./img/opus17.jpg
 artists:
+  - Julie Ye
   - Daniela Dawn Fietzek
   - Vivian Tsui
   - Iiris Rissanen
