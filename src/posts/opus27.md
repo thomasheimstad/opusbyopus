@@ -11,6 +11,7 @@ dedicatedTo: 'Robert Heckmann'
 description: Opus 27
 author: Erling Dahl jr.
 thumbnail: ./img/opus27.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002718/15-06-2018
 artists:
   - Engegårdkvartetten
 tags:

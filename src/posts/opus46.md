@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 46
 author: Arnulf Mattes
 thumbnail: ./img/opus46.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40004618/16-06-2018
 artists:
   - Miguel Harth-Bedoya
   - Kringkastingsorkestret

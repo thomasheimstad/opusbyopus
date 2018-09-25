@@ -11,6 +11,7 @@ dedicatedTo: 'Benjamin Godard'
 description: Opus 51
 author: Annett Schattauer
 thumbnail: ./img/opus51.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005118/16-06-2018
 artists:
   - Miguel Harth-Bedoya
   - Kringkastingsorkestret

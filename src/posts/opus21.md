@@ -11,6 +11,7 @@ dedicatedTo: 'Clara Winding'
 description: Opus 21
 author: Erling Dahl jr.
 thumbnail: ./img/opus21.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002118/15-06-2018
 artists:
   - Tora Augestad
   - Joachim Carr

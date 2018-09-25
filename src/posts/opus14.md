@@ -11,6 +11,7 @@ dedicatedTo: 'Christian Cappelen'
 description: Opus 14
 author: Del 1 Erling Dahl jr. Del 2 Monica Jangaard
 thumbnail: ./img/opus14.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40001418/15-06-2018
 artists:
   - Jorunn Marie Bratlie
   - Jens Harald Bratlie

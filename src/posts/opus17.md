@@ -11,6 +11,7 @@ dedicatedTo: 'Ole Bull'
 description: Opus 17
 author: Audun Kayser
 thumbnail: ./img/opus17.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40001718/15-06-2018
 artists:
   - Julie Ye
   - Daniela Dawn Fietzek

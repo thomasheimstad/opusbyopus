@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 55
 author: Arnulf Mattes
 thumbnail: ./img/opus55.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005518/16-06-2018
 artists:
   - Miguel Harth-Bedoya
   - Kringkastingsorkestret

@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 15
 author: Monica Jangaard
 thumbnail: ./img/opus15.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40001518/15-06-2018
 artists:
   - Tone Kummervold
   - Signe Bakke

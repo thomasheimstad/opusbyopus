@@ -11,6 +11,7 @@ dedicatedTo: 'August Fries'
 description: Opus 8
 author: Erling Dahl Jr.
 thumbnail: ./img/opus8.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000818/15-06-2018
 artists:
   - Henning Kraggerud
   - Leif Ove Andsnes

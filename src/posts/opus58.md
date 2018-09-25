@@ -11,6 +11,7 @@ dedicatedTo: 'Ingolf Schøtt'
 description: Opus 58
 author: Monica Jangaard
 thumbnail: ./img/opus58.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005818/16-06-2018
 artists:
   - Tuva Semmingsen
   - Joachim Kwetzinsky

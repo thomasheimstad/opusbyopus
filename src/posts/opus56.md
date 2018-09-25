@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 56
 author: Monica Jangaard
 thumbnail: ./img/opus56.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005618/16-06-2018
 artists:
   - Miguel Harth-Bedoya
   - Kringkastingsorkestret

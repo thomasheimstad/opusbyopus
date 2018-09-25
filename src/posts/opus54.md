@@ -11,6 +11,7 @@ dedicatedTo: 'Julius Röntgen'
 description: Opus 54
 author: Monica Jangaard
 thumbnail: ./img/opus54.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005418/16-06-2018
 artists:
   - Leif Ove Andsnes
 tags:

@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 22
 author: Monica Jangaard
 thumbnail: ./img/opus22.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002218/15-06-2018
 artists:
   - Bror Magnus Tødenes
   - Edward Gardner

@@ -11,6 +11,7 @@ dedicatedTo: 'Laura Gundersen'
 description: Opus 42
 author: Arnulf Mattes
 thumbnail: ./img/opus42.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40004218/16-06-2018
 artists:
   - Gørild Mauseth
   - Miguel Harth-Bedoya

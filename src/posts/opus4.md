@@ -11,6 +11,7 @@ dedicatedTo: Nina Hagerup
 description: Opus 4
 author: Monica Jangaard
 thumbnail: ./img/opus4.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000418/15-06-2018
 artists:
   - Isa Katharina Gericke
   - Tor Espen Aspaas

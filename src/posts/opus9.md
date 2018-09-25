@@ -11,6 +11,7 @@ dedicatedTo: 'Erika Lie'
 description: Opus 9
 author: Monica Jangaard
 thumbnail: ./img/opus9.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000918/15-06-2018
 artists:
   - Astrid Nordstad
   - Pål Eide

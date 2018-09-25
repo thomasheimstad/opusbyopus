@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 62
 author: Monica Jangaard
 thumbnail: ./img/opus62.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40006218/16-06-2018
 artists:
   - Geir Henning Braaten
 tags:

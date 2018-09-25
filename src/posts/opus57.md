@@ -11,6 +11,7 @@ dedicatedTo: 'Herrmann Scholtz'
 description: Opus 57
 author: Monica Jangaard
 thumbnail: ./img/opus57.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005718/16-06-2018
 artists:
   - Håkon Austbø
 tags:

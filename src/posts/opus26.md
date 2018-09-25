@@ -11,6 +11,7 @@ dedicatedTo: 'John Paulsen'
 description: Opus 26
 author: Monica Jangaard
 thumbnail: ./img/opus26.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002618/15-06-2018
 artists:
   - Thorbjørn Gulbrandsøy
   - Knut Christian Jansson

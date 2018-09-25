@@ -11,6 +11,7 @@ dedicatedTo: 'Johan Diederich Behrens'
 description: Opus 30
 author: Monica Jangaard
 thumbnail: ./img/opus30.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40003018/15-06-2018
 artists:
   - Den Norske Studentersangforening
   - Marit Tøndel Bodsberg

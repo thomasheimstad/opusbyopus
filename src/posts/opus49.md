@@ -11,6 +11,7 @@ dedicatedTo: 'Thorvald Lammers'
 description: Opus 49
 author: Monica Jangaard
 thumbnail: ./img/opus49.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40004918/16-06-2018
 artists:
   - Ann-Helen Moen
   - Marianna Shirinyan

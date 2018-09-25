@@ -11,6 +11,7 @@ dedicatedTo: 'Isidor Seiss'
 description: Opus 43
 author: Erling Dahl jr.
 thumbnail: ./img/opus43.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40004318/16-06-2018
 artists:
   - Pål Eide
 tags:

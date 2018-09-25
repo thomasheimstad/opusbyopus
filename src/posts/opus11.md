@@ -11,6 +11,7 @@ dedicatedTo: 'Kong Karl XV av Sverige og Norge'
 description: Opus 11
 author: Monica Jangaard
 thumbnail: ./img/opus11.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40001118/15-06-2018
 artists:
   - Miguel Harth-Bedoya
   - Kringkastingsorkestret

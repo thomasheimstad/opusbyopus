@@ -11,6 +11,7 @@ dedicatedTo: 'Mien Röntgen'
 description: Opus 71
 author: Monica Jangaard
 thumbnail: ./img/opus71.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40007118/16-06-2018
 artists:
   - Christian Grøvlen
 tags:

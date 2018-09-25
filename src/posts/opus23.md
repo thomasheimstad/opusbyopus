@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 23
 author: Annett Schattauer
 thumbnail: ./img/opus23.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002318/15-06-2018
 artists:
   - Svein Sturla Hungnes
   - Rune Reksten

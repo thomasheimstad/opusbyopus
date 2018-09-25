@@ -11,6 +11,7 @@ dedicatedTo: 'Hanchen Alme'
 description: Opus 59
 author: Monica Jangaard
 thumbnail: ./img/opus59.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005918/16-06-2018
 artists:
   - Njål Sparbo
   - Einar Røttingen

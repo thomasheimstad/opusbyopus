@@ -11,6 +11,7 @@ dedicatedTo: 'Nadine Helbig'
 description: Opus 41
 author: Monica Jangaard
 thumbnail: ./img/opus41.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40004118/16-06-2018
 artists:
   - Leonard Lindweld
   - Jonas Aune

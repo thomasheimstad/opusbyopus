@@ -11,6 +11,7 @@ dedicatedTo: 'Frederik Georg Knut Due'
 description: Opus 63
 author: Arnulf Mattes
 thumbnail: ./img/opus63.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40006318/16-06-2018
 artists:
   - Edward Gardner
   - Bergen Filharmoniske Orkester

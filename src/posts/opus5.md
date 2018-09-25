@@ -11,6 +11,7 @@ dedicatedTo: Hans Christian Andersen
 description: Opus 5
 author: Monica Jangaard
 thumbnail: ./img/opus5.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000518/15-06-2018
 artists:
   - Marius Roth Christensen
   - Reza Aghamir

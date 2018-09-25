@@ -11,6 +11,7 @@ dedicatedTo: 'Heinrich von Herzogenberg'
 description: Opus 34
 author: Monica Jangaard
 thumbnail: ./img/opus34.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40003418/16-06-2018
 artists:
   - Bergen Filharmoniske Ungdomsorkester
 tags:

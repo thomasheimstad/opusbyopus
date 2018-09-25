@@ -11,6 +11,7 @@ dedicatedTo: 'Betty Egeberg'
 description: Det første heftet med lyriske stykker for solo piano
 author: Monica Jangaard
 thumbnail: ./img/opus12.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40001218/15-06-2018
 artists:
   - Liv Glaser
 tags:

@@ -11,6 +11,7 @@ dedicatedTo: 'Bjørnstjerne Bjørnson'
 description: Opus 50
 author: Erling Dahl jr.
 thumbnail: ./img/opus50.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005018/16-06-2018
 artists:
   - Edward Gardner
   - Nina Gravrok

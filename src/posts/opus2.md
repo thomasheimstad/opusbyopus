@@ -11,6 +11,7 @@ dedicatedTo: Wibecke Meyer
 description: Opus 2
 author: Monica Jangaard
 thumbnail: img/opus2.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000218/15-06-2018
 artists:
   - Randi Stene
   - Tor Espen Aspaas

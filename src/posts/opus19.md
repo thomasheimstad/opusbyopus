@@ -11,6 +11,7 @@ dedicatedTo: 'J. P. E. Hartmann'
 description: Opus 19
 author: Erling Dahl jr.
 thumbnail: ./img/opus19.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40001918/15-06-2018
 artists:
   - Ole Christian Haagenrud
 tags:

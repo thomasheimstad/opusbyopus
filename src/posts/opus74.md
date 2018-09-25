@@ -11,6 +11,7 @@ dedicatedTo: 'Budtz Christie'
 description: Opus 74
 author: Erling Dahl jr.
 thumbnail: ./img/opus74.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40007418/16-06-2018
 artists:
   - Audun Iversen
   - Edvard Grieg Kor

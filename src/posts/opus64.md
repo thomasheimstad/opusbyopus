@@ -11,6 +11,7 @@ dedicatedTo: 'Arthur de Greef'
 description: Opus 64
 author: Erling Dahl jr.
 thumbnail: ./img/opus64.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40006418/16-06-2018
 artists:
   - Edward Gardner
   - Bergen Filharmoniske Orkester

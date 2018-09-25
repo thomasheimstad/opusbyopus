@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: EG 107
 author: Monica Jangaard
 thumbnail: ./img/opus107.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40007318/16-06-2018
 artists:
   - Eivind Gullberg Jensen
   - Sjøforsvarets Musikkorps

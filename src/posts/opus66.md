@@ -11,6 +11,7 @@ dedicatedTo: 'Frants Beyer'
 description: Opus 66
 author: Erling Dahl jr.
 thumbnail: ./img/opus66.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40006618/16-06-2018
 artists:
   - Ingfrid Breie Nyhus
 tags:

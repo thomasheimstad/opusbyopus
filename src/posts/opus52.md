@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 52
 author: Monica Jangaard
 thumbnail: ./img/opus52.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40005218/16-06-2018
 artists:
   - Marianna Shirinyan
 tags:

@@ -11,6 +11,7 @@ dedicatedTo: 'Ellen Nordgren Gulbranson'
 description: Opus 48
 author: Monica Jangaard
 thumbnail: ./img/opus48.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40004818/16-06-2018
 artists:
   - Lina Johnson
   - Ingrid Andsnes

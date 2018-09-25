@@ -11,6 +11,7 @@ dedicatedTo: 'Dagmar Møller'
 description: Opus 67
 author: Erling Dahl jr.
 thumbnail: ./img/opus67.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40006718/16-06-2018
 artists:
   - Adrian Angelico
   - Ingrid Andsnes

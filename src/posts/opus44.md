@@ -11,6 +11,7 @@ dedicatedTo: 'Holger Drachmann'
 description: Opus 44
 author: Monica Jangaard
 thumbnail: ./img/opus44.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40004418/16-06-2018
 artists:
   - Harald Bjørkøy
   - Simen Bredesen Hørthe

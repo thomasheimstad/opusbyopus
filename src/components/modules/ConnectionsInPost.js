@@ -42,6 +42,10 @@ export default class ConnectionsInPost extends React.Component {
               <h3>Dato {this.props.startDate}</h3>
               {this.props.startTime ? <h3>Starttid {this.props.startTime}</h3> : null}
               {this.props.location ? <h3>{this.props.location}</h3> : null}
+              {this.props.nrkLink ?
+                <div className="button"><a href={this.props.nrkLink} target="_blank"><h3>Se opus {this.props.opus} på NRK</h3></a></div> :
+                null
+              }
             </div> :
 
             null

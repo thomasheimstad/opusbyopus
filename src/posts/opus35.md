@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 35
 author: Erling Dahl jr.
 thumbnail: ./img/opus35.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40003518/16-06-2018
 artists:
   - Bergen Filharmoniske Ungdomsorkester
   - Signe Bakke

@@ -11,6 +11,7 @@ dedicatedTo: 'Hermann Kretzschmar'
 description: Opus 72
 author: Monica Jangaard
 thumbnail: ./img/opus72.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40007218/16-06-2018
 artists:
   - Einar Steen-Nøkleberg
 tags:

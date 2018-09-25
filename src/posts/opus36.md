@@ -11,6 +11,7 @@ dedicatedTo: 'John Grieg'
 description: Opus 36
 author: Erling Dahl jr.
 thumbnail: ./img/opus36.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40003618/16-06-2018
 artists:
   - Frida Fredrikke Waaler Wærvågen
   - Ingrid Andsnes

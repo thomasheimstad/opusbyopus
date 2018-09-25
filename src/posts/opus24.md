@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 24
 author: Monica Jangaard
 thumbnail: ./img/opus24.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002418/15-06-2018
 artists:
   - Christian Ihle Hadland
 tags:

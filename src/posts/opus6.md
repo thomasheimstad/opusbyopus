@@ -11,6 +11,7 @@ dedicatedTo: 'Rikard Nordraak'
 description: Fire humoresker for solo piano
 author: Erling Dahl Jr.
 thumbnail: ./img/opus6.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000618/15-06-2018
 artists:
   - Joachim Carr
 tags:

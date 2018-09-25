@@ -11,6 +11,7 @@ dedicatedTo: 'Ida Åqvist'
 description: Opus 29
 author: Erling Dahl jr.
 thumbnail: ./img/opus29.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002918/15-06-2018
 artists:
   - Jens Harald Bratlie
 tags:

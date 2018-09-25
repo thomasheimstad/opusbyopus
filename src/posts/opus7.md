@@ -11,6 +11,7 @@ dedicatedTo: 'Niels Wilhelm Gade'
 description: Opus 7
 author: Erling Dahl Jr.
 thumbnail: ./img/opus7.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000718/15-06-2018
 artists:
   - Tor Espen Aspaas
 tags:

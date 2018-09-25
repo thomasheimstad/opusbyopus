@@ -11,6 +11,7 @@ dedicatedTo: Benjamin Feddersen
 description: Opus 3
 author: Monica Jangaard
 thumbnail: ./img/opus3.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40000318/15-06-2018
 artists:
   - Torleif Torgersen
 tags:

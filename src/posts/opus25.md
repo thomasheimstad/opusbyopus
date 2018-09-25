@@ -11,6 +11,7 @@ dedicatedTo: 'Julius Steenberg'
 description: Opus 25
 author: Erling Dahl jr.
 thumbnail: ./img/opus25.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002518/15-06-2018
 artists:
   - Bror Magnus Tødenes
   - Christian Grøvlen

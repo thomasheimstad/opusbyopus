@@ -11,6 +11,7 @@ dedicatedTo: 'Gottfred Matthison-Hansen'
 description: Opus 32
 author: Monica Jangaard
 thumbnail: ./img/opus32.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40003218/15-06-2018
 artists:
   - Torodd Wigum
   - Aleksander Nohr

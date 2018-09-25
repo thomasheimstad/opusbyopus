@@ -11,6 +11,7 @@ dedicatedTo: 'Franz Liszt'
 description: Opus 20
 author: Arvid O. Vollsnes
 thumbnail: ./img/opus20.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40002018/15-06-2018
 artists:
   - Randi Stene
   - Lina Johnson

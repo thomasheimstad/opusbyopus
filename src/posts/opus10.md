@@ -11,6 +11,7 @@ dedicatedTo: ''
 description: Opus 10
 author: Monica Jangaard
 thumbnail: ./img/opus10.jpg
+nrkLink: https://tv.nrk.no/serie/grieg-minutt-for-minutt/DVFJ40001018/15-06-2018
 artists:
   - Mona Julsrud
   - Torleif Torgersen
